@@ -1,0 +1,14 @@
+{
+  "pets" : [
+    {
+      "folder" : "lemming",
+      "author" : "Zecheriah",
+      "lastupdate" : "2026-05-08"
+    },
+    {
+      "folder" : "mortimer",
+      "author" : "Zecheriah",
+      "lastupdate" : "2026-05-08"
+    }
+  ]
+}
