@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations xmlns:xsd="https://esheep.petrucci.ch/ https://raw.githubusercontent.com/Adrianotiger/desktopPet/master/Resources/animations.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://esheep.petrucci.ch/">
+  <header>
+    <author>Zecheriah</author>
+    <title>Lemmings</title>
+    <petname>Lemming</petname>
+    <version>0.1</version>
+    <info>The Lemming tribe has arrived to dethrone Pingus as the best DesktopPet! (Except not really because Lemming is moreso for me to get used to the pet editor.)[br] It literally just walks left and right. [br][br][br]Sprites are from Lemmings 1</info>
+    <application>1</application>
+    <icon><![CDATA[AAABAAEAMDAAAAAAIABaAQAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAAwAAAAMAgGAAAAVwL5hwAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA70lEQVRoQ+2PsQ0DMQzEvGmKjJiBMkCGcJpr/CbwF8S2VIgAu4NAtaW8Wp8k3N1x3DB3dxw3zN0dxw1zd8dxw9zdVijCNQUU5poCCnNNAYW5poDCXFNAYWD/vCd1IRiIJeuBbUAsmfcBgGJddSIWCnPViVgozFUnYqEwV52IhcJcdSIWCns8+6Tm+agHoqkHoqFYekrzfNQD0dQD0fzzgLPZTj1ws9lOPXCz2Q49QGo+UA+sgGJJzQfqgV+hMFLzgWvskeArFEtqPlAPrIBiSc0H6oEVUASpeT4oltQ8HxRLap4PiiU1zwfFkppvorUvVfkEbHacORYAAAAASUVORK5CYII=]]></icon>
+  </header>
+  <image>
+    <tilesx>8</tilesx>
+    <tilesy>2</tilesy>
+    <png><![CDATA[iVBORw0KGgoAAAANSUhEUgAAAIAAAAAUCAYAAABFyTWeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGvSURBVGhD5ZdRasQwDERz0370iD3QHqCHSD2uZ1HMwkYzBmXJA1Fi9kkap5Tudll+tv3w825cIj+GOwu4IThf8aOr+MBxAV13vuJHV/Eh7b8Po0GDrui78y2/ObfOD5llLyBwmC9w8IUdXB+47nO+gOt3vr730gWc+aDSZ/ZP3b/jNoCLHuMxTbXv5qev9oDv7ODuX/YCuLQ7370A+E4P1efnV8x38j8XGI8pMFj15wvohwKVPl0U8mRexCXyU2ZlAoDZH8enWXEJdLO7A7pqj9kfx6epzt8XiGKmySs340eu4mb6vHIzfqTK/YdfYcSvMh/PrfMjNEthxeW582NlcVxAT/WBOz9WmiHKf0Ks4Y04X+kRfYVFfi+FOF/pEX0VyKxxlMNZYLjyfNdvuH5p/obr9wbqf6DAXWDF/GqfNY5SlO5PWW3A4GUBGnDRYzymqfZL748yG2SDzH4W1wfWBTTgMnc2P4i+guu7+fsCbJBZBJ/l8Ngji+OClb7yIugrLojzFSw/yk742Ocs8y9P1gexxzhKEd075u8NlOBgdrO9HDdyFTfby3Ej791t+wMbfMZJ91CEFQAAAABJRU5ErkJggg==]]></png>
+    <transparency>Magenta</transparency>
+  </image>
+  <spawns>
+    <spawn id="1" probability="20">
+      <x>screenW*random/100</x>
+      <y>-imageH*2</y>
+      <next probability="0">3</next>
+    </spawn>
+  </spawns>
+  <animations>
+    <animation id="1">
+      <name>walk</name>
+      <start>
+        <x>-2</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>75</interval>
+      </start>
+      <end>
+        <x>-2</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>75</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="40">
+        <frame>7</frame>
+        <frame>6</frame>
+        <frame>5</frame>
+        <frame>4</frame>
+        <frame>3</frame>
+        <frame>2</frame>
+        <frame>1</frame>
+        <frame>0</frame>
+        <next probability="50" only="none">1</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">2</next>
+        <next probability="10" only="window">1</next>
+      </border>
+      <gravity>
+        <next probability="10" only="none">4</next>
+      </gravity>
+    </animation>
+    <animation id="2">
+      <name>rotate1</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>5</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>5</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>1</frame>
+        <next probability="50" only="none">1</next>
+        <action>flip</action>
+      </sequence>
+    </animation>
+    <animation id="3">
+      <name>spawn</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>5</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>5</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>6</frame>
+        <next probability="10" only="none">4</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="4">
+      <name>fall</name>
+      <start>
+        <x>0</x>
+        <y>5</y>
+        <offsety>-9</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>5</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="500">
+        <frame>0</frame>
+        <frame>1</frame>
+        <frame>2</frame>
+        <frame>3</frame>
+        <frame>4</frame>
+        <frame>5</frame>
+        <frame>6</frame>
+        <frame>7</frame>
+        <next probability="10" only="none">4</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">1</next>
+      </border>
+    </animation>
+  </animations>
+  <childs />
+  <sounds>
+    <sound animationid="3">
+      <probability>100</probability>
+      <base64>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</base64>
+    </sound>
+  </sounds>
+</animations>
