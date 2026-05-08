@@ -85,17 +85,17 @@
       <name>spawn</name>
       <start>
         <x>0</x>
-        <y>0</y>
+        <y>5</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>5</interval>
+        <interval>40</interval>
       </start>
       <end>
         <x>0</x>
-        <y>0</y>
+        <y>5</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>5</interval>
+        <interval>40</interval>
       </end>
       <sequence repeatfrom="0" repeat="0">
         <frame>6</frame>
@@ -108,7 +108,7 @@
       <start>
         <x>0</x>
         <y>5</y>
-        <offsety>-9</offsety>
+        <offsety>0</offsety>
         <opacity>1</opacity>
         <interval>40</interval>
       </start>
