@@ -99,7 +99,7 @@
       </end>
       <sequence repeatfrom="0" repeat="0">
         <frame>6</frame>
-        <next probability="10" only="none">4</next>
+        <next probability="100" only="none">4</next>
         <action>none</action>
       </sequence>
     </animation>
