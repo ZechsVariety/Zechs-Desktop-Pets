@@ -47,7 +47,8 @@
         <frame>261</frame>
         <frame>262</frame>
         <frame>263</frame>
-        <next probability="50" only="none">1</next>
+        <next probability="90" only="none">1</next>
+        <next probability="10" only="none">2</next>
         <action>none</action>
       </sequence>
       <border>
@@ -55,6 +56,35 @@
       </border>
     </animation>
     <animation id="2">
+      <name>idle</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="20">
+        <frame>262</frame>
+        <next probability="50" only="none">1</next>
+        <next probability="10" only="none">3</next>
+        <next probability="5" only="window">5</next>
+        <next probability="20" only="none">2</next>
+        <next probability="5" only="taskbar">5</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="50" only="none">3</next>
+      </border>
+    </animation>
+    <animation id="3">
       <name>rotate1</name>
       <start>
         <x>0</x>
@@ -71,14 +101,14 @@
         <interval>200</interval>
       </end>
       <sequence repeatfrom="0" repeat="0">
-        <frame>3</frame>
-        <frame>9</frame>
-        <frame>10</frame>
-        <next probability="50" only="none">3</next>
+        <frame>262</frame>
+        <frame>263</frame>
+        <frame>256</frame>
+        <next probability="50" only="none">4</next>
         <action>flip</action>
       </sequence>
     </animation>
-    <animation id="3">
+    <animation id="4">
       <name>rotate2</name>
       <start>
         <x>0</x>
@@ -95,32 +125,106 @@
         <interval>200</interval>
       </end>
       <sequence repeatfrom="0" repeat="0">
-        <frame>10</frame>
-        <frame>9</frame>
-        <frame>3</frame>
-        <next probability="10" only="none">1</next>
+        <frame>263</frame>
+        <frame>262</frame>
+        <next probability="10" only="none">2</next>
         <action>none</action>
       </sequence>
     </animation>
-    <animation id="4">
-      <name>New</name>
+    <animation id="5">
+      <name>Twerk</name>
       <start>
         <x>0</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>20</interval>
+        <interval>60</interval>
       </start>
       <end>
         <x>0</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>20</interval>
+        <interval>60</interval>
       </end>
       <sequence repeatfrom="0" repeat="0">
         <frame>0</frame>
         <frame>1</frame>
+        <frame>2</frame>
+        <frame>3</frame>
+        <frame>4</frame>
+        <frame>5</frame>
+        <frame>6</frame>
+        <frame>7</frame>
+        <frame>8</frame>
+        <frame>9</frame>
+        <frame>10</frame>
+        <frame>11</frame>
+        <frame>12</frame>
+        <frame>13</frame>
+        <frame>14</frame>
+        <frame>15</frame>
+        <frame>16</frame>
+        <frame>17</frame>
+        <frame>18</frame>
+        <frame>19</frame>
+        <frame>20</frame>
+        <frame>21</frame>
+        <frame>22</frame>
+        <frame>23</frame>
+        <frame>24</frame>
+        <frame>25</frame>
+        <frame>26</frame>
+        <frame>27</frame>
+        <frame>28</frame>
+        <frame>29</frame>
+        <frame>30</frame>
+        <frame>31</frame>
+        <frame>32</frame>
+        <frame>33</frame>
+        <frame>34</frame>
+        <frame>35</frame>
+        <frame>36</frame>
+        <frame>37</frame>
+        <frame>38</frame>
+        <frame>39</frame>
+        <frame>40</frame>
+        <frame>41</frame>
+        <frame>42</frame>
+        <frame>43</frame>
+        <frame>44</frame>
+        <frame>45</frame>
+        <frame>46</frame>
+        <frame>47</frame>
+        <frame>48</frame>
+        <frame>49</frame>
+        <frame>50</frame>
+        <frame>51</frame>
+        <frame>52</frame>
+        <frame>53</frame>
+        <frame>54</frame>
+        <frame>55</frame>
+        <frame>56</frame>
+        <frame>57</frame>
+        <frame>58</frame>
+        <frame>59</frame>
+        <frame>60</frame>
+        <frame>61</frame>
+        <frame>62</frame>
+        <frame>63</frame>
+        <frame>64</frame>
+        <frame>65</frame>
+        <frame>66</frame>
+        <frame>67</frame>
+        <frame>68</frame>
+        <frame>69</frame>
+        <frame>70</frame>
+        <frame>71</frame>
+        <frame>72</frame>
+        <frame>73</frame>
+        <frame>74</frame>
+        <frame>75</frame>
+        <next probability="10" only="none">2</next>
         <action>none</action>
       </sequence>
     </animation>
