@@ -47,8 +47,9 @@
         <frame>261</frame>
         <frame>262</frame>
         <frame>263</frame>
-        <next probability="80" only="none">1</next>
-        <next probability="20" only="none">2</next>
+        <next probability="50" only="none">1</next>
+        <next probability="30" only="none">2</next>
+        <next probability="20" only="none">11</next>
         <action>none</action>
       </sequence>
       <border>
@@ -80,8 +81,8 @@
         <next probability="10" only="none">3</next>
         <next probability="5" only="window">5</next>
         <next probability="20" only="none">2</next>
-        <next probability="5" only="taskbar">5</next>
-        <next probability="2" only="none">8</next>
+        <next probability="5" only="taskbar">10</next>
+        <next probability="10" only="none">8</next>
         <action>none</action>
       </sequence>
       <gravity>
@@ -148,92 +149,92 @@
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>60</interval>
+        <interval>50</interval>
       </start>
       <end>
         <x>0</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>60</interval>
+        <interval>50</interval>
       </end>
       <sequence repeatfrom="0" repeat="0">
-        <frame>0</frame>
-        <frame>1</frame>
-        <frame>2</frame>
-        <frame>3</frame>
-        <frame>4</frame>
-        <frame>5</frame>
-        <frame>6</frame>
-        <frame>7</frame>
-        <frame>8</frame>
-        <frame>9</frame>
-        <frame>10</frame>
-        <frame>11</frame>
-        <frame>12</frame>
-        <frame>13</frame>
-        <frame>14</frame>
-        <frame>15</frame>
-        <frame>16</frame>
-        <frame>17</frame>
-        <frame>18</frame>
-        <frame>19</frame>
-        <frame>20</frame>
-        <frame>21</frame>
-        <frame>22</frame>
-        <frame>23</frame>
-        <frame>24</frame>
-        <frame>25</frame>
-        <frame>26</frame>
-        <frame>27</frame>
-        <frame>28</frame>
-        <frame>29</frame>
-        <frame>30</frame>
-        <frame>31</frame>
-        <frame>32</frame>
-        <frame>33</frame>
-        <frame>34</frame>
-        <frame>35</frame>
-        <frame>36</frame>
-        <frame>37</frame>
-        <frame>38</frame>
-        <frame>39</frame>
-        <frame>40</frame>
-        <frame>41</frame>
-        <frame>42</frame>
-        <frame>43</frame>
-        <frame>44</frame>
-        <frame>45</frame>
-        <frame>46</frame>
-        <frame>47</frame>
-        <frame>48</frame>
-        <frame>49</frame>
-        <frame>50</frame>
-        <frame>51</frame>
-        <frame>52</frame>
-        <frame>53</frame>
-        <frame>54</frame>
-        <frame>55</frame>
-        <frame>56</frame>
-        <frame>57</frame>
-        <frame>58</frame>
-        <frame>59</frame>
-        <frame>60</frame>
-        <frame>61</frame>
-        <frame>62</frame>
-        <frame>63</frame>
-        <frame>64</frame>
-        <frame>65</frame>
-        <frame>66</frame>
-        <frame>67</frame>
-        <frame>68</frame>
-        <frame>69</frame>
-        <frame>70</frame>
-        <frame>71</frame>
-        <frame>72</frame>
-        <frame>73</frame>
-        <frame>74</frame>
         <frame>75</frame>
+        <frame>74</frame>
+        <frame>73</frame>
+        <frame>72</frame>
+        <frame>71</frame>
+        <frame>70</frame>
+        <frame>69</frame>
+        <frame>68</frame>
+        <frame>67</frame>
+        <frame>66</frame>
+        <frame>65</frame>
+        <frame>64</frame>
+        <frame>63</frame>
+        <frame>62</frame>
+        <frame>61</frame>
+        <frame>60</frame>
+        <frame>59</frame>
+        <frame>58</frame>
+        <frame>57</frame>
+        <frame>56</frame>
+        <frame>55</frame>
+        <frame>54</frame>
+        <frame>53</frame>
+        <frame>52</frame>
+        <frame>51</frame>
+        <frame>50</frame>
+        <frame>49</frame>
+        <frame>48</frame>
+        <frame>47</frame>
+        <frame>46</frame>
+        <frame>45</frame>
+        <frame>44</frame>
+        <frame>43</frame>
+        <frame>42</frame>
+        <frame>41</frame>
+        <frame>40</frame>
+        <frame>39</frame>
+        <frame>38</frame>
+        <frame>37</frame>
+        <frame>36</frame>
+        <frame>35</frame>
+        <frame>34</frame>
+        <frame>33</frame>
+        <frame>32</frame>
+        <frame>31</frame>
+        <frame>30</frame>
+        <frame>29</frame>
+        <frame>28</frame>
+        <frame>27</frame>
+        <frame>26</frame>
+        <frame>25</frame>
+        <frame>24</frame>
+        <frame>23</frame>
+        <frame>22</frame>
+        <frame>21</frame>
+        <frame>20</frame>
+        <frame>19</frame>
+        <frame>18</frame>
+        <frame>17</frame>
+        <frame>16</frame>
+        <frame>15</frame>
+        <frame>14</frame>
+        <frame>13</frame>
+        <frame>12</frame>
+        <frame>11</frame>
+        <frame>10</frame>
+        <frame>9</frame>
+        <frame>8</frame>
+        <frame>7</frame>
+        <frame>6</frame>
+        <frame>5</frame>
+        <frame>4</frame>
+        <frame>3</frame>
+        <frame>2</frame>
+        <frame>1</frame>
+        <frame>0</frame>
         <next probability="10" only="none">2</next>
         <action>none</action>
       </sequence>
@@ -323,9 +324,276 @@
         <action>none</action>
       </sequence>
       <border>
-        <next probability="10" only="none">2</next>
-        <next probability="10" only="none">1</next>
+        <next probability="10" only="taskbar">2</next>
+        <next probability="10" only="window">1</next>
         <next probability="10" only="none">8</next>
+      </border>
+    </animation>
+    <animation id="10">
+      <name>Impressed</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>50</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>50</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>255</frame>
+        <frame>254</frame>
+        <frame>253</frame>
+        <frame>252</frame>
+        <frame>251</frame>
+        <frame>250</frame>
+        <frame>249</frame>
+        <frame>248</frame>
+        <frame>247</frame>
+        <frame>246</frame>
+        <frame>245</frame>
+        <frame>244</frame>
+        <frame>243</frame>
+        <frame>242</frame>
+        <frame>241</frame>
+        <frame>240</frame>
+        <frame>239</frame>
+        <frame>238</frame>
+        <frame>237</frame>
+        <frame>236</frame>
+        <frame>235</frame>
+        <frame>234</frame>
+        <frame>233</frame>
+        <frame>232</frame>
+        <frame>231</frame>
+        <frame>230</frame>
+        <frame>229</frame>
+        <frame>228</frame>
+        <frame>227</frame>
+        <frame>226</frame>
+        <frame>225</frame>
+        <frame>224</frame>
+        <frame>223</frame>
+        <frame>222</frame>
+        <frame>221</frame>
+        <frame>220</frame>
+        <frame>219</frame>
+        <frame>218</frame>
+        <frame>217</frame>
+        <frame>216</frame>
+        <frame>215</frame>
+        <frame>214</frame>
+        <frame>213</frame>
+        <frame>212</frame>
+        <frame>211</frame>
+        <frame>210</frame>
+        <frame>209</frame>
+        <frame>208</frame>
+        <frame>207</frame>
+        <frame>206</frame>
+        <frame>205</frame>
+        <frame>204</frame>
+        <frame>203</frame>
+        <frame>202</frame>
+        <frame>201</frame>
+        <frame>200</frame>
+        <frame>199</frame>
+        <frame>198</frame>
+        <frame>197</frame>
+        <frame>196</frame>
+        <frame>195</frame>
+        <frame>194</frame>
+        <frame>193</frame>
+        <frame>192</frame>
+        <frame>191</frame>
+        <frame>190</frame>
+        <frame>189</frame>
+        <frame>188</frame>
+        <frame>187</frame>
+        <frame>186</frame>
+        <frame>185</frame>
+        <frame>184</frame>
+        <frame>183</frame>
+        <frame>182</frame>
+        <frame>181</frame>
+        <frame>180</frame>
+        <frame>179</frame>
+        <frame>178</frame>
+        <frame>177</frame>
+        <frame>176</frame>
+        <frame>175</frame>
+        <frame>174</frame>
+        <frame>173</frame>
+        <frame>172</frame>
+        <frame>171</frame>
+        <frame>170</frame>
+        <frame>169</frame>
+        <frame>168</frame>
+        <frame>167</frame>
+        <frame>166</frame>
+        <frame>165</frame>
+        <frame>164</frame>
+        <frame>163</frame>
+        <frame>162</frame>
+        <frame>161</frame>
+        <frame>160</frame>
+        <frame>159</frame>
+        <frame>158</frame>
+        <frame>157</frame>
+        <frame>156</frame>
+        <frame>155</frame>
+        <frame>154</frame>
+        <frame>153</frame>
+        <frame>152</frame>
+        <frame>151</frame>
+        <frame>150</frame>
+        <frame>149</frame>
+        <frame>148</frame>
+        <frame>147</frame>
+        <frame>146</frame>
+        <frame>145</frame>
+        <frame>144</frame>
+        <frame>143</frame>
+        <frame>142</frame>
+        <frame>141</frame>
+        <frame>140</frame>
+        <frame>139</frame>
+        <frame>138</frame>
+        <frame>137</frame>
+        <frame>136</frame>
+        <frame>135</frame>
+        <frame>134</frame>
+        <frame>133</frame>
+        <frame>132</frame>
+        <frame>131</frame>
+        <frame>130</frame>
+        <frame>129</frame>
+        <frame>128</frame>
+        <frame>127</frame>
+        <frame>126</frame>
+        <frame>125</frame>
+        <frame>124</frame>
+        <frame>123</frame>
+        <frame>122</frame>
+        <frame>121</frame>
+        <frame>120</frame>
+        <frame>119</frame>
+        <frame>118</frame>
+        <frame>117</frame>
+        <frame>116</frame>
+        <frame>115</frame>
+        <frame>114</frame>
+        <frame>113</frame>
+        <frame>112</frame>
+        <frame>111</frame>
+        <frame>110</frame>
+        <frame>109</frame>
+        <frame>108</frame>
+        <frame>107</frame>
+        <frame>106</frame>
+        <frame>105</frame>
+        <frame>104</frame>
+        <frame>103</frame>
+        <frame>102</frame>
+        <frame>101</frame>
+        <frame>100</frame>
+        <frame>99</frame>
+        <frame>98</frame>
+        <frame>97</frame>
+        <frame>96</frame>
+        <frame>95</frame>
+        <frame>94</frame>
+        <frame>93</frame>
+        <frame>92</frame>
+        <frame>91</frame>
+        <frame>90</frame>
+        <frame>89</frame>
+        <frame>88</frame>
+        <frame>87</frame>
+        <frame>86</frame>
+        <frame>85</frame>
+        <frame>84</frame>
+        <frame>83</frame>
+        <frame>82</frame>
+        <frame>81</frame>
+        <frame>80</frame>
+        <frame>79</frame>
+        <frame>78</frame>
+        <frame>77</frame>
+        <frame>76</frame>
+        <next probability="10" only="none">7</next>
+        <action>flip</action>
+      </sequence>
+      <gravity>
+        <next probability="10" only="none">9</next>
+      </gravity>
+    </animation>
+    <animation id="11">
+      <name>runA</name>
+      <start>
+        <x>-12</x>
+        <y>-2</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>5</interval>
+      </start>
+      <end>
+        <x>-12</x>
+        <y>-2</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>5</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>256</frame>
+        <frame>257</frame>
+        <frame>259</frame>
+        <frame>260</frame>
+        <frame>261</frame>
+        <frame>262</frame>
+        <frame>263</frame>
+        <next probability="100" only="none">12</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="50" only="none">7</next>
+      </border>
+    </animation>
+    <animation id="12">
+      <name>runB</name>
+      <start>
+        <x>-6</x>
+        <y>2</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>10</interval>
+      </start>
+      <end>
+        <x>-2</x>
+        <y>2</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>10</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>256</frame>
+        <frame>257</frame>
+        <frame>259</frame>
+        <frame>260</frame>
+        <frame>261</frame>
+        <frame>262</frame>
+        <frame>263</frame>
+        <next probability="75" only="none">11</next>
+        <next probability="25" only="none">1</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="50" only="none">7</next>
       </border>
     </animation>
   </animations>
