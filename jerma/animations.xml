@@ -47,13 +47,16 @@
         <frame>261</frame>
         <frame>262</frame>
         <frame>263</frame>
-        <next probability="90" only="none">1</next>
-        <next probability="10" only="none">2</next>
+        <next probability="80" only="none">1</next>
+        <next probability="20" only="none">2</next>
         <action>none</action>
       </sequence>
       <border>
-        <next probability="50" only="none">2</next>
+        <next probability="50" only="none">7</next>
       </border>
+      <gravity>
+        <next probability="10" only="none">9</next>
+      </gravity>
     </animation>
     <animation id="2">
       <name>idle</name>
@@ -78,24 +81,25 @@
         <next probability="5" only="window">5</next>
         <next probability="20" only="none">2</next>
         <next probability="5" only="taskbar">5</next>
+        <next probability="2" only="none">8</next>
         <action>none</action>
       </sequence>
-      <border>
-        <next probability="50" only="none">3</next>
-      </border>
+      <gravity>
+        <next probability="10" only="none">9</next>
+      </gravity>
     </animation>
     <animation id="3">
       <name>rotate1</name>
       <start>
         <x>0</x>
-        <y>0</y>
+        <y>-1</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
         <interval>200</interval>
       </start>
       <end>
         <x>0</x>
-        <y>0</y>
+        <y>-1</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
         <interval>200</interval>
@@ -107,19 +111,22 @@
         <next probability="50" only="none">4</next>
         <action>flip</action>
       </sequence>
+      <gravity>
+        <next probability="10" only="none">9</next>
+      </gravity>
     </animation>
     <animation id="4">
       <name>rotate2</name>
       <start>
         <x>0</x>
-        <y>0</y>
+        <y>1</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
         <interval>200</interval>
       </start>
       <end>
         <x>0</x>
-        <y>0</y>
+        <y>1</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
         <interval>200</interval>
@@ -130,6 +137,9 @@
         <next probability="10" only="none">2</next>
         <action>none</action>
       </sequence>
+      <gravity>
+        <next probability="10" only="none">9</next>
+      </gravity>
     </animation>
     <animation id="5">
       <name>Twerk</name>
@@ -227,6 +237,96 @@
         <next probability="10" only="none">2</next>
         <action>none</action>
       </sequence>
+      <gravity>
+        <next probability="10" only="none">9</next>
+      </gravity>
+    </animation>
+    <animation id="7">
+      <name>rotateStart</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="20">
+        <frame>262</frame>
+        <next probability="10" only="none">3</next>
+        <action>none</action>
+      </sequence>
+      <gravity>
+        <next probability="10" only="none">9</next>
+      </gravity>
+    </animation>
+    <animation id="8">
+      <name>floatUp</name>
+      <start>
+        <x>0</x>
+        <y>-10</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>10</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>-10</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>10</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="random/10">
+        <frame>256</frame>
+        <frame>257</frame>
+        <frame>259</frame>
+        <frame>260</frame>
+        <frame>261</frame>
+        <frame>262</frame>
+        <frame>263</frame>
+        <next probability="90" only="none">9</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="9">
+      <name>floatDown</name>
+      <start>
+        <x>-3</x>
+        <y>5</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </start>
+      <end>
+        <x>-1</x>
+        <y>2</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="5">
+        <frame>256</frame>
+        <frame>257</frame>
+        <frame>259</frame>
+        <frame>260</frame>
+        <frame>261</frame>
+        <frame>262</frame>
+        <frame>263</frame>
+        <next probability="90" only="none">9</next>
+        <next probability="1" only="none">8</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">2</next>
+        <next probability="10" only="none">1</next>
+        <next probability="10" only="none">8</next>
+      </border>
     </animation>
   </animations>
   <childs />
