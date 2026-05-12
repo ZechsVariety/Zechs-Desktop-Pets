@@ -12,6 +12,13 @@ Play Pingus here: [https://pingus.seul.org/](https://pingus.seul.org/)
 
 
 
+## Additions
+
+* Restored screen climbing - now the Pingus can walk up the side of the screen again, and even fly around afterwards! (This was restored from Adriano's version)
+* Other edits to make the Pingus feel more lively
+
+
+
 ## Changelog
 
 v0.1 WIP

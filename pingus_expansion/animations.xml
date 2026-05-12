@@ -49,23 +49,24 @@
         <frame>9</frame>
         <frame>10</frame>
         <next probability="50" only="none">1</next>
-        <next probability="2" only="none">6</next>
+        <next probability="2" only="taskbar">6</next>
         <next probability="3" only="taskbar">13</next>
-        <next probability="5" only="horizontal">14</next>
+        <next probability="5" only="none">14</next>
         <next probability="4" only="none">15</next>
         <next probability="5" only="window">16</next>
-        <next probability="10" only="taskbar">22</next>
+        <next probability="10" only="none">22</next>
         <next probability="5" only="window">26</next>
         <next probability="2" only="none">28</next>
         <action>none</action>
       </sequence>
       <border>
-        <next probability="50" only="none">5</next>
+        <next probability="50" only="window">5</next>
         <next probability="20" only="vertical">7</next>
         <next probability="20" only="window">17</next>
-        <next probability="10" only="horizontal">25</next>
-        <next probability="10" only="horizontal">27</next>
-        <next probability="20" only="none">28</next>
+        <next probability="10" only="vertical">25</next>
+        <next probability="10" only="vertical">27</next>
+        <next probability="20" only="window">28</next>
+        <next probability="50" only="vertical">29</next>
       </border>
       <gravity>
         <next probability="10" only="none">9</next>
@@ -239,7 +240,7 @@
         <frame>32</frame>
         <frame>33</frame>
         <next probability="50" only="none">7</next>
-        <next probability="5" only="none">8</next>
+        <next probability="2" only="none">8</next>
         <action>none</action>
       </sequence>
     </animation>
@@ -738,7 +739,7 @@
     <animation id="25">
       <name>miner</name>
       <start>
-        <x>-2</x>
+        <x>-1</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
@@ -751,7 +752,7 @@
         <opacity>1</opacity>
         <interval>100</interval>
       </end>
-      <sequence repeatfrom="0" repeat="0">
+      <sequence repeatfrom="0" repeat="5">
         <frame>118</frame>
         <frame>119</frame>
         <frame>120</frame>
@@ -766,7 +767,6 @@
         <frame>128</frame>
         <frame>129</frame>
         <next probability="90" only="none">25</next>
-        <next probability="10" only="none">1</next>
         <action>none</action>
       </sequence>
     </animation>
@@ -809,20 +809,20 @@
     <animation id="27">
       <name>basher</name>
       <start>
-        <x>0</x>
+        <x>-1</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
         <interval>100</interval>
       </start>
       <end>
-        <x>0</x>
+        <x>1</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
         <interval>100</interval>
       </end>
-      <sequence repeatfrom="0" repeat="0">
+      <sequence repeatfrom="0" repeat="2">
         <frame>144</frame>
         <frame>145</frame>
         <frame>146</frame>
@@ -835,8 +835,7 @@
         <frame>153</frame>
         <frame>154</frame>
         <frame>155</frame>
-        <next probability="20" only="none">1</next>
-        <next probability="5" only="none">27</next>
+        <next probability="5" only="none">5</next>
         <action>none</action>
       </sequence>
     </animation>
@@ -872,6 +871,32 @@
         <next probability="60" only="none">1</next>
         <action>flip</action>
       </sequence>
+    </animation>
+    <animation id="29">
+      <name>Flip</name>
+      <start>
+        <x>2</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>2</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>19</frame>
+        <next probability="50" only="none">1</next>
+        <next probability="5" only="none">17</next>
+        <action>flip</action>
+      </sequence>
+      <gravity>
+        <next probability="10" only="none">9</next>
+      </gravity>
     </animation>
   </animations>
   <childs>
