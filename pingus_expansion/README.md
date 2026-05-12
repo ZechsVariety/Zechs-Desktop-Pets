@@ -1,27 +1,26 @@
-# Pingus
+# Pingus Expansion
 
 ## Description
 
-Another old Screenmate: Pingus is from an open source game
+This is an expansion of [Adriano Petrucci's Pingus desktop pet](https://github.com/Adrianotiger/desktopPet/tree/master/Pets/pingus).
 
-This animation reproduce some of the game features like superman and so on.
-The game can be downloaded here: https://pingus.seul.org/
+I believe their version was a recreation/port of a Pingus screenmate from the '90s, but I plan to adapt some more animations from the Pingus game. So, this is not a faithful recreation, this is me just adding my own stuff.
 
-'90 screen mates in this project:
 
-* [eSheep](../esheep64) or the better [gSheep](../gsheep-green)
-* [Neko](../neko)
-* [Pingus](../pingus)
+
+Play Pingus here: [https://pingus.seul.org/](https://pingus.seul.org/)
 
 
 
 ## Changelog
 
-v0.1 first version
+v0.1 WIP
 
 ## About pet
 
-Author: Adriano Petrucci
+Author: Zecheriah
 
-Copyright: sprites from https://github.com/Pingus/
+Original Author: Adriano Petrucci
+
+Copyright: sprites and audio from [https://github.com/Pingus/](https://github.com/Pingus/)
 
