@@ -14,14 +14,16 @@ Play Pingus here: [https://pingus.seul.org/](https://pingus.seul.org/)
 
 ## Additions
 
-* Restored screen climbing - now the Pingus can walk up the side of the screen again, and even fly around afterwards! (This was restored from Adriano's version)
-* Other edits to make the Pingus feel more lively
+* Restored screen climbing - now the Pingus can waltz up the side of the screen again, and even fly around afterwards! (This was restored from Adriano's version)
+* Improved falling and imported the splat animation
+* The 3 digging animations now actually dig
+* Other tweaks to make the Pingus feel more polished and lively, without being too distracting
 
 
 
 ## Changelog
 
-v0.1 WIP
+Moved to Changelog.md
 
 ## About pet
 
