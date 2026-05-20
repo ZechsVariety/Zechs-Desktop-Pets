@@ -1089,8 +1089,8 @@
         <x>-2</x>
         <y>0</y>
         <offsety>0</offsety>
-        <opacity>1</opacity>
-        <interval>5</interval>
+        <opacity>0</opacity>
+        <interval>100</interval>
       </start>
       <end>
         <x>-2</x>
@@ -1113,7 +1113,7 @@
       </sequence>
     </animation>
     <animation id="36">
-      <name>Spawn P2</name>
+      <name>P2 Start</name>
       <start>
         <x>0</x>
         <y>0</y>
@@ -1126,13 +1126,12 @@
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>1000</interval>
+        <interval>500</interval>
       </end>
-      <sequence repeatfrom="1" repeat="50">
+      <sequence repeatfrom="0" repeat="0">
         <frame>167</frame>
         <frame>168</frame>
-        <frame>169</frame>
-        <next probability="10" only="none">9</next>
+        <next probability="10" only="none">38</next>
         <action>none</action>
       </sequence>
     </animation>
@@ -1154,6 +1153,50 @@
       </end>
       <sequence repeatfrom="0" repeat="50">
         <frame>213</frame>
+        <next probability="10" only="none">39</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="38">
+      <name>P2 Passed Out</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>10</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>10</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="((screenW - imageX) / 17 * 8) + 65">
+        <frame>169</frame>
+        <next probability="10" only="none">9</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="39">
+      <name>P2 Hop</name>
+      <start>
+        <x>-1</x>
+        <y>-5</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>-1</x>
+        <y>5</y>
+        <offsety>0</offsety>
+        <opacity>0</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="15">
+        <frame>211</frame>
         <action>none</action>
       </sequence>
     </animation>
