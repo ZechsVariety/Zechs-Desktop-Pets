@@ -58,6 +58,7 @@
         <next probability="5" only="window">26</next>
         <next probability="2" only="none">28</next>
         <next probability="2" only="taskbar">32</next>
+        <next probability="120" only="none">36</next>
         <action>none</action>
       </sequence>
       <border>
@@ -874,6 +875,7 @@
         <frame>167</frame>
         <next probability="30" only="none">28</next>
         <next probability="60" only="none">1</next>
+        <next probability="1" only="taskbar">36</next>
         <action>flip</action>
       </sequence>
       <gravity>
@@ -1084,20 +1086,20 @@
     <animation id="35">
       <name>P2 Walk</name>
       <start>
-        <x />
+        <x>-2</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>200</interval>
+        <interval>5</interval>
       </start>
       <end>
-        <x>0</x>
+        <x>-2</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
         <interval>200</interval>
       </end>
-      <sequence repeatfrom="0" repeat="10">
+      <sequence repeatfrom="0" repeat="(screenW - imageX) / 4">
         <frame>208</frame>
         <frame>209</frame>
         <frame>210</frame>
@@ -1106,12 +1108,36 @@
         <frame>213</frame>
         <frame>214</frame>
         <frame>215</frame>
-        <next probability="50" only="none">35</next>
+        <next probability="50" only="none">37</next>
         <action>none</action>
       </sequence>
     </animation>
     <animation id="36">
       <name>Spawn P2</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>500</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>1000</interval>
+      </end>
+      <sequence repeatfrom="2" repeat="50">
+        <frame>167</frame>
+        <frame>168</frame>
+        <frame>169</frame>
+        <next probability="10" only="none">9</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="37">
+      <name>P2 Stand</name>
       <start>
         <x>0</x>
         <y>0</y>
@@ -1126,10 +1152,8 @@
         <opacity>1</opacity>
         <interval>100</interval>
       </end>
-      <sequence repeatfrom="2" repeat="10">
-        <frame>167</frame>
-        <frame>168</frame>
-        <frame>169</frame>
+      <sequence repeatfrom="0" repeat="50">
+        <frame>213</frame>
         <action>none</action>
       </sequence>
     </animation>
@@ -1149,6 +1173,11 @@
       <x>imageX</x>
       <y>imageY</y>
       <next>23</next>
+    </child>
+    <child animationid="36">
+      <x>screenW</x>
+      <y>imageY</y>
+      <next>35</next>
     </child>
   </childs>
 </animations>
