@@ -31,5 +31,6 @@ v0.2 WIP
 * Fixed bullet premature exploding by making the explosion trigger at vertical borders only
 * Halved walk animation repeat amount and inversely increased its probability
 * Imported bomber animation for when you kill them
+* Created a super rare animation...
 * Other tweaks
 

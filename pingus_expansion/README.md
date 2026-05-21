@@ -18,6 +18,7 @@ Play Pingus here: [https://pingus.seul.org/](https://pingus.seul.org/)
 * Improved falling and imported the splat animation
 * The 3 digging animations now actually dig
 * You can explode them... (double right-click)
+* There's a secret...
 * Other tweaks to make the Pingus feel more polished and lively, without being too distracting
 
 

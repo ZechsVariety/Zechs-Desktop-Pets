@@ -58,7 +58,6 @@
         <next probability="5" only="window">26</next>
         <next probability="2" only="none">28</next>
         <next probability="2" only="taskbar">32</next>
-        <next probability="120" only="none">36</next>
         <action>none</action>
       </sequence>
       <border>
