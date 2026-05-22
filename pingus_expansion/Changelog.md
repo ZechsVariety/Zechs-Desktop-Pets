@@ -39,4 +39,5 @@ v0.2 (2026-05-20)
 V0.3 (WIP)
 
 * Added subtle recoil to rocket launcher
+* Added angel animation
 

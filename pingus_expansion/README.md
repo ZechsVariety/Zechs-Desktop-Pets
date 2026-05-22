@@ -14,11 +14,14 @@ Play Pingus here: [https://pingus.seul.org/](https://pingus.seul.org/)
 
 ## Additions
 
-* Restored screen climbing - now the Pingus can waltz up the side of the screen again, and even fly around afterwards! (This was restored from Adriano's version)
-* Improved falling and imported the splat animation
-* The 3 digging animations now actually dig
-* You can explode them... (double right-click)
-* There's a secret...
+* Several brand new animations:
+
+  * Improved falling (tumble and splat)
+  * You can now explode them (double right-click)
+  * Pingus turn to angels when they die
+  * A secret rare event...
+* Restored screen climbing functionality - now the Pingus can waltz up the side of the screen again, and even fly around like a bug! (Literally changed one line of code from Adriano's version)
+* The 3 pre-existing digging animations now actually dig instead of just being stationary
 * Other tweaks to make the Pingus feel more polished and lively, without being too distracting
 
 
@@ -26,6 +29,8 @@ Play Pingus here: [https://pingus.seul.org/](https://pingus.seul.org/)
 ## Changelog
 
 Moved to Changelog.md
+
+
 
 ## About pet
 
