@@ -40,5 +40,6 @@ V0.3 (WIP)
 
 * Added subtle recoil to rocket launcher
 * Added angel animation
+* Added sprinting (+ new death animation)
 * Other tweaks
 

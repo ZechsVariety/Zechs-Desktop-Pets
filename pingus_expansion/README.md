@@ -19,6 +19,7 @@ Play Pingus here: [https://pingus.seul.org/](https://pingus.seul.org/)
   * Improved falling (tumble and splat)
   * You can now explode them (double right-click)
   * Pingus turn to angels when they die
+  * They can now sprint (maybe a little too fast...)
   * A secret rare event...
 * Restored screen climbing functionality - now the Pingus can waltz up the side of the screen again, and even fly around like a bug! (Literally changed one line of code from Adriano's version)
 * The 3 pre-existing digging animations now actually dig instead of just being stationary

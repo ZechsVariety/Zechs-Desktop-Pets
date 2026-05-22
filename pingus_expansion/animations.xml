@@ -148,7 +148,7 @@
         <opacity>0</opacity>
         <interval>80</interval>
       </end>
-      <sequence repeatfrom="1" repeat="25">
+      <sequence repeatfrom="0" repeat="25">
         <frame>90</frame>
         <frame>90</frame>
         <action>none</action>
@@ -1260,11 +1260,11 @@
         <interval>100</interval>
       </start>
       <end>
-        <x>-2</x>
+        <x>-4</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>5</interval>
+        <interval>20</interval>
       </end>
       <sequence repeatfrom="0" repeat="4">
         <frame>3</frame>
@@ -1291,20 +1291,20 @@
     <animation id="43">
       <name>Sprint Loop</name>
       <start>
-        <x>-2</x>
+        <x>-3</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>5</interval>
+        <interval>15</interval>
       </start>
       <end>
-        <x>-2</x>
+        <x>-3</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>5</interval>
+        <interval>15</interval>
       </end>
-      <sequence repeatfrom="0" repeat="2">
+      <sequence repeatfrom="0" repeat="0">
         <frame>3</frame>
         <frame>4</frame>
         <frame>5</frame>
@@ -1313,8 +1313,8 @@
         <frame>8</frame>
         <frame>9</frame>
         <frame>10</frame>
-        <next probability="30" only="none">43</next>
-        <next probability="4" only="none">44</next>
+        <next probability="60" only="none">43</next>
+        <next probability="5" only="none">44</next>
         <next probability="2" only="none">45</next>
         <action>none</action>
       </sequence>
@@ -1322,11 +1322,11 @@
     <animation id="44">
       <name>Sprint End</name>
       <start>
-        <x>-2</x>
+        <x>-4</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>5</interval>
+        <interval>20</interval>
       </start>
       <end>
         <x>-2</x>
@@ -1354,14 +1354,14 @@
     <animation id="45">
       <name>Sprint Burn</name>
       <start>
-        <x>-2</x>
+        <x>-4</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>5</interval>
+        <interval>20</interval>
       </start>
       <end>
-        <x>-8</x>
+        <x>-16</x>
         <y>-4</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
@@ -1378,6 +1378,27 @@
         <frame>227</frame>
         <frame>228</frame>
         <next probability="10" only="none">40</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="46">
+      <name>Sprint Trail</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>0.25</opacity>
+        <interval>20</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>0</opacity>
+        <interval>20</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="7">
+        <frame>211</frame>
         <action>none</action>
       </sequence>
     </animation>
@@ -1402,6 +1423,11 @@
       <x>screenW</x>
       <y>imageY</y>
       <next>35</next>
+    </child>
+    <child animationid="43">
+      <x>imageX</x>
+      <y>imageY</y>
+      <next>46</next>
     </child>
   </childs>
 </animations>
