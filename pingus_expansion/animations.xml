@@ -149,7 +149,8 @@
         <opacity>0</opacity>
         <interval>80</interval>
       </end>
-      <sequence repeatfrom="0" repeat="25">
+      <sequence repeatfrom="1" repeat="25">
+        <frame>191</frame>
         <frame>90</frame>
         <frame>90</frame>
         <action>none</action>
@@ -1041,7 +1042,7 @@
         <frame>189</frame>
         <frame>190</frame>
         <frame>70</frame>
-        <next probability="10" only="none">42</next>
+        <next probability="10" only="none">40</next>
         <action>none</action>
       </sequence>
     </animation>
@@ -1080,7 +1081,7 @@
         <frame>206</frame>
         <frame>207</frame>
         <frame>191</frame>
-        <next probability="10" only="none">42</next>
+        <next probability="10" only="none">40</next>
         <action>none</action>
       </sequence>
     </animation>
@@ -1217,7 +1218,8 @@
         <opacity>1</opacity>
         <interval>150</interval>
       </end>
-      <sequence repeatfrom="0" repeat="2">
+      <sequence repeatfrom="1" repeat="2">
+        <frame>191</frame>
         <frame>216</frame>
         <frame>217</frame>
         <frame>218</frame>
@@ -1247,28 +1249,6 @@
         <frame>217</frame>
         <frame>218</frame>
         <frame>219</frame>
-        <action>none</action>
-      </sequence>
-    </animation>
-    <animation id="42">
-      <name>AngelFlickerFix</name>
-      <start>
-        <x>0</x>
-        <y>0</y>
-        <offsety>0</offsety>
-        <opacity>0</opacity>
-        <interval>5</interval>
-      </start>
-      <end>
-        <x>0</x>
-        <y>0</y>
-        <offsety>0</offsety>
-        <opacity>0</opacity>
-        <interval>5</interval>
-      </end>
-      <sequence repeatfrom="0" repeat="0">
-        <frame>191</frame>
-        <next probability="10" only="none">40</next>
         <action>none</action>
       </sequence>
     </animation>
