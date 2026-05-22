@@ -26,11 +26,17 @@ v0.1 (2026-05-12)
 
 
 
-v0.2 WIP
+v0.2 (2026-05-20)
 
 * Fixed bullet premature exploding by making the explosion trigger at vertical borders only
 * Halved walk animation repeat amount and inversely increased its probability
 * Imported bomber animation for when you kill them
 * Created a super rare animation...
 * Other tweaks
+
+
+
+V0.3 (WIP)
+
+* Added subtle recoil to rocket launcher
 
