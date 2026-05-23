@@ -178,6 +178,7 @@
         <frame>15</frame>
         <frame>16</frame>
         <next probability="10" only="none">1</next>
+        <next probability="1" only="none">42</next>
         <action>flip</action>
       </sequence>
       <gravity>
@@ -900,6 +901,7 @@
         <frame>19</frame>
         <next probability="50" only="none">1</next>
         <next probability="5" only="none">17</next>
+        <next probability="5" only="none">42</next>
         <action>flip</action>
       </sequence>
       <gravity>
