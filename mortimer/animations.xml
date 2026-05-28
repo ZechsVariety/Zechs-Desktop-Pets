@@ -4,7 +4,7 @@
     <author>Zecheriah</author>
     <title>Mortimer</title>
     <petname>Mortimer</petname>
-    <version>0.2</version>
+    <version>0.3</version>
     <info>Info about pet type shit</info>
     <application>1</application>
     <icon><![CDATA[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]]></icon>
@@ -52,6 +52,9 @@
       <border>
         <next probability="50" only="none">2</next>
       </border>
+      <gravity>
+        <next probability="10" only="none">11</next>
+      </gravity>
     </animation>
     <animation id="2">
       <name>rotate a</name>
@@ -98,7 +101,7 @@
       </sequence>
     </animation>
     <animation id="4">
-      <name>Idle</name>
+      <name>idle</name>
       <start>
         <x>0</x>
         <y>0</y>
@@ -121,9 +124,12 @@
         <next probability="10" only="none">6</next>
         <action>none</action>
       </sequence>
+      <gravity>
+        <next probability="10" only="none">11</next>
+      </gravity>
     </animation>
     <animation id="5">
-      <name>Blink</name>
+      <name>blink</name>
       <start>
         <x>0</x>
         <y>0</y>
@@ -163,7 +169,146 @@
       <sequence repeatfrom="0" repeat="5">
         <frame>0</frame>
         <next probability="10" only="none">6</next>
+        <next probability="10" only="none">7</next>
         <action>flip</action>
+      </sequence>
+    </animation>
+    <animation id="7">
+      <name>fall start</name>
+      <start>
+        <x>0</x>
+        <y>-3</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="3">
+        <frame>0</frame>
+        <next probability="10" only="none">8</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="8">
+      <name>fall slow</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>15</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="4">
+        <frame>1</frame>
+        <next probability="10" only="none">9</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">10</next>
+      </border>
+    </animation>
+    <animation id="9">
+      <name>fall fast</name>
+      <start>
+        <x>0</x>
+        <y>15</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>15</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>5</frame>
+        <next probability="10" only="none">9</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">12</next>
+      </border>
+    </animation>
+    <animation id="10">
+      <name>land</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>200</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>200</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>2</frame>
+        <next probability="10" only="none">4</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="11">
+      <name>notice gravity</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>200</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>200</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>6</frame>
+        <next probability="10" only="none">7</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="12">
+      <name>slam</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>500</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>500</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>1</frame>
+        <next probability="10" only="none">4</next>
+        <action>none</action>
       </sequence>
     </animation>
   </animations>
