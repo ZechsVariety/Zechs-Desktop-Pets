@@ -57,7 +57,7 @@
         <next probability="2" only="none">28</next>
         <next probability="2" only="taskbar">32</next>
         <next probability="10" only="none">42</next>
-        <next probability="100" only="none">47</next>
+        <next probability="100" only="taskbar">47</next>
         <action>none</action>
       </sequence>
       <border>
@@ -1474,7 +1474,37 @@
         <opacity>1</opacity>
         <interval>100</interval>
       </end>
-      <sequence repeatfrom="0" repeat="0">
+      <sequence repeatfrom="0" repeat="10">
+        <frame>3</frame>
+        <frame>4</frame>
+        <frame>5</frame>
+        <frame>6</frame>
+        <frame>7</frame>
+        <frame>8</frame>
+        <frame>9</frame>
+        <frame>10</frame>
+        <next probability="10" only="none">49</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="50">
+      <name>Xmas Hat</name>
+      <start>
+        <x>-2</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>-2</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="10">
+        <frame>229</frame>
         <frame>230</frame>
         <frame>231</frame>
         <frame>232</frame>
@@ -1482,13 +1512,9 @@
         <frame>234</frame>
         <frame>235</frame>
         <frame>236</frame>
-        <frame>237</frame>
-        <next probability="10" only="none">49</next>
+        <next probability="10" only="none">50</next>
         <action>none</action>
       </sequence>
-      <gravity>
-        <next probability="10" only="none">34</next>
-      </gravity>
     </animation>
   </animations>
   <childs>
@@ -1521,6 +1547,11 @@
       <x>screenW</x>
       <y>imageY</y>
       <next>49</next>
+    </child>
+    <child animationid="48">
+      <x>screenW</x>
+      <y>imageY - 20</y>
+      <next>50</next>
     </child>
   </childs>
 </animations>
