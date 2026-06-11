@@ -1406,29 +1406,6 @@
       </sequence>
     </animation>
     <animation id="47">
-      <name>Xmas Start</name>
-      <start>
-        <x>0</x>
-        <y>0</y>
-        <offsety>0</offsety>
-        <opacity>1</opacity>
-        <interval>200</interval>
-      </start>
-      <end>
-        <x>0</x>
-        <y>0</y>
-        <offsety>0</offsety>
-        <opacity>1</opacity>
-        <interval>200</interval>
-      </end>
-      <sequence repeatfrom="0" repeat="0">
-        <frame>11</frame>
-        <frame>12</frame>
-        <next probability="10" only="none">48</next>
-        <action>none</action>
-      </sequence>
-    </animation>
-    <animation id="48">
       <name>Xmas Spawner</name>
       <start>
         <x>0</x>
@@ -1444,21 +1421,18 @@
         <opacity>1</opacity>
         <interval>200</interval>
       </end>
-      <sequence repeatfrom="0" repeat="2">
+      <sequence repeatfrom="0" repeat="5">
         <frame>13</frame>
         <frame>14</frame>
-        <next probability="50" only="none">48</next>
+        <next probability="50" only="none">47</next>
         <next probability="20" only="none">1</next>
         <action>none</action>
-      </sequence>
-      <border>
-        <next probability="10" only="none">1</next>
-      </border>
+      </sequence>.
       <gravity>
         <next probability="10" only="none">9</next>
       </gravity>
     </animation>
-    <animation id="49">
+    <animation id="48">
       <name>Xmas Walk</name>
       <start>
         <x>-2</x>
@@ -1483,23 +1457,23 @@
         <frame>8</frame>
         <frame>9</frame>
         <frame>10</frame>
-        <next probability="10" only="none">49</next>
+        <next probability="10" only="none">48</next>
         <action>none</action>
       </sequence>
     </animation>
-    <animation id="50">
+    <animation id="49">
       <name>Xmas Hat</name>
       <start>
         <x>-2</x>
         <y>0</y>
-        <offsety>0</offsety>
+        <offsety>-20</offsety>
         <opacity>1</opacity>
         <interval>100</interval>
       </start>
       <end>
         <x>-2</x>
         <y>0</y>
-        <offsety>0</offsety>
+        <offsety>-20</offsety>
         <opacity>1</opacity>
         <interval>100</interval>
       </end>
@@ -1512,7 +1486,7 @@
         <frame>234</frame>
         <frame>235</frame>
         <frame>236</frame>
-        <next probability="10" only="none">50</next>
+        <next probability="10" only="none">49</next>
         <action>none</action>
       </sequence>
     </animation>
@@ -1543,15 +1517,15 @@
       <y>imageY</y>
       <next>46</next>
     </child>
-    <child animationid="48">
+    <child animationid="47">
       <x>screenW</x>
       <y>imageY</y>
-      <next>49</next>
+      <next>48</next>
     </child>
-    <child animationid="48">
-      <x>screenW</x>
-      <y>imageY - 20</y>
-      <next>50</next>
+    <child animationid="47">
+      <x>screenW - 9</x>
+      <y>imageY</y>
+      <next>49</next>
     </child>
   </childs>
 </animations>
