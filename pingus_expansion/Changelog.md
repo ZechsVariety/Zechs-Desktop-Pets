@@ -36,11 +36,17 @@ v0.2 (2026-05-20)
 
 
 
-V0.3 (WIP)
+V0.3 (2026-06-11)
 
 * Added subtle recoil to rocket launcher
 * Added angel animation
 * Added sprinting (+ new death animation)
 * Added another rare event...
 * Other tweaks
+
+
+
+V0.4 (WIP)
+
+* Added jump that triggers if Pingu touches the ground right after being dragged (and also when you drop it below the taskbar)
 
