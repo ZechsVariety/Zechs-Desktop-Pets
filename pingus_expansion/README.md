@@ -21,7 +21,7 @@ Play Pingus here: [https://pingus.seul.org/](https://pingus.seul.org/)
   * Pingus turn to angels when they die
   * They can now sprint (maybe a little too fast...)
   * You can make them jump
-  * Two secret rare events...
+  * Three secret rare events...
 
     * Note: these may or may not only work when the Pingu is walking left :(
 * Restored screen climbing functionality - now the Pingus can waltz up the side of the screen again, and even fly around like a bug! (Literally changed one line of code from Adriano's version)
@@ -32,7 +32,7 @@ Play Pingus here: [https://pingus.seul.org/](https://pingus.seul.org/)
 
 ## Changelog
 
-Moved to Changelog.md
+Moved to [Changelog.md](https://github.com/ZechsVariety/Zechs-Desktop-Pets/blob/main/pingus_expansion/Changelog.md)
 
 
 
