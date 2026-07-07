@@ -50,4 +50,5 @@ V0.4 (WIP)
 
 * Added jump that triggers if Pingu touches the ground right after being dragged (and also when you drop it below the taskbar)
 * Added rare easter egg
+* Added extremely rare event when making Pingu jump
 

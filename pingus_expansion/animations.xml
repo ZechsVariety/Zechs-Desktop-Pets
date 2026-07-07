@@ -101,7 +101,8 @@
         <action>none</action>
       </sequence>
       <border>
-        <next probability="10" only="none">51</next>
+        <next probability="99" only="none">51</next>
+        <next probability="1" only="none">55</next>
       </border>
     </animation>
     <animation id="3">
@@ -1647,6 +1648,80 @@
         <next probability="10" only="none">9</next>
       </gravity>
     </animation>
+    <animation id="55">
+      <name>Balloon Storm</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>5</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>5</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="5">
+        <frame>71</frame>
+        <next probability="50" only="none">55</next>
+        <next probability="3" only="none">51</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="56">
+      <name>BS Balloon</name>
+      <start>
+        <x>(random - 50) / 30</x>
+        <y>-1</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>20</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>-100</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>20</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="500">
+        <frame>90</frame>
+        <frame>90</frame>
+        <frame>90</frame>
+        <frame>90</frame>
+        <frame>90</frame>
+        <frame>91</frame>
+        <frame>91</frame>
+        <frame>91</frame>
+        <frame>91</frame>
+        <frame>91</frame>
+        <frame>91</frame>
+        <frame>91</frame>
+        <frame>91</frame>
+        <frame>91</frame>
+        <frame>91</frame>
+        <frame>90</frame>
+        <frame>90</frame>
+        <frame>90</frame>
+        <frame>90</frame>
+        <frame>90</frame>
+        <frame>92</frame>
+        <frame>92</frame>
+        <frame>92</frame>
+        <frame>92</frame>
+        <frame>92</frame>
+        <frame>92</frame>
+        <frame>92</frame>
+        <frame>92</frame>
+        <frame>92</frame>
+        <frame>92</frame>
+        <next probability="10" only="none">4</next>
+        <action>none</action>
+      </sequence>
+    </animation>
   </animations>
   <childs>
     <child animationid="50">
@@ -1688,6 +1763,11 @@
       <x>screenW</x>
       <y>imageY</y>
       <next>53</next>
+    </child>
+    <child animationid="55">
+      <x>imageX</x>
+      <y>imageY</y>
+      <next>56</next>
     </child>
   </childs>
 </animations>

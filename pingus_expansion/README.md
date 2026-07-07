@@ -21,9 +21,9 @@ Play Pingus here: [https://pingus.seul.org/](https://pingus.seul.org/)
   * Pingus turn to angels when they die
   * They can now sprint (maybe a little too fast...)
   * You can make them jump
-  * Three secret rare events...
+  * Four secret rare events...
 
-    * Note: these may or may not only work when the Pingu is walking left :(
+    * Note: some of these only work when the Pingu is walking left lol
 * Restored screen climbing functionality - now the Pingus can waltz up the side of the screen again, and even fly around like a bug! (Literally changed one line of code from Adriano's version)
 * The 3 pre-existing digging animations now actually dig instead of just being stationary
 * Other tweaks to make the Pingus feel more polished and lively, without being too distracting
