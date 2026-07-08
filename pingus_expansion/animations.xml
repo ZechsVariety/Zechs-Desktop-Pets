@@ -67,6 +67,7 @@
         <next probability="10" only="vertical">27</next>
         <next probability="20" only="window">28</next>
         <next probability="50" only="vertical">29</next>
+        <next probability="5" only="none">57</next>
       </border>
       <gravity>
         <next probability="10" only="none">9</next>
@@ -182,6 +183,7 @@
         <frame>16</frame>
         <next probability="10" only="none">1</next>
         <next probability="1" only="none">42</next>
+        <next probability="5" only="none">57</next>
         <action>flip</action>
       </sequence>
       <gravity>
@@ -1721,6 +1723,72 @@
         <next probability="10" only="none">4</next>
         <action>none</action>
       </sequence>
+    </animation>
+    <animation id="57">
+      <name>MoonwalkA</name>
+      <start>
+        <x>4</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>60</interval>
+      </start>
+      <end>
+        <x>3</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>250</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>3</frame>
+        <frame>4</frame>
+        <frame>5</frame>
+        <frame>6</frame>
+        <frame>6</frame>
+        <next probability="50" only="none">58</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="vertical">9</next>
+        <next probability="10" only="window">5</next>
+      </border>
+      <gravity>
+        <next probability="10" only="none">9</next>
+      </gravity>
+    </animation>
+    <animation id="58">
+      <name>MoonwalkB</name>
+      <start>
+        <x>4</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>60</interval>
+      </start>
+      <end>
+        <x>3</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>250</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>7</frame>
+        <frame>8</frame>
+        <frame>9</frame>
+        <frame>10</frame>
+        <frame>10</frame>
+        <next probability="50" only="none">57</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="vertical">9</next>
+        <next probability="10" only="window">5</next>
+      </border>
+      <gravity>
+        <next probability="10" only="none">9</next>
+      </gravity>
     </animation>
   </animations>
   <childs>

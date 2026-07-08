@@ -49,6 +49,7 @@ V0.3 (2026-06-11)
 V0.4 (WIP)
 
 * Added jump that triggers if Pingu touches the ground right after being dragged (and also when you drop it below the taskbar)
+* Added moonwalk animation
 * Added rare easter egg
-* Added extremely rare event when making Pingu jump
+* Added extremely rare event when making Pingu jump...
 
