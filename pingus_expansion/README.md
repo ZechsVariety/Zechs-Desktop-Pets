@@ -25,6 +25,7 @@ Play Pingus here: [https://pingus.seul.org/](https://pingus.seul.org/)
   * Four secret rare events...
 
     * Note: some of these only work when the Pingu is walking left lol
+  * And more!
 * Restored screen climbing functionality - now the Pingus can waltz up the side of the screen again, and even fly around like a bug! (Literally changed one line of code from Adriano's version)
 * The 3 pre-existing digging animations now actually dig instead of just being stationary
 * Other tweaks to make the Pingus feel more polished and lively, without being too distracting
