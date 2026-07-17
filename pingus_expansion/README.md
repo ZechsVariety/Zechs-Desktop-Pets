@@ -14,7 +14,7 @@ Play Pingus here: [https://pingus.seul.org/](https://pingus.seul.org/)
 
 ## Additions
 
-* Several brand new animations:
+* Several brand new animations (with +81 new sprites!):
 
   * Improved falling (tumble and splat)
   * You can now explode them (double right-click)

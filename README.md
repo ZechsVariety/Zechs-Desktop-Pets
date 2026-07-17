@@ -1,12 +1,20 @@
 # Zech's-Desktop-Pets
 
-Pets I've made for DesktopPet (eSheep)
+Pets I've made for [DesktopPet (eSheep)](https://adrianotiger.github.io/desktopPet/)
 
 
 
-PLEASE NOTE:
+### The good ones:
 
-Not all of these are finished, so use at your own risk. Worst case scenario, consult the task manager.
+* [Pingus Expansion](https://github.com/ZechsVariety/Zechs-Desktop-Pets/tree/main/pingus_expansion) | v0.4
+
+  * An expansion of the original Pingus pet, with double the stuff. I added basically anything I could think of, and I had a lot of fun with it, though I tried to keep it subtle.
+* [Jerma the Spinning Top](https://github.com/ZechsVariety/Zechs-Desktop-Pets/tree/main/jerma) | v1.0
+
+  * Annoying like a fly, Jerma will constantly pry for your attention, though he'll sometimes stop to cheer you on. He's pretty simple. There's also a version with smaller sprites: [Compact Jerma](https://github.com/ZechsVariety/Zechs-Desktop-Pets/tree/main/jerma_compact)
+* [Mortimer](https://github.com/ZechsVariety/Zechs-Desktop-Pets/tree/mortimer/mortimer) (separate branch) | v0.3
+
+  * Very unfinished.
 
 
 
@@ -14,16 +22,16 @@ Not all of these are finished, so use at your own risk. Worst case scenario, con
 
 
 
-1. Download eSheep from the Microsoft Store
-2. In eSheep, click "Application settings" and toggle "Show developer options"
-3. Paste this link: https://raw.githubusercontent.com/ZechsVariety/Zechs-Desktop-Pets/master/pets.json
-4. Go to "Pet selection," and my pets should be available!
+1. [Download eSheep](https://adrianotiger.github.io/desktopPet/Download.html)
+2. Download whichever character you want (download its "animations.xml" file)
+3. Open eSheep
+4. Grab the animations.xml file you downloaded, and drag it onto the sheep
 
 
 
-###### ALTERNATE METHOD (probably works without internet):
+PLEASE NOTE:
 
-1. Download whichever character you want
-2. Open eSheep
-3. Drag and drop the "animations.xml" file onto the sheep
+Some of these are unfinished and may have issues. Worst case scenario, consult the task manager.
+
+
 

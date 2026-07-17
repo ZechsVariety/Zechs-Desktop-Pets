@@ -4,15 +4,15 @@
     <author>Zecheriah</author>
     <title>Lemmings</title>
     <petname>Lemming</petname>
-    <version>0.1</version>
-    <info>The Lemming tribe has arrived to dethrone Pingus as the best DesktopPet! (Except not really because Lemming is moreso for me to get used to the pet editor.)[br] It literally just walks left and right. [br][br][br]Sprites are from Lemmings 1</info>
+    <version>0.2</version>
+    <info>The Lemming tribe has arrived to (eventually) dethrone Pingus as the best DesktopPet! All sprites are ripped from Lemmings for the Amiga</info>
     <application>1</application>
     <icon><![CDATA[AAABAAEAMDAAAAAAIABaAQAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAAwAAAAMAgGAAAAVwL5hwAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA70lEQVRoQ+2PsQ0DMQzEvGmKjJiBMkCGcJpr/CbwF8S2VIgAu4NAtaW8Wp8k3N1x3DB3dxw3zN0dxw1zd8dxw9zdVijCNQUU5poCCnNNAYW5poDCXFNAYWD/vCd1IRiIJeuBbUAsmfcBgGJddSIWCnPViVgozFUnYqEwV52IhcJcdSIWCns8+6Tm+agHoqkHoqFYekrzfNQD0dQD0fzzgLPZTj1ws9lOPXCz2Q49QGo+UA+sgGJJzQfqgV+hMFLzgWvskeArFEtqPlAPrIBiSc0H6oEVUASpeT4oltQ8HxRLap4PiiU1zwfFkppvorUvVfkEbHacORYAAAAASUVORK5CYII=]]></icon>
   </header>
   <image>
     <tilesx>8</tilesx>
-    <tilesy>2</tilesy>
-    <png><![CDATA[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]]></png>
+    <tilesy>1</tilesy>
+    <png><![CDATA[iVBORw0KGgoAAAANSUhEUgAAAGAAAAAUCAYAAAByKzjvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGvSURBVFhH7ZFBboRADAT5aQ55Yh6UB+QRRBvRSJTVahtpVhxS0hzGrjYGtu0uX9v+d9z96XBf3h8PF+b96XBf3t+OFnDHQa/ruzuZznXHQa/ruzvpzi0ij4Ne13d3Mp3rjoNe13d30p0r9p/v/XW6walfPOcf9en81X7xnH/Ux/OngalfPOcf9en81X7xnH/U2/Ml8tAT9JIvykIGzk05erf9QJorODfmKKaF6CVfxEUOODfl6N32A2mu4Nxubvv43PfX6S7U9blI8kV3vljlc+/ki+78k2mg63Px5IvufLHK597JF935J9OA/G6O3tRnn8hTjn2y2p/uPw7I7+boTX32yfQDrfan+8cA6/JTTrzLdx7ruit3tSur/fEL3P1Aq33nsT79QKv98sLs8wWSL+jpaB7nuhz7JPl8TvIFP2TyxdSPgbsvQE/n/wcABriwYJ25q137PFOfz3c557HO3NWufZ6pz+fboBNZZ+5q1z7P1OfzXc55rDN3tWufZ+rz+SdqWMHgcq6e+q7Ovqu7vsPlXD31XZ191mPQ4XKunvquzr6ru77D5Vw99V2d/V9h1IygIH3wUgAAAABJRU5ErkJggg==]]></png>
     <transparency>Magenta</transparency>
   </image>
   <spawns>
@@ -26,28 +26,28 @@
     <animation id="1">
       <name>walk</name>
       <start>
-        <x>-3</x>
+        <x>-2</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>75</interval>
+        <interval>70</interval>
       </start>
       <end>
-        <x>-3</x>
+        <x>-2</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>75</interval>
+        <interval>70</interval>
       </end>
       <sequence repeatfrom="0" repeat="40">
-        <frame>7</frame>
-        <frame>6</frame>
-        <frame>5</frame>
-        <frame>4</frame>
-        <frame>3</frame>
-        <frame>2</frame>
-        <frame>1</frame>
         <frame>0</frame>
+        <frame>1</frame>
+        <frame>2</frame>
+        <frame>3</frame>
+        <frame>4</frame>
+        <frame>5</frame>
+        <frame>6</frame>
+        <frame>7</frame>
         <next probability="50" only="none">1</next>
         <action>none</action>
       </sequence>
