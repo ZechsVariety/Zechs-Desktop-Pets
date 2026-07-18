@@ -5,21 +5,21 @@
     <title>Lemmings</title>
     <petname>Lemming</petname>
     <version>0.2</version>
-    <info>The Lemming tribe has arrived to (eventually) dethrone Pingus as the best DesktopPet! All sprites are ripped from Lemmings for the Amiga</info>
+    <info>The Lemming tribe has arrived to (eventually) dethrone Pingus as the best DesktopPet! All sprites are from Lemmings; the rips came from all different sources (just whatever I could find on the internet).</info>
     <application>1</application>
     <icon><![CDATA[AAABAAEAMDAAAAAAIABaAQAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAAwAAAAMAgGAAAAVwL5hwAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA70lEQVRoQ+2PsQ0DMQzEvGmKjJiBMkCGcJpr/CbwF8S2VIgAu4NAtaW8Wp8k3N1x3DB3dxw3zN0dxw1zd8dxw9zdVijCNQUU5poCCnNNAYW5poDCXFNAYWD/vCd1IRiIJeuBbUAsmfcBgGJddSIWCnPViVgozFUnYqEwV52IhcJcdSIWCns8+6Tm+agHoqkHoqFYekrzfNQD0dQD0fzzgLPZTj1ws9lOPXCz2Q49QGo+UA+sgGJJzQfqgV+hMFLzgWvskeArFEtqPlAPrIBiSc0H6oEVUASpeT4oltQ8HxRLap4PiiU1zwfFkppvorUvVfkEbHacORYAAAAASUVORK5CYII=]]></icon>
   </header>
   <image>
     <tilesx>8</tilesx>
-    <tilesy>1</tilesy>
-    <png><![CDATA[iVBORw0KGgoAAAANSUhEUgAAAGAAAAAUCAYAAAByKzjvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGvSURBVFhH7ZFBboRADAT5aQ55Yh6UB+QRRBvRSJTVahtpVhxS0hzGrjYGtu0uX9v+d9z96XBf3h8PF+b96XBf3t+OFnDHQa/ruzuZznXHQa/ruzvpzi0ij4Ne13d3Mp3rjoNe13d30p0r9p/v/XW6walfPOcf9en81X7xnH/Ux/OngalfPOcf9en81X7xnH/U2/Ml8tAT9JIvykIGzk05erf9QJorODfmKKaF6CVfxEUOODfl6N32A2mu4Nxubvv43PfX6S7U9blI8kV3vljlc+/ki+78k2mg63Px5IvufLHK597JF935J9OA/G6O3tRnn8hTjn2y2p/uPw7I7+boTX32yfQDrfan+8cA6/JTTrzLdx7ruit3tSur/fEL3P1Aq33nsT79QKv98sLs8wWSL+jpaB7nuhz7JPl8TvIFP2TyxdSPgbsvQE/n/wcABriwYJ25q137PFOfz3c557HO3NWufZ6pz+fboBNZZ+5q1z7P1OfzXc55rDN3tWufZ+rz+SdqWMHgcq6e+q7Ovqu7vsPlXD31XZ191mPQ4XKunvquzr6ru77D5Vw99V2d/V9h1IygIH3wUgAAAABJRU5ErkJggg==]]></png>
+    <tilesy>4</tilesy>
+    <png><![CDATA[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]]></png>
     <transparency>Magenta</transparency>
   </image>
   <spawns>
     <spawn id="1" probability="20">
       <x>screenW*random/100</x>
-      <y>-imageH*2</y>
-      <next probability="0">3</next>
+      <y>-imageH*1</y>
+      <next probability="0">4</next>
     </spawn>
   </spawns>
   <animations>
@@ -56,11 +56,11 @@
         <next probability="10" only="window">1</next>
       </border>
       <gravity>
-        <next probability="10" only="none">4</next>
+        <next probability="10" only="none">3</next>
       </gravity>
     </animation>
     <animation id="2">
-      <name>rotate1</name>
+      <name>flip</name>
       <start>
         <x>0</x>
         <y>0</y>
@@ -82,58 +82,146 @@
       </sequence>
     </animation>
     <animation id="3">
-      <name>spawn</name>
-      <start>
-        <x>0</x>
-        <y>5</y>
-        <offsety>0</offsety>
-        <opacity>1</opacity>
-        <interval>40</interval>
-      </start>
-      <end>
-        <x>0</x>
-        <y>5</y>
-        <offsety>0</offsety>
-        <opacity>1</opacity>
-        <interval>40</interval>
-      </end>
-      <sequence repeatfrom="0" repeat="10">
-        <frame>6</frame>
-        <next probability="100" only="none">4</next>
-        <action>none</action>
-      </sequence>
-    </animation>
-    <animation id="4">
       <name>fall</name>
       <start>
         <x>0</x>
-        <y>5</y>
+        <y>6</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>40</interval>
+        <interval>70</interval>
       </start>
       <end>
         <x>0</x>
-        <y>5</y>
+        <y>6</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>40</interval>
+        <interval>70</interval>
       </end>
-      <sequence repeatfrom="0" repeat="500">
-        <frame>0</frame>
-        <frame>1</frame>
-        <frame>2</frame>
-        <frame>3</frame>
-        <frame>4</frame>
-        <frame>5</frame>
-        <frame>6</frame>
-        <frame>7</frame>
+      <sequence repeatfrom="0" repeat="1">
+        <frame>8</frame>
+        <frame>9</frame>
+        <frame>10</frame>
+        <frame>11</frame>
         <next probability="10" only="none">4</next>
         <action>none</action>
       </sequence>
       <border>
         <next probability="10" only="none">1</next>
       </border>
+    </animation>
+    <animation id="4">
+      <name>fallA</name>
+      <start>
+        <x>0</x>
+        <y>6</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>70</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>6</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>70</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="7">
+        <frame>8</frame>
+        <frame>9</frame>
+        <frame>10</frame>
+        <frame>11</frame>
+        <next probability="10" only="none">5</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">1</next>
+      </border>
+    </animation>
+    <animation id="5">
+      <name>fallB</name>
+      <start>
+        <x>0</x>
+        <y>6</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>70</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>6</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>70</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="500">
+        <frame>8</frame>
+        <frame>9</frame>
+        <frame>10</frame>
+        <frame>11</frame>
+        <next probability="10" only="none">5</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">6</next>
+      </border>
+    </animation>
+    <animation id="6">
+      <name>Splat</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>70</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>70</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>12</frame>
+        <frame>13</frame>
+        <frame>14</frame>
+        <frame>15</frame>
+        <frame>16</frame>
+        <frame>17</frame>
+        <frame>18</frame>
+        <frame>19</frame>
+        <frame>20</frame>
+        <frame>21</frame>
+        <frame>22</frame>
+        <frame>23</frame>
+        <frame>24</frame>
+        <frame>25</frame>
+        <frame>26</frame>
+        <frame>27</frame>
+        <next probability="10" only="none">7</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="7">
+      <name>e_deathWait</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>70</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>70</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="100">
+        <frame>28</frame>
+        <action>none</action>
+      </sequence>
     </animation>
   </animations>
   <childs />
