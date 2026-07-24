@@ -51,7 +51,7 @@
         <action>none</action>
       </sequence>
       <border>
-        <next probability="50" only="none">2</next>
+        <next probability="10" only="vertical">3</next>
       </border>
     </animation>
     <animation id="2">
@@ -76,6 +76,83 @@
         <action>flip</action>
       </sequence>
     </animation>
+    <animation id="3">
+      <name>s_wrapA</name>
+      <start>
+        <x>-2</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>75</interval>
+      </start>
+      <end>
+        <x>-2</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>75</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>35</frame>
+        <next probability="10" only="none">4</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="4">
+      <name>s_wrapB</name>
+      <start>
+        <x>screenW / 2</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>5</interval>
+      </start>
+      <end>
+        <x>screenW / 2</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>5</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>42</frame>
+        <next probability="10" only="none">1</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="5">
+      <name>s_c_wrap</name>
+      <start>
+        <x>-2</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>75</interval>
+      </start>
+      <end>
+        <x>-2</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>75</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="20">
+        <frame>35</frame>
+        <frame>36</frame>
+        <frame>37</frame>
+        <frame>38</frame>
+        <frame>39</frame>
+        <frame>40</frame>
+        <frame>41</frame>
+        <action>none</action>
+      </sequence>
+    </animation>
   </animations>
-  <childs />
+  <childs>
+    <child animationid="3">
+      <x>imageX</x>
+      <y>imageY</y>
+      <next>5</next>
+    </child>
+  </childs>
 </animations>
