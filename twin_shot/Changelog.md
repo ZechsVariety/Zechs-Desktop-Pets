@@ -15,5 +15,6 @@ v0.1 (WIP)
   * Idle
   * Fall
   * Drag
+  * Jumps
 * Screen wrap
 
