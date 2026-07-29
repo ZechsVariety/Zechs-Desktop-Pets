@@ -54,6 +54,9 @@
       <border>
         <next probability="10" only="vertical">3</next>
       </border>
+      <gravity>
+        <next probability="10" only="none">9</next>
+      </gravity>
     </animation>
     <animation id="2">
       <name>flip</name>
@@ -178,6 +181,9 @@
       <border>
         <next probability="10" only="none">3</next>
       </border>
+      <gravity>
+        <next probability="10" only="none">9</next>
+      </gravity>
     </animation>
     <animation id="7">
       <name>walk_out</name>
@@ -213,9 +219,12 @@
       <border>
         <next probability="10" only="none">8</next>
       </border>
+      <gravity>
+        <next probability="10" only="none">9</next>
+      </gravity>
     </animation>
     <animation id="8">
-      <name>Idle</name>
+      <name>idle</name>
       <start>
         <x>0</x>
         <y>0</y>
@@ -237,8 +246,131 @@
         <frame>19</frame>
         <next probability="10" only="none">8</next>
         <next probability="10" only="none">6</next>
+        <next probability="10" only="none">2</next>
         <action>none</action>
       </sequence>
+      <gravity>
+        <next probability="10" only="none">9</next>
+      </gravity>
+    </animation>
+    <animation id="9">
+      <name>fall</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>3</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="1">
+        <frame>0</frame>
+        <frame>0</frame>
+        <frame>0</frame>
+        <frame>1</frame>
+        <frame>1</frame>
+        <frame>1</frame>
+        <next probability="10" only="none">10</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">8</next>
+      </border>
+    </animation>
+    <animation id="10">
+      <name>fallB</name>
+      <start>
+        <x>0</x>
+        <y>3</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>15</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="3">
+        <frame>0</frame>
+        <frame>0</frame>
+        <frame>0</frame>
+        <frame>1</frame>
+        <frame>1</frame>
+        <frame>1</frame>
+        <next probability="10" only="none">11</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">8</next>
+      </border>
+    </animation>
+    <animation id="11">
+      <name>fallC</name>
+      <start>
+        <x>0</x>
+        <y>15</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>15</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>0</frame>
+        <frame>0</frame>
+        <frame>0</frame>
+        <frame>1</frame>
+        <frame>1</frame>
+        <frame>1</frame>
+        <next probability="10" only="none">11</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">8</next>
+      </border>
+    </animation>
+    <animation id="12">
+      <name>drag</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>75</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>75</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>8</frame>
+        <frame>9</frame>
+        <frame>10</frame>
+        <frame>11</frame>
+        <frame>12</frame>
+        <next probability="10" only="none">12</next>
+        <action>none</action>
+      </sequence>
+      <gravity>
+        <next probability="10" only="none">9</next>
+      </gravity>
     </animation>
   </animations>
   <childs>
