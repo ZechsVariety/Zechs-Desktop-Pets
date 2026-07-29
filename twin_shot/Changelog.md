@@ -6,7 +6,7 @@
 
 
 
-v0.1 (WIP)
+v0.1 (2026-07-28)
 
 * Compiled custom sprite sheet
 * Animations:
@@ -15,6 +15,14 @@ v0.1 (WIP)
   * Idle
   * Fall
   * Drag
-  * Jumps
+  * Jumps (one for standing and one for walking)
 * Screen wrap
+
+
+
+v0.2 (WIP)
+
+* Animations:
+
+  * Arrow shooting
 
