@@ -16,6 +16,8 @@ v0.1 (2026-07-28)
   * Fall
   * Drag
   * Jumps (one for standing and one for walking)
+
+    * Also happens when you click the angel
 * Screen wrap
 
 
@@ -25,4 +27,7 @@ v0.2 (WIP)
 * Animations:
 
   * Arrow shooting
+
+    * Also happens when you click the angel (instead of them jumping)
+* Other tweaks (see commit history)
 
