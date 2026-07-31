@@ -50,11 +50,13 @@
         <next probability="10" only="none">1</next>
         <next probability="10" only="none">7</next>
         <next probability="10" only="none">14</next>
+        <next probability="10" only="none">23</next>
         <action>none</action>
       </sequence>
       <border>
         <next probability="10" only="vertical">3</next>
         <next probability="10" only="vertical">13</next>
+        <next probability="10" only="vertical">18</next>
       </border>
       <gravity>
         <next probability="10" only="none">15</next>
@@ -284,6 +286,7 @@
         <frame>1</frame>
         <frame>1</frame>
         <next probability="10" only="none">10</next>
+        <next probability="10" only="none">25</next>
         <action>none</action>
       </sequence>
       <border>
@@ -380,7 +383,7 @@
       </gravity>
     </animation>
     <animation id="13">
-      <name>idle_jump</name>
+      <name>jump</name>
       <start>
         <x>0</x>
         <y>-15</y>
@@ -457,6 +460,7 @@
         <frame>1</frame>
         <frame>1</frame>
         <next probability="10" only="none">16</next>
+        <next probability="10" only="none">27</next>
         <action>none</action>
       </sequence>
       <border>
@@ -533,7 +537,7 @@
       </border>
     </animation>
     <animation id="18">
-      <name>idle_shootA</name>
+      <name>shootA</name>
       <start>
         <x>0</x>
         <y>0</y>
@@ -558,7 +562,7 @@
       </sequence>
     </animation>
     <animation id="19">
-      <name>idle_shootB</name>
+      <name>shootB</name>
       <start>
         <x>4</x>
         <y>0</y>
@@ -660,6 +664,210 @@
         <action>none</action>
       </sequence>
     </animation>
+    <animation id="23">
+      <name>walk_shootA</name>
+      <start>
+        <x>-3</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>75</interval>
+      </start>
+      <end>
+        <x>-3</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>75</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>2</frame>
+        <frame>3</frame>
+        <frame>4</frame>
+        <frame>5</frame>
+        <next probability="10" only="none">24</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="24">
+      <name>walk_shootB</name>
+      <start>
+        <x>4</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>6</frame>
+        <frame>6</frame>
+        <frame>6</frame>
+        <frame>7</frame>
+        <frame>7</frame>
+        <frame>7</frame>
+        <frame>40</frame>
+        <frame>40</frame>
+        <frame>40</frame>
+        <frame>41</frame>
+        <frame>41</frame>
+        <frame>41</frame>
+        <next probability="10" only="none">8</next>
+        <next probability="10" only="none">6</next>
+        <next probability="10" only="none">14</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="25">
+      <name>fallB_shootA</name>
+      <start>
+        <x>0</x>
+        <y>3</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>9</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>2</frame>
+        <frame>2</frame>
+        <frame>2</frame>
+        <frame>3</frame>
+        <frame>3</frame>
+        <frame>3</frame>
+        <frame>4</frame>
+        <frame>4</frame>
+        <frame>4</frame>
+        <frame>5</frame>
+        <frame>5</frame>
+        <frame>5</frame>
+        <next probability="10" only="none">26</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">1</next>
+      </border>
+    </animation>
+    <animation id="26">
+      <name>fallB_shootB</name>
+      <start>
+        <x>4</x>
+        <y>9</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>15</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>6</frame>
+        <frame>6</frame>
+        <frame>6</frame>
+        <frame>7</frame>
+        <frame>7</frame>
+        <frame>7</frame>
+        <frame>0</frame>
+        <frame>0</frame>
+        <frame>0</frame>
+        <frame>1</frame>
+        <frame>1</frame>
+        <frame>1</frame>
+        <next probability="10" only="none">11</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">1</next>
+      </border>
+    </animation>
+    <animation id="27">
+      <name>walk_fallB_shootA</name>
+      <start>
+        <x>-3</x>
+        <y>3</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </start>
+      <end>
+        <x>-3</x>
+        <y>9</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>2</frame>
+        <frame>2</frame>
+        <frame>2</frame>
+        <frame>3</frame>
+        <frame>3</frame>
+        <frame>3</frame>
+        <frame>4</frame>
+        <frame>4</frame>
+        <frame>4</frame>
+        <frame>5</frame>
+        <frame>5</frame>
+        <frame>5</frame>
+        <next probability="10" only="none">26</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">1</next>
+      </border>
+    </animation>
+    <animation id="28">
+      <name>walk_fallB_shootB</name>
+      <start>
+        <x>4</x>
+        <y>9</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>15</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>6</frame>
+        <frame>6</frame>
+        <frame>6</frame>
+        <frame>7</frame>
+        <frame>7</frame>
+        <frame>7</frame>
+        <frame>0</frame>
+        <frame>0</frame>
+        <frame>0</frame>
+        <frame>1</frame>
+        <frame>1</frame>
+        <frame>1</frame>
+        <next probability="10" only="none">11</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">1</next>
+      </border>
+    </animation>
   </animations>
   <childs>
     <child animationid="3">
@@ -667,7 +875,24 @@
       <y>imageY</y>
       <next>5</next>
     </child>
+
+    <!-- arrows -->
     <child animationid="19">
+      <x>imageX</x>
+      <y>imageY + 25</y>
+      <next>20</next>
+    </child>
+    <child animationid="24">
+      <x>imageX</x>
+      <y>imageY + 25</y>
+      <next>20</next>
+    </child>
+    <child animationid="26">
+      <x>imageX</x>
+      <y>imageY + 25</y>
+      <next>20</next>
+    </child>
+    <child animationid="28">
       <x>imageX</x>
       <y>imageY + 25</y>
       <next>20</next>

@@ -28,6 +28,7 @@ v0.2 (WIP)
 
   * Arrow shooting
 
-    * Also happens when you click the angel (instead of them jumping)
+    * Can happen when standing, walking, falling downwards, and falling forwards
+    * Also happens when you click the angel when they're on the ground (instead of them jumping)
 * Other tweaks (see commit history)
 
