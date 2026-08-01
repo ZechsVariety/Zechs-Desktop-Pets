@@ -4,7 +4,7 @@ The titular spinning top, **Jerma985**, now in HD (but smaller)! He'll spin and 
 
 
 
-Also, I don't know why he has a strong white outline now. Maybe I scaled the image wrong idk. It's kinda sick tho...
+~~Also, I don't know why he has a strong white outline now. Maybe I scaled the image wrong idk. It's kinda sick tho…~~ nvm I fixed it
 
 
 
@@ -27,4 +27,8 @@ Please tell him:
 v1.0
 
 2026-05-08 - he escaped
+
+v1.1
+
+2026-07-31 - fixed his unintentional white outline
 
