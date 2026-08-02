@@ -3,52 +3,93 @@
     {
       "title" : "Zech's Pets",
       "folder" : "sets/zechs_pets",
-      "pets" : [
+      "zechsPets" : [
         {
-        "folder" : "lemming",
-        "author" : "Zecheriah",
-        "lastupdate" : "2026-07-17"
+          "folder" : "lemming",
+          "author" : "Zecheriah",
+          "lastupdate" : "2026-07-17"
         },
         {
-        "folder" : "jerma",
-        "author" : "Zecheriah",
-        "lastupdate" : "2026-05-08"
+          "folder" : "jerma",
+          "author" : "Zecheriah",
+          "lastupdate" : "2026-05-08"
         },
         {
-        "folder" : "jerma_compact",
-        "author" : "Zecheriah",
-        "lastupdate" : "2026-07-31"
+          "folder" : "jerma_compact",
+          "author" : "Zecheriah",
+          "lastupdate" : "2026-07-31"
         },
         {
-        "folder" : "pingus_expansion",
-        "author" : "Zecheriah",
-        "lastupdate" : "2026-07-09"
+          "folder" : "pingus_expansion",
+          "author" : "Zecheriah",
+          "lastupdate" : "2026-07-09"
         },
         {
-        "folder" : "twin_shot",
-        "author" : "Zecheriah",
-        "lastupdate" : "2026-07-30"
-        },
-        {
-        "folder" : "classic/bowser_jr",
-        "author" : "Andriano",
-        "lastupdate" : "2016-04-27"
+          "folder" : "twin_shot",
+          "author" : "Zecheriah",
+          "lastupdate" : "2026-07-30"
         }
       ]
     },
     {
       "title" : "Jerma",
       "folder" : "sets/jerma",
-      "pets" : [
+      "zechsPets" : [
         {
-        "folder" : "jerma",
-        "author" : "Zecheriah",
-        "lastupdate" : "2026-05-08"
+          "folder" : "jerma",
+          "author" : "Zecheriah",
+          "lastupdate" : "2026-05-08"
         },
         {
-        "folder" : "jerma_compact",
-        "author" : "Zecheriah",
-        "lastupdate" : "2026-07-31"
+          "folder" : "jerma_compact",
+          "author" : "Zecheriah",
+          "lastupdate" : "2026-07-31"
+        }
+      ]
+    },
+    {
+      "title" : "Sheeps",
+      "folder" : "sets/sheeps",
+      "vanillaPets" : [
+        {
+          "folder" : "esheep64",
+          "author" : "Adriano",
+          "lastupdate" : "2019-02-21"
+        },
+        {
+          "folder" : "red_sheep",
+          "author" : "Oliver B.",
+          "lastupdate" : "2021-05-02"
+        },
+        {
+          "folder" : "orange_sheep",
+          "author" : "Oliver B.",
+          "lastupdate" : "2021-05-02"
+        },
+        {
+          "folder" : "yellow_sheep",
+          "author" : "Oliver B.",
+          "lastupdate" : "2021-05-02"
+        },
+        {
+          "folder" : "green_sheep",
+          "author" : "Oliver B.",
+          "lastupdate" : "2021-05-02"
+        },
+        {
+          "folder" : "blue_sheep",
+          "author" : "Oliver B.",
+          "lastupdate" : "2021-05-02"
+        },
+        {
+          "folder" : "purple_sheep",
+          "author" : "Oliver B.",
+          "lastupdate" : "2021-05-02"
+        },
+        {
+          "folder" : "pink_sheep",
+          "author" : "Oliver B.",
+          "lastupdate" : "2021-05-02"
         }
       ]
     }
