@@ -1,0 +1,56 @@
+{
+  "petSets" : [
+    {
+      "title" : "Zech's Pets",
+      "folder" : "sets/zechs_pets",
+      "pets" : [
+        {
+        "folder" : "lemming",
+        "author" : "Zecheriah",
+        "lastupdate" : "2026-07-17"
+        },
+        {
+        "folder" : "jerma",
+        "author" : "Zecheriah",
+        "lastupdate" : "2026-05-08"
+        },
+        {
+        "folder" : "jerma_compact",
+        "author" : "Zecheriah",
+        "lastupdate" : "2026-07-31"
+        },
+        {
+        "folder" : "pingus_expansion",
+        "author" : "Zecheriah",
+        "lastupdate" : "2026-07-09"
+        },
+        {
+        "folder" : "twin_shot",
+        "author" : "Zecheriah",
+        "lastupdate" : "2026-07-30"
+        },
+        {
+        "folder" : "classic/bowser_jr",
+        "author" : "Andriano",
+        "lastupdate" : "2016-04-27"
+        }
+      ]
+    },
+    {
+      "title" : "Jerma",
+      "folder" : "sets/jerma",
+      "pets" : [
+        {
+        "folder" : "jerma",
+        "author" : "Zecheriah",
+        "lastupdate" : "2026-05-08"
+        },
+        {
+        "folder" : "jerma_compact",
+        "author" : "Zecheriah",
+        "lastupdate" : "2026-07-31"
+        }
+      ]
+    }
+  ]
+}
