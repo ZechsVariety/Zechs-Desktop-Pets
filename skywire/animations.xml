@@ -18,8 +18,8 @@
   <spawns>
     <spawn id="1" probability="20">
       <x>screenW+10</x>
-      <y>areaH-imageH</y>
-      <next probability="100">1</next>
+      <y>imageH</y>
+      <next probability="0">5</next>
     </spawn>
   </spawns>
   <animations>
@@ -120,6 +120,157 @@
         <action>none</action>
       </sequence>
     </animation>
+    <animation id="5">
+      <name>spawn</name>
+      <start>
+        <x>-10</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>30</interval>
+      </start>
+      <end>
+        <x>-10</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>30</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="50">
+        <frame>2</frame>
+        <next probability="10" only="none">3</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="6">
+      <name>s_car</name>
+      <start>
+        <x>-10</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>30</interval>
+      </start>
+      <end>
+        <x>-10</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>30</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="200">
+        <frame>0</frame>
+        <next probability="10" only="none">6</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="7">
+      <name>s_wire</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="50">
+        <frame>63</frame>
+        <next probability="10" only="none">8</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="8">
+      <name>s_wireOut</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>0</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="25">
+        <frame>63</frame>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="9">
+      <name>s_wheels</name>
+      <start>
+        <x>-10</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>30</interval>
+      </start>
+      <end>
+        <x>-10</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>30</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="200">
+        <frame>1</frame>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="10">
+      <name>s_wireSpawner</name>
+      <start>
+        <x>-57</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>5</interval>
+      </start>
+      <end>
+        <x>-57</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>5</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>65</frame>
+        <next probability="10" only="none">10</next>
+        <action>none</action>
+      </sequence>
+    </animation>
   </animations>
-  <childs />
+  <childs>
+    <child animationid="5">
+      <x>imageX</x>
+      <y>imageY-85</y>
+      <next>10</next>
+    </child>
+    <child animationid="5">
+      <x>imageX</x>
+      <y>imageY-65</y>
+      <next>9</next>
+    </child>
+    <child animationid="5">
+      <x>imageX</x>
+      <y>imageY+5</y>
+      <next>6</next>
+    </child>
+    <child animationid="10">
+      <x>imageX</x>
+      <y>imageY</y>
+      <next>7</next>
+    </child>
+  </childs>
 </animations>
