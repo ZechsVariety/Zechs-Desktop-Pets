@@ -3,6 +3,7 @@
     {
       "title" : "Zech's Pets",
       "folder" : "sets/zechs_pets",
+      "description" : "Here are all the Desktop Pets I've made!",
       "zechsPets" : [
         {
           "folder" : "lemming",
@@ -34,6 +35,7 @@
     {
       "title" : "Jerma",
       "folder" : "sets/jerma",
+      "description" : "Both versions of Jerma in one...",
       "zechsPets" : [
         {
           "folder" : "jerma",
@@ -50,6 +52,7 @@
     {
       "title" : "Sheeps",
       "folder" : "sets/sheeps",
+      "description" : "All versions of Poe, including the original eSheep and Oliver B.'s gSheep ones.",
       "vanillaPets" : [
         {
           "folder" : "esheep64",
@@ -86,6 +89,25 @@
           "author" : "Oliver B.",
           "lastupdate" : "2021-05-02"
         },
+        {
+          "folder" : "pink_sheep",
+          "author" : "Oliver B.",
+          "lastupdate" : "2021-05-02"
+        }
+      ]
+    },
+    {
+      "title" : "All Pets",
+      "folder" : "sets/all",
+      "description" : "Every single pet listed here, in a single set. WILL TAKE A BIT TO LOAD!!",
+      "zechsPets" : [
+        {
+          "folder" : "jerma",
+          "author" : "Zecheriah",
+          "lastupdate" : "2026-05-08"
+        }
+      ],
+      "vanillaPets" : [
         {
           "folder" : "pink_sheep",
           "author" : "Oliver B.",
