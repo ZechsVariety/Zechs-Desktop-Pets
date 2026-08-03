@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations xmlns:xsd="https://esheep.petrucci.ch/ https://raw.githubusercontent.com/Adrianotiger/desktopPet/master/Resources/animations.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://esheep.petrucci.ch/">
+  <header>
+    <author>Zecheriah</author>
+    <title>Mortimer</title>
+    <petname>Mortimer</petname>
+    <version>0.3</version>
+    <info>Info about pet type shit</info>
+    <application>1</application>
+    <icon><![CDATA[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]]></icon>
+  </header>
+  <image>
+    <tilesx>7</tilesx>
+    <tilesy>2</tilesy>
+    <png><![CDATA[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]]></png>
+    <transparency>Magenta</transparency>
+  </image>
+  <spawns>
+    <spawn id="1" probability="20">
+      <x>screenW+10</x>
+      <y>areaH-imageH</y>
+      <next probability="100">1</next>
+    </spawn>
+  </spawns>
+  <animations>
+    <animation id="1">
+      <name>walk</name>
+      <start>
+        <x>-4</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>200</interval>
+      </start>
+      <end>
+        <x>-4</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>200</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="15">
+        <frame>3</frame>
+        <frame>4</frame>
+        <frame>5</frame>
+        <frame>6</frame>
+        <next probability="50" only="none">1</next>
+        <next probability="10" only="none">4</next>
+        <next probability="10" only="none">2</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="50" only="none">2</next>
+      </border>
+      <gravity>
+        <next probability="10" only="none">7</next>
+      </gravity>
+    </animation>
+    <animation id="2">
+      <name>rotate a</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>0</frame>
+        <next probability="50" only="none">3</next>
+        <action>flip</action>
+      </sequence>
+    </animation>
+    <animation id="3">
+      <name>rotate b</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>0</frame>
+        <next probability="10" only="none">1</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="4">
+      <name>idle</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="20">
+        <frame>0</frame>
+        <next probability="10" only="none">1</next>
+        <next probability="10" only="none">4</next>
+        <next probability="10" only="none">5</next>
+        <next probability="10" only="none">6</next>
+        <action>none</action>
+      </sequence>
+      <gravity>
+        <next probability="10" only="none">7</next>
+      </gravity>
+    </animation>
+    <animation id="5">
+      <name>blink</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="5">
+        <frame>1</frame>
+        <next probability="10" only="none">4</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="6">
+      <name>evil float</name>
+      <start>
+        <x>-10</x>
+        <y>-5</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>10</x>
+        <y>-5</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="5">
+        <frame>9</frame>
+        <next probability="10" only="none">6</next>
+        <next probability="10" only="none">7</next>
+        <action>flip</action>
+      </sequence>
+    </animation>
+    <animation id="7">
+      <name>fall start</name>
+      <start>
+        <x>0</x>
+        <y>-3</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>50</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>50</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="3">
+        <frame>9</frame>
+        <frame>9</frame>
+        <next probability="10" only="none">8</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="8">
+      <name>fall slow</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>8</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="15">
+        <frame>9</frame>
+        <frame>9</frame>
+        <next probability="10" only="none">9</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">10</next>
+      </border>
+    </animation>
+    <animation id="9">
+      <name>fall fast</name>
+      <start>
+        <x>0</x>
+        <y>8</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>8</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>10</frame>
+        <frame>10</frame>
+        <next probability="10" only="none">9</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">12</next>
+      </border>
+    </animation>
+    <animation id="10">
+      <name>land</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>200</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>200</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>8</frame>
+        <next probability="10" only="none">4</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="12">
+      <name>slam a</name>
+      <start>
+        <x>0</x>
+        <y>-3</y>
+        <offsety>5</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>-1</y>
+        <offsety>5</offsety>
+        <opacity>1</opacity>
+        <interval>50</interval>
+      </end>
+      <sequence repeatfrom="1" repeat="3">
+        <frame>11</frame>
+        <frame>12</frame>
+        <frame>12</frame>
+        <next probability="10" only="none">11</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="11">
+      <name>slam b</name>
+      <start>
+        <x>0</x>
+        <y>-1</y>
+        <offsety>5</offsety>
+        <opacity>1</opacity>
+        <interval>50</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>8</y>
+        <offsety>5</offsety>
+        <opacity>1</opacity>
+        <interval>50</interval>
+      </end>
+      <sequence repeatfrom="1" repeat="3">
+        <frame>11</frame>
+        <frame>13</frame>
+        <frame>13</frame>
+        <next probability="10" only="none">9</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">13</next>
+      </border>
+    </animation>
+    <animation id="13">
+      <name>slam c</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>5</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>5</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="10">
+        <frame>11</frame>
+        <next probability="10" only="none">5</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+  </animations>
+  <childs />
+</animations>
