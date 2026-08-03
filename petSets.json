@@ -3,17 +3,12 @@
     {
       "title" : "Zech's Pets",
       "folder" : "sets/zechs_pets",
-      "description" : "Here are all the Desktop Pets I've made!",
+      "description" : "Here are all the (good) Desktop Pets I've made!",
       "zechsPets" : [
         {
           "folder" : "lemming",
           "author" : "Zecheriah",
           "lastupdate" : "2026-07-17"
-        },
-        {
-          "folder" : "jerma",
-          "author" : "Zecheriah",
-          "lastupdate" : "2026-05-08"
         },
         {
           "folder" : "jerma_compact",
