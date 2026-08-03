@@ -1,112 +1,335 @@
 {
-  "petSets" : [
+  "petSets": [
     {
-      "title" : "Zech's Pets",
-      "folder" : "sets/zechs_pets",
-      "description" : "Here are all the (good) Desktop Pets I've made!",
-      "zechsPets" : [
+      "title": "Zech's Favourites",
+      "folder": "sets/zechs_favs",
+      "description": "Here's a collection of my favourite Desktop Pets! (NOTE: I am 100% biased lol)",
+      "zechsPets": [
         {
-          "folder" : "lemming",
-          "author" : "Zecheriah",
-          "lastupdate" : "2026-07-17"
+          "folder": "twin_shot",
+          "author": "Zecheriah",
+          "lastupdate": "2026-07-30"
         },
         {
-          "folder" : "jerma_compact",
-          "author" : "Zecheriah",
-          "lastupdate" : "2026-07-31"
+          "folder": "pingus_expansion",
+          "author": "Zecheriah",
+          "lastupdate": "2026-07-09"
         },
         {
-          "folder" : "pingus_expansion",
-          "author" : "Zecheriah",
-          "lastupdate" : "2026-07-09"
+          "folder": "jerma_compact",
+          "author": "Zecheriah",
+          "lastupdate": "2026-07-31"
         },
         {
-          "folder" : "twin_shot",
-          "author" : "Zecheriah",
-          "lastupdate" : "2026-07-30"
-        }
-      ]
-    },
-    {
-      "title" : "Jerma",
-      "folder" : "sets/jerma",
-      "description" : "Both versions of Jerma in one...",
-      "zechsPets" : [
-        {
-          "folder" : "jerma",
-          "author" : "Zecheriah",
-          "lastupdate" : "2026-05-08"
+          "folder": "mortimer",
+          "author": "Zecheriah",
+          "lastupdate": "2026-05-27"
         },
         {
-          "folder" : "jerma_compact",
-          "author" : "Zecheriah",
-          "lastupdate" : "2026-07-31"
-        }
-      ]
-    },
-    {
-      "title" : "Sheeps",
-      "folder" : "sets/sheeps",
-      "description" : "All versions of Poe, including the original eSheep and Oliver B.'s gSheep ones.",
-      "vanillaPets" : [
-        {
-          "folder" : "esheep64",
-          "author" : "Adriano",
-          "lastupdate" : "2019-02-21"
-        },
-        {
-          "folder" : "red_sheep",
-          "author" : "Oliver B.",
-          "lastupdate" : "2021-05-02"
-        },
-        {
-          "folder" : "orange_sheep",
-          "author" : "Oliver B.",
-          "lastupdate" : "2021-05-02"
-        },
-        {
-          "folder" : "yellow_sheep",
-          "author" : "Oliver B.",
-          "lastupdate" : "2021-05-02"
-        },
-        {
-          "folder" : "green_sheep",
-          "author" : "Oliver B.",
-          "lastupdate" : "2021-05-02"
-        },
-        {
-          "folder" : "blue_sheep",
-          "author" : "Oliver B.",
-          "lastupdate" : "2021-05-02"
-        },
-        {
-          "folder" : "purple_sheep",
-          "author" : "Oliver B.",
-          "lastupdate" : "2021-05-02"
-        },
-        {
-          "folder" : "pink_sheep",
-          "author" : "Oliver B.",
-          "lastupdate" : "2021-05-02"
-        }
-      ]
-    },
-    {
-      "title" : "All Pets",
-      "folder" : "sets/all",
-      "description" : "Every single pet listed here, in a single set. WILL TAKE A BIT TO LOAD!!",
-      "zechsPets" : [
-        {
-          "folder" : "jerma",
-          "author" : "Zecheriah",
-          "lastupdate" : "2026-05-08"
+          "folder": "lemming",
+          "author": "Zecheriah",
+          "lastupdate": "2026-07-17"
         }
       ],
-      "vanillaPets" : [
+      "vanillaPets": [
         {
-          "folder" : "pink_sheep",
-          "author" : "Oliver B.",
-          "lastupdate" : "2021-05-02"
+          "folder": "green_sheep",
+          "author": "Oliver B.",
+          "lastupdate": "2021-05-02"
+        },
+        {
+          "folder": "mimiko",
+          "author": "Madnuttah",
+          "lastupdate": "2022-08-25"
+        }
+      ]
+    },
+    {
+      "title": "Zech's Pets",
+      "folder": "sets/zechs_pets",
+      "description": "Here are all the Desktop Pets I've made! Some are more finished than others. (Regular Jerma is not included 'cause he takes forever to load)",
+      "zechsPets": [
+        {
+          "folder": "lemming",
+          "author": "Zecheriah",
+          "lastupdate": "2026-07-17"
+        },
+        {
+          "folder": "jerma_compact",
+          "author": "Zecheriah",
+          "lastupdate": "2026-07-31"
+        },
+        {
+          "folder": "pingus_expansion",
+          "author": "Zecheriah",
+          "lastupdate": "2026-07-09"
+        },
+        {
+          "folder": "mortimer",
+          "author": "Zecheriah",
+          "lastupdate": "2026-05-27"
+        },
+        {
+          "folder": "twin_shot",
+          "author": "Zecheriah",
+          "lastupdate": "2026-07-30"
+        }
+      ]
+    },
+    {
+      "title": "Nitrome",
+      "folder": "sets/nitrome",
+      "description": "All the Nitrome pets I've made so far",
+      "zechsPets": [
+        {
+          "folder": "twin_shot",
+          "author": "Zecheriah",
+          "lastupdate": "2026-07-30"
+        }
+      ]
+    },
+    {
+      "title": "Jerma",
+      "folder": "sets/jerma",
+      "description": "Both versions of Jerma in one...",
+      "zechsPets": [
+        {
+          "folder": "jerma",
+          "author": "Zecheriah",
+          "lastupdate": "2026-05-08"
+        },
+        {
+          "folder": "jerma_compact",
+          "author": "Zecheriah",
+          "lastupdate": "2026-07-31"
+        }
+      ]
+    },
+    {
+      "title": "Sheeps",
+      "folder": "sets/sheeps",
+      "description": "All versions of Poe, including the original eSheep and Oliver B.'s gSheep ones.",
+      "vanillaPets": [
+        {
+          "folder": "esheep64",
+          "author": "Adriano",
+          "lastupdate": "2019-02-21"
+        },
+        {
+          "folder": "red_sheep",
+          "author": "Oliver B.",
+          "lastupdate": "2021-05-02"
+        },
+        {
+          "folder": "orange_sheep",
+          "author": "Oliver B.",
+          "lastupdate": "2021-05-02"
+        },
+        {
+          "folder": "yellow_sheep",
+          "author": "Oliver B.",
+          "lastupdate": "2021-05-02"
+        },
+        {
+          "folder": "green_sheep",
+          "author": "Oliver B.",
+          "lastupdate": "2021-05-02"
+        },
+        {
+          "folder": "blue_sheep",
+          "author": "Oliver B.",
+          "lastupdate": "2021-05-02"
+        },
+        {
+          "folder": "purple_sheep",
+          "author": "Oliver B.",
+          "lastupdate": "2021-05-02"
+        },
+        {
+          "folder": "pink_sheep",
+          "author": "Oliver B.",
+          "lastupdate": "2021-05-02"
+        }
+      ]
+    },
+    {
+      "title": "Neko Cats",
+      "folder": "sets/neko",
+      "description": "All the neko cat colours",
+      "vanillaPets": [
+        {
+          "folder": "neko",
+          "author": "Adriano",
+          "lastupdate": "2019-06-28"
+        },
+        {
+          "folder": "mimiko",
+          "author": "Madnuttah",
+          "lastupdate": "2022-08-25"
+        },
+        {
+          "folder": "pink_neko",
+          "author": "Michelle!",
+          "lastupdate": "2025-12-08"
+        },
+        {
+          "folder": "yellow_neko",
+          "author": "Michelle!",
+          "lastupdate": "2025-12-08"
+        }
+      ]
+    },
+    {
+      "title": "All Pets",
+      "folder": "sets/all",
+      "description": "Every single pet listed here, in a single set. MIGHT TAKE A BIT TO LOAD!!",
+      "zechsPets": [
+        {
+          "folder": "lemming",
+          "author": "Zecheriah",
+          "lastupdate": "2026-07-17"
+        },
+        {
+          "folder": "jerma",
+          "author": "Zecheriah",
+          "lastupdate": "2026-05-08"
+        },
+        {
+          "folder": "jerma_compact",
+          "author": "Zecheriah",
+          "lastupdate": "2026-07-31"
+        },
+        {
+          "folder": "pingus_expansion",
+          "author": "Zecheriah",
+          "lastupdate": "2026-07-09"
+        },
+        {
+          "folder": "mortimer",
+          "author": "Zecheriah",
+          "lastupdate": "2026-05-27"
+        },
+        {
+          "folder": "twin_shot",
+          "author": "Zecheriah",
+          "lastupdate": "2026-07-30"
+        },
+        {
+          "folder": "classic/bowser_jr",
+          "author": "Andriano",
+          "lastupdate": "2016-04-27"
+        }
+      ],
+      "vanillaPets": [
+        {
+          "folder": "ssj-goku",
+          "author": "RedSparr0w",
+          "lastupdate": "2019-03-04"
+        },
+        {
+          "folder": "esheep64",
+          "author": "Adriano",
+          "lastupdate": "2019-02-21"
+        },
+        {
+          "folder": "bbunny",
+          "author": "Adriano",
+          "lastupdate": "2019-02-25"
+        },
+        {
+          "folder": "neko",
+          "author": "Adriano",
+          "lastupdate": "2019-06-28"
+        },
+        {
+          "folder": "pingus",
+          "author": "Adriano",
+          "lastupdate": "2019-07-08"
+        },
+        {
+          "folder": "negima",
+          "author": "Adriano",
+          "lastupdate": "2019-10-16"
+        },
+        {
+          "folder": "red_sheep",
+          "author": "Oliver B.",
+          "lastupdate": "2021-05-02"
+        },
+        {
+          "folder": "orange_sheep",
+          "author": "Oliver B.",
+          "lastupdate": "2021-05-02"
+        },
+        {
+          "folder": "yellow_sheep",
+          "author": "Oliver B.",
+          "lastupdate": "2021-05-02"
+        },
+        {
+          "folder": "green_sheep",
+          "author": "Oliver B.",
+          "lastupdate": "2021-05-02"
+        },
+        {
+          "folder": "blue_sheep",
+          "author": "Oliver B.",
+          "lastupdate": "2021-05-02"
+        },
+        {
+          "folder": "purple_sheep",
+          "author": "Oliver B.",
+          "lastupdate": "2021-05-02"
+        },
+        {
+          "folder": "pink_sheep",
+          "author": "Oliver B.",
+          "lastupdate": "2021-05-02"
+        },
+        {
+          "folder": "fox",
+          "author": "Michelle!",
+          "lastupdate": "2022-08-03"
+        },
+        {
+          "folder": "blue_ham_ham",
+          "author": "Michelle!",
+          "lastupdate": "2025-12-08"
+        },
+        {
+          "folder": "mareep",
+          "author": "Michelle!",
+          "lastupdate": "2025-12-08"
+        },
+        {
+          "folder": "pikachu",
+          "author": "Michelle!",
+          "lastupdate": "2025-12-08"
+        },
+        {
+          "folder": "pink_fox",
+          "author": "Michelle!",
+          "lastupdate": "2025-12-08"
+        },
+        {
+          "folder": "pink_neko",
+          "author": "Michelle!",
+          "lastupdate": "2025-12-08"
+        },
+        {
+          "folder": "yellow_neko",
+          "author": "Michelle!",
+          "lastupdate": "2025-12-08"
+        },
+        {
+          "folder": "shiny_sylveon",
+          "author": "Michelle!",
+          "lastupdate": "2025-12-08"
+        },
+        {
+          "folder": "mimiko",
+          "author": "Madnuttah",
+          "lastupdate": "2022-08-25"
         }
       ]
     }

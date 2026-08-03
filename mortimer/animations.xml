@@ -169,7 +169,7 @@
       <sequence repeatfrom="0" repeat="5">
         <frame>9</frame>
         <next probability="10" only="none">6</next>
-        <next probability="10" only="none">7</next>
+        <next probability="1" only="none">7</next>
         <action>flip</action>
       </sequence>
     </animation>
