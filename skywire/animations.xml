@@ -4,8 +4,8 @@
     <author>Zecheriah</author>
     <title>Skywire</title>
     <petname>Skywire</petname>
-    <version>0.1</version>
-    <info>Skywire, its sprites and audio, all belong to Nitrome Limited.</info>
+    <version>0.2</version>
+    <info>This was a little too ambitious, so the result is VERY scuffed, but I hope you enjoy what's there nonetheless. If you like it, please let me know and I may give it another go.[br]Skywire, its sprites and audio, all belong to Nitrome Limited.</info>
     <application>1</application>
     <icon><![CDATA[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]]></icon>
   </header>
@@ -250,6 +250,202 @@
         <action>none</action>
       </sequence>
     </animation>
+    <animation id="11">
+      <name>c1_walk</name>
+      <start>
+        <x>-3</x>
+        <y>-3</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>30</interval>
+      </start>
+      <end>
+        <x>-3</x>
+        <y>4</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>30</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="15">
+        <frame>3</frame>
+        <next probability="10" only="none">11</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">11</next>
+        <next probability="5" only="none">12</next>
+      </border>
+    </animation>
+    <animation id="12">
+      <name>c1_idle</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="random + 10">
+        <frame>3</frame>
+        <next probability="99" only="none">11</next>
+        <next probability="1" only="none">4</next>
+        <action>flip</action>
+      </sequence>
+      <gravity>
+        <next probability="10" only="none">13</next>
+      </gravity>
+    </animation>
+    <animation id="13">
+      <name>c1_fall</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>30</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>100</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>30</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="100">
+        <frame>3</frame>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">12</next>
+      </border>
+    </animation>
+    <animation id="14">
+      <name>c1_spawn</name>
+      <start>
+        <x>-10</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>30</interval>
+      </start>
+      <end>
+        <x>-10</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>30</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="100">
+        <frame>3</frame>
+        <next probability="10" only="none">13</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="15">
+      <name>c2_walk</name>
+      <start>
+        <x>-3</x>
+        <y>-3</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>30</interval>
+      </start>
+      <end>
+        <x>-3</x>
+        <y>4</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>30</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="15">
+        <frame>4</frame>
+        <next probability="10" only="none">15</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">15</next>
+        <next probability="5" only="none">16</next>
+      </border>
+    </animation>
+    <animation id="16">
+      <name>c2_idle</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="random + 10">
+        <frame>4</frame>
+        <next probability="99" only="none">15</next>
+        <next probability="1" only="none">4</next>
+        <action>flip</action>
+      </sequence>
+      <gravity>
+        <next probability="10" only="none">17</next>
+      </gravity>
+    </animation>
+    <animation id="17">
+      <name>c2_fall</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>30</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>100</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>30</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="100">
+        <frame>4</frame>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">16</next>
+      </border>
+    </animation>
+    <animation id="18">
+      <name>c2_spawn</name>
+      <start>
+        <x>-10</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>30</interval>
+      </start>
+      <end>
+        <x>-10</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>30</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="150">
+        <frame>4</frame>
+        <next probability="10" only="none">17</next>
+        <action>none</action>
+      </sequence>
+    </animation>
   </animations>
   <childs>
     <child animationid="5">
@@ -257,20 +453,30 @@
       <y>imageY-85</y>
       <next>10</next>
     </child>
-    <child animationid="5">
-      <x>imageX</x>
-      <y>imageY-65</y>
-      <next>9</next>
-    </child>
-    <child animationid="5">
-      <x>imageX</x>
-      <y>imageY+5</y>
-      <next>6</next>
-    </child>
     <child animationid="10">
       <x>imageX</x>
       <y>imageY</y>
       <next>7</next>
+    </child>
+    <child animationid="5">
+      <x>imageX+15</x>
+      <y>imageY</y>
+      <next>14</next>
+    </child>
+    <child animationid="5">
+      <x>imageX+30</x>
+      <y>imageY</y>
+      <next>18</next>
+    </child>
+    <child animationid="5">
+      <x>imageX+15</x>
+      <y>imageY-65</y>
+      <next>9</next>
+    </child>
+    <child animationid="5">
+      <x>imageX+15</x>
+      <y>imageY+5</y>
+      <next>6</next>
     </child>
   </childs>
 </animations>
