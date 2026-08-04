@@ -21,6 +21,11 @@
           "lastupdate": "2026-07-31"
         },
         {
+          "folder": "skywire_civilian",
+          "author": "Zecheriah",
+          "lastupdate": "2026-08-03"
+        },
+        {
           "folder": "mortimer",
           "author": "Zecheriah",
           "lastupdate": "2026-05-27"
@@ -29,11 +34,6 @@
           "folder": "lemming",
           "author": "Zecheriah",
           "lastupdate": "2026-07-17"
-        },
-        {
-          "folder" : "skywire",
-          "author" : "Zecheriah",
-          "lastupdate" : "2026-08-03"
         }
       ],
       "vanillaPets": [
@@ -52,12 +52,17 @@
     {
       "title": "Zech's Pets",
       "folder": "sets/zechs_pets",
-      "description": "Here are all the Desktop Pets I've made! Some are more finished than others. (Regular Jerma is not included 'cause he takes forever to load)",
+      "description": "Here are all the Desktop Pets I've made! Some are more finished than others",
       "zechsPets": [
         {
           "folder": "lemming",
           "author": "Zecheriah",
           "lastupdate": "2026-07-17"
+        },
+        {
+          "folder": "jerma",
+          "author": "Zecheriah",
+          "lastupdate": "2026-05-08"
         },
         {
           "folder": "jerma_compact",
@@ -80,16 +85,21 @@
           "lastupdate": "2026-07-30"
         },
         {
-          "folder" : "skywire",
-          "author" : "Zecheriah",
-          "lastupdate" : "2026-08-03"
+          "folder": "skywire",
+          "author": "Zecheriah",
+          "lastupdate": "2026-08-03"
+        },
+        {
+          "folder": "skywire_civilian",
+          "author": "Zecheriah",
+          "lastupdate": "2026-08-03"
         }
       ]
     },
     {
       "title": "Nitrome",
       "folder": "sets/nitrome",
-      "description": "All the Nitrome pets I've made so far",
+      "description": "My collection of Nitrome pets!",
       "zechsPets": [
         {
           "folder": "twin_shot",
@@ -97,9 +107,9 @@
           "lastupdate": "2026-07-30"
         },
         {
-          "folder" : "skywire",
-          "author" : "Zecheriah",
-          "lastupdate" : "2026-08-03"
+          "folder": "skywire_civilian",
+          "author": "Zecheriah",
+          "lastupdate": "2026-08-03"
         }
       ]
     },
@@ -235,9 +245,14 @@
           "lastupdate": "2016-04-27"
         },
         {
-          "folder" : "skywire",
-          "author" : "Zecheriah",
-          "lastupdate" : "2026-08-03"
+          "folder": "skywire",
+          "author": "Zecheriah",
+          "lastupdate": "2026-08-03"
+        },
+        {
+          "folder": "skywire_civilian",
+          "author": "Zecheriah",
+          "lastupdate": "2026-08-03"
         }
       ],
       "vanillaPets": [
