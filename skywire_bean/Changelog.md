@@ -1,4 +1,4 @@
-# Skywire Civilians
+# Skywire Beans
 
 
 
@@ -26,4 +26,11 @@ v0.1 (2026-08-03)
 * Added random sound effect when falling
 * New kill animation (they just hop off the screen)
 * Changed Thanos snap chance to 1/1000
+
+###### 
+
+V2.1 (WIP)
+
+* Changed name to Skywire Beans (it's cuter)
+* Removed 16 duplicate passengers ([spritesheetgenerator](https://spritesheetgenerator.online/) is so goated)
 
