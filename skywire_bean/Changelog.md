@@ -29,8 +29,14 @@ v0.1 (2026-08-03)
 
 ###### 
 
-V2.1 (WIP)
+V2.1 (2026-08-05)
 
 * Changed name to Skywire Beans (it's cuter)
 * Removed 16 duplicate passengers ([spritesheetgenerator](https://spritesheetgenerator.online/) is so goated)
+
+
+
+###### V3.0 (2026-08-05)
+
+* Found, removed dead pixels, and separated all 312 unique Skywire VIP Extended sprites
 

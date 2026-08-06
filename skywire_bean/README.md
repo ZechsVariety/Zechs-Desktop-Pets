@@ -1,12 +1,8 @@
-Please let me know if you know how to extract the passenger sprites from [Skywire VIP Extended](https://www.nitrome.com/html5-games/skywirevipextended/)!
-
-
-
 # Skywire Beans
 
 
 
-**All 246 passengers** from [Skywire 2](https://www.nitrome.com/html5-games/skywire2/) and [Skywire VIP](https://www.nitrome.com/html5-games/skywirevip/), hopping around your desktop! You get a random one each time.
+**All 558 passengers** from [Skywire 2](https://www.nitrome.com/html5-games/skywire2/), [VIP](https://www.nitrome.com/html5-games/skywirevip/), and [VIP Extended](https://www.nitrome.com/html5-games/skywirevipextended/), hopping around your desktop! You get a random one each time.
 
 
 
@@ -14,16 +10,40 @@ Please let me know if you know how to extract the passenger sprites from [Skywir
 
 
 
-The Skywire series, along with its sprites and audio, all belong to **Nitrome Limited**. Play Skywire 2 here: [https://www.nitrome.com/html5-games/skywire2/](https://www.nitrome.com/html5-games/skywire2/)
-
-
-
 ## Features
 
 
 
-* **All 246 passengers** from [Skywire 2](https://www.nitrome.com/html5-games/skywire2/) and [Skywire VIP](https://www.nitrome.com/html5-games/skywirevip/)
+* **All 558 passengers** from the Skywire series! (Minus VIP Shuffle currently)
 
-  * A random one is chosen each time it spawns
+  * 27 from Skywire 2 (+1 extra)
+  * 218 from Skywire VIP
+  * 312 from Skywire VIP Extended
+  * (tbd) from Skywire VIP Shuffle
+* A random passenger is chosen each time it spawns
 * Classic Skywire **sound effects**!
+
+
+
+## Credits
+
+
+
+The Skywire series, along with its sprites and audio, all belong to **Nitrome Limited**. Play Skywire 2 here: [https://www.nitrome.com/html5-games/skywire2/](https://www.nitrome.com/html5-games/skywire2/)
+
+
+
+Sprites by:
+
+* Mat Annal: 1-246 (246+ total)
+
+  * Skywire, Skywire 2, Skywire VIP, Skywire VIP Shuffle
+* Max Schramp \& Duncan Smith: 247-558 (312 total)
+
+  * Skywire VIP Extended
+* Zecheriah: N/A (extra custom sprites)
+
+
+
+Please let me know if anything is missing!
 
