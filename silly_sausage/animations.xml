@@ -12,7 +12,7 @@
   <image>
     <tilesx>4</tilesx>
     <tilesy>2</tilesy>
-    <png><![CDATA[iVBORw0KGgoAAAANSUhEUgAAAFgAAAAsCAYAAADhJn/jAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHySURBVGhD7ZjRTcRADERTFaII/igC0QU1UA29UAk/hEw0ExnHyZGg1SV38yQrm/XsZO3z13XGGGPMUfl+e+m/Pt97vs5ADhq+mq2ggc8PT/3H4+vYSLyrqdhDbu0HuBlaTlpurkJNpuy2QcGtJg0e8tQ6BmXHABdaK1RF8HUTLSYN54F8YsQc5dcHlznTpKGBfMz8gHKjeAswWCtURfB1E0ecNGnzOvtiAIbt0jeei+sSHLqnSYNOtWrN1HRf7UcdgrJpcKSLuRKJ1FyFDCjbBM4D+cSIOcpnSJvX2XfPpEkrD+wBaaoGIihbPL+IDHQgB2WbQKF8zPyAcqO4ALpcKFPTfbUfdQjKyklTxAbJO+ariJ7xvHIlEIEoVsQc5TOkzevse5RJy9oqpP9LyGv8YAUK5WN2GCg3igugy4UyNTVC+7kwyq46aWvfWwrd4xdK5jXMgEzvdtL+S/yI1kxNjdB+Loyy25i0luCj8WLcnhoRi4hrysrzWVvFpUbEkNf4wTOhAmKD9AsrtxTQqPB4XrlIbnbWV6F7nBoVkouLcakRMeRFe5O520kzxhhjjDHGGGOMMcaY44O/ZNf+tqXM7AVNdIMHUGyLRuCsGzyAYt3gAVzqTI3A2Ra+zcClztQInG3h60YQnG3h60YQnN3n23U/F6garHG2o8IAAAAASUVORK5CYII=]]></png>
+    <png><![CDATA[iVBORw0KGgoAAAANSUhEUgAAALAAAABYCAYAAABVoH2xAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAATiSURBVHhe7ZxRju1EDERnVYhF8MciELtgDayGvbASfoCkqRP11ItJ5056oEd1pJJy/eyyb2zN/XtvIYQQQgghhBBCCCGEEEIIFX/+8tNfu/74/dcmhYehDh+FQ/gccsBhaTjAH7/7oem3739u8sNGxMmjjn+XbQifA4eXAw4NX7zCw1CHj8LTuTpcF3nUySasjh+AwsP4gSg8nRxwaLDg1X6SmQP5fFeSTVgdFp8DDg1e0KsL9UUoPJ2rw3WRR51spkN/8HkqVXWyDeAvTOFhqMNH4enkgEODF5Of5Dno/vZ+TXA2Uy/wuu059LD4HPAcdHffHOLZTL3A67bnuTDAqwv1RSg8navDdZFHnWymQ3/weSpVdbIdxn0VLuNVX/L4A7ClNhGv6prpBnlI4TI+DIXecBTqXh7gRXLAY7ivwl/ngGnEYFeHQZw86vh32U6HOZDPdyXZTEf73Ps1wdlMvcDrtudb4Od79bjSDzwPkY/OcnbJ5qDK97jSx2HxOeA56O72fk1wNlMv8Lrt+Rb4+V49rvQDz0Pko7OcXbI5qPI9rvT7uBEHUYk86mQzHfqDz1OpqpPtMO6rcBmv+pLHH4AttYl4VddMN8hDCl/G8UGeB8SR38dVXDYHxEf738YH8UYu8qiTzXToDz5PpapOtsO4r8JlvOpLXg74PP82GCFvcCXZTEf73Ps1wdlMvcDrtudb4He1UKUfeB4iH53l7JLNQZV/5dMfT79f6mRfzjsq2Vz+YexrdqnsPm5UNagkm+no7vZ+TXA2Uy/wuu35Fvj5Yjyu9APPQ+Sjs5xdsjmo8q98+uPp90ud7Nc5YIygMnZVdbIdxn0VLuNVX/Lyk/w+n8+V76jc/yn5XBp7HAaD0UGrOtkO474Kl/GqL3k54Pf5fK58R+X+T8nn0tjjaJ97YRP0Tc4EXrc93wK/6gUTV/qB5yHy0VnOLtkcVPlXPv3x9AumTvblvKOSzeM/ye7nuvIfFX3U9jl0d7txE5wN0Qu8bnu+BX7Vi6y+uOch8tFZzi7ZHFT5Vz7VgqmTfQ5YfdS2xgsVLuMMBj5ofpLf5/O58h2V+z8ln0tjr0P/ZfovUMV5keAvNgf8Pp/Ple+o3P8p+Vwaex2qL+JxpR94HiIfneXsks1BlX/l0x9Pv2DqZF/OOyrZfP2f5NXwL9h/6T6u9APPQ+Sjs5xdsjmo8q98qgVTJ/scsPqo7deDL1q9MKUdEEfVIqq4bA6IX/Xnc+U7Kvd/Sj6Xxg6z4YX3x9MvWGkHxFF1UFVcNgfEr/rzufIdlfs/JZ9LY4dZ9C9/V388/YJZjMq+qbsr2eQnOXwMX0y1YF9YX/OKZJMDDh/DF9Iv6Y4+ehCVfC6NHcI/VIdyVzng8L/k6rA53I8eMH3UNoRnyAGHEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIXwC/CeNr/5nj7IJ4b+BQ8wBhyXhEHPAYUk4xBxwaLDYVQ6CvqvMGybDYlc5CPquMm+YDItd5SDou8q8YTIsdpWDoO8q8y4HL2qVF0zfzBsavKhVXjB9M29o8KJWecH0zbyhwYta5QXTN/NOgsarDEzfzDsH+q4yb17wZOibeSdB41UGpm/mnQN9V5k3L3gy9M28/8bb299JyWqtN3RKfgAAAABJRU5ErkJggg==]]></png>
     <transparency>Magenta</transparency>
   </image>
   <spawns>
@@ -51,19 +51,19 @@
       <name>stretchUp</name>
       <start>
         <x>0</x>
-        <y>-2</y>
+        <y>-3</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>100</interval>
+        <interval>50</interval>
       </start>
       <end>
         <x>0</x>
-        <y>-2</y>
+        <y>-3</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>100</interval>
+        <interval>50</interval>
       </end>
-      <sequence repeatfrom="0" repeat="2">
+      <sequence repeatfrom="0" repeat="3">
         <frame>0</frame>
         <next probability="10" only="none">2</next>
         <next probability="0" only="none">7</next>
@@ -291,14 +291,14 @@
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>100</interval>
+        <interval>50</interval>
       </start>
       <end>
         <x>0</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>100</interval>
+        <interval>50</interval>
       </end>
       <sequence repeatfrom="3" repeat="100">
         <frame>4</frame>
@@ -317,14 +317,14 @@
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>100</interval>
+        <interval>50</interval>
       </start>
       <end>
         <x>0</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>100</interval>
+        <interval>50</interval>
       </end>
       <sequence repeatfrom="0" repeat="0">
         <frame>7</frame>
