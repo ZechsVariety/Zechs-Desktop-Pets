@@ -284,6 +284,157 @@
         <action>flip</action>
       </sequence>
     </animation>
+    <animation id="12">
+      <name>stretchUpA</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="1" repeat="100">
+        <frame>158</frame>
+        <frame>159</frame>
+        <next probability="10" only="none">13</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="13">
+      <name>stretchUpB</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>0</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="10">
+        <frame>158</frame>
+        <frame>159</frame>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="14">
+      <name>stretchHorizA</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="1" repeat="100">
+        <frame>149</frame>
+        <frame>150</frame>
+        <next probability="10" only="none">15</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="15">
+      <name>stretchHorizB</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>0</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="10">
+        <frame>149</frame>
+        <frame>150</frame>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="16">
+      <name>stretchDownA</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="1" repeat="100">
+        <frame>166</frame>
+        <frame>167</frame>
+        <next probability="10" only="none">17</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="17">
+      <name>stretchDownB</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>0</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="10">
+        <frame>166</frame>
+        <frame>167</frame>
+        <action>none</action>
+      </sequence>
+    </animation>
   </animations>
-  <childs />
+  <childs>
+    <child animationid="2">
+      <x>imageX</x>
+      <y>imageY</y>
+      <next>12</next>
+    </child>
+    <child animationid="3">
+      <x>imageX</x>
+      <y>imageY</y>
+      <next>14</next>
+    </child>
+    <child animationid="5">
+      <x>imageX</x>
+      <y>imageY</y>
+      <next>16</next>
+    </child>
+  </childs>
 </animations>
