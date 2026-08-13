@@ -4,15 +4,15 @@
     <author>Zecheriah</author>
     <title>Silly Sausage</title>
     <petname>Stretchy Dog</petname>
-    <version>0.2</version>
+    <version>0.2.1</version>
     <info>Very experimental...</info>
     <application>1</application>
     <icon><![CDATA[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]]></icon>
   </header>
   <image>
     <tilesx>5</tilesx>
-    <tilesy>3</tilesy>
-    <png><![CDATA[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]]></png>
+    <tilesy>4</tilesy>
+    <png><![CDATA[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]]></png>
     <transparency>Magenta</transparency>
   </image>
   <spawns>
@@ -168,14 +168,14 @@
     <animation id="7">
       <name>upToLeft</name>
       <start>
-        <x>-4</x>
+        <x>-7</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
         <interval>100</interval>
       </start>
       <end>
-        <x>-8</x>
+        <x>-7</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
@@ -217,14 +217,14 @@
       <name>horizToUp</name>
       <start>
         <x>0</x>
-        <y>-4</y>
+        <y>-7</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
         <interval>100</interval>
       </start>
       <end>
         <x>0</x>
-        <y>-8</y>
+        <y>-7</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
         <interval>100</interval>
@@ -352,11 +352,11 @@
         <interval>50</interval>
       </end>
       <sequence repeatfrom="3" repeat="100">
-        <frame>5</frame>
-        <frame>6</frame>
-        <frame>7</frame>
-        <frame>8</frame>
-        <frame>8</frame>
+        <frame>12</frame>
+        <frame>13</frame>
+        <frame>14</frame>
+        <frame>15</frame>
+        <frame>15</frame>
         <next probability="10" only="none">15</next>
         <action>none</action>
       </sequence>
@@ -374,14 +374,14 @@
         <x>0</x>
         <y>0</y>
         <offsety>0</offsety>
-        <opacity>0</opacity>
+        <opacity>1</opacity>
         <interval>100</interval>
       </end>
-      <sequence repeatfrom="0" repeat="10">
-        <frame>8</frame>
-        <frame>7</frame>
-        <frame>6</frame>
-        <frame>5</frame>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>15</frame>
+        <frame>14</frame>
+        <frame>13</frame>
+        <frame>12</frame>
         <action>none</action>
       </sequence>
     </animation>
@@ -446,10 +446,9 @@
         <opacity>1</opacity>
         <interval>50</interval>
       </end>
-      <sequence repeatfrom="3" repeat="100">
+      <sequence repeatfrom="2" repeat="100">
         <frame>9</frame>
         <frame>10</frame>
-        <frame>11</frame>
         <frame>11</frame>
         <frame>11</frame>
         <action>none</action>
@@ -476,16 +475,61 @@
         <action>none</action>
       </sequence>
     </animation>
+    <animation id="20">
+      <name>StretchLeftUpA</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>50</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>50</interval>
+      </end>
+      <sequence repeatfrom="2" repeat="100">
+        <frame>16</frame>
+        <frame>17</frame>
+        <frame>18</frame>
+        <frame>18</frame>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="21">
+      <name>jerma</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>1</frame>
+        <action>none</action>
+      </sequence>
+    </animation>
   </animations>
   <childs>
     <child animationid="2">
       <x>imageX</x>
-      <y>imageY-6</y>
+      <y>imageY-8</y>
       <next>12</next>
     </child>
     <child animationid="3">
-      <x>imageX-6</x>
-      <y>imageY-12</y>
+      <x>imageX-8</x>
+      <y>imageY</y>
       <next>14</next>
     </child>
     <child animationid="5">
@@ -497,6 +541,11 @@
       <x>imageX</x>
       <y>imageY-2</y>
       <next>18</next>
+    </child>
+    <child animationid="9">
+      <x>imageX-2</x>
+      <y>imageY</y>
+      <next>20</next>
     </child>
   </childs>
 </animations>
