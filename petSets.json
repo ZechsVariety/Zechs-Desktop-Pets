@@ -103,6 +103,11 @@
           "folder" : "silly_sausage",
           "author" : "Zecheriah",
           "lastupdate" : "2026-08-13"
+        },
+        {
+          "folder" : "mortimer_mc",
+          "author" : "Zecheriah",
+          "lastupdate" : "2026-08-14"
         }
       ]
     },
@@ -273,6 +278,11 @@
           "folder" : "silly_sausage",
           "author" : "Zecheriah",
           "lastupdate" : "2026-08-13"
+        },
+        {
+          "folder" : "mortimer_mc",
+          "author" : "Zecheriah",
+          "lastupdate" : "2026-08-14"
         }
       ],
       "vanillaPets": [
@@ -385,6 +395,26 @@
           "folder": "mimiko",
           "author": "Madnuttah",
           "lastupdate": "2022-08-25"
+        },
+        {
+          "folder" : "grian",
+          "author" : "RedSparr0w",
+          "lastupdate" : "2026-08-14"
+        },
+        {
+          "folder" : "mumbojumbo",
+          "author" : "RedSparr0w",
+          "lastupdate" : "2026-08-14"
+        },
+        {
+          "folder" : "skeleton",
+          "author" : "RedSparr0w",
+          "lastupdate" : "2026-08-14"
+        },
+        {
+          "folder" : "zombie",
+          "author" : "RedSparr0w",
+          "lastupdate" : "2026-08-14"
         }
       ]
     }
