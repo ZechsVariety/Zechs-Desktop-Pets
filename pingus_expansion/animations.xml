@@ -4,7 +4,7 @@
     <author>Zecheriah</author>
     <title>Pingus Expansion</title>
     <petname>Pingus Expansion</petname>
-    <version>0.4</version>
+    <version>0.5</version>
     <info>This is an expansion of the Pingus screenmate by Andriano Petrucci</info>
     <application>1</application>
     <icon><![CDATA[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]]></icon>
@@ -1909,6 +1909,31 @@
         <frame>117</frame>
         <action>none</action>
       </sequence>
+    </animation>
+    <animation id="63">
+      <name>fling</name>
+      <start>
+        <x>0</x>
+        <y>3</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>25</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="30">
+        <frame>12</frame>
+        <next probability="10" only="none">50</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">1</next>
+      </border>
     </animation>
   </animations>
   <childs>

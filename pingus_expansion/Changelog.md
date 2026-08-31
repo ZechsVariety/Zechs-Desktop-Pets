@@ -36,7 +36,7 @@ v0.2 (2026-05-20)
 
 
 
-V0.3 (2026-06-11)
+v0.3 (2026-06-11)
 
 * Added subtle recoil to rocket launcher
 * Added angel animation
@@ -46,10 +46,19 @@ V0.3 (2026-06-11)
 
 
 
-V0.4 (WIP)
+v0.4 (2026-07-31)
 
 * Added jump that triggers if Pingu touches the ground right after being dragged (and also when you drop it below the taskbar)
 * Added 2 new uncommon animations
 * Added rare easter egg
 * Added extremely rare event when making Pingu jump...
+* New icon (finally)
+
+
+
+v0.5 (WIP)
+
+* WIP: Added "fling" animation for use with DesktopPet-Z
+
+  * NOTE: Pet is still fully vanilla-compatible; this animation will just never play.
 
