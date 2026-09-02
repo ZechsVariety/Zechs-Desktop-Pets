@@ -58,7 +58,5 @@ v0.4 (2026-07-31)
 
 v0.5 (WIP)
 
-* WIP: Added "fling" animation for use with DesktopPet-Z
-
-  * NOTE: Pet is still fully vanilla-compatible; this animation will just never play.
+* Added custom tossing animations! (toss, fall soft, fall hard)
 

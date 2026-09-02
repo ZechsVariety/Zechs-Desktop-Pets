@@ -21,6 +21,7 @@ Play Pingus here: [https://pingus.seul.org/](https://pingus.seul.org/)
   * Pingus turn to angels when they die
   * They can now sprint (maybe a little too fast...)
   * You can make them jump
+  * You can throw them around like fireworks
   * They can moonwalk
   * Four secret rare events...
 

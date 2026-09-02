@@ -1955,24 +1955,11 @@
         <x>0</x>
         <y>0</y>
         <offsety>0</offsety>
-        <opacity>1</opacity>
+        <opacity>0</opacity>
         <interval>50</interval>
       </end>
-      <sequence repeatfrom="12" repeat="10">
+      <sequence repeatfrom="0" repeat="10">
         <frame>117</frame>
-        <frame>117</frame>
-        <frame>221</frame>
-        <frame>117</frame>
-        <frame>222</frame>
-        <frame>223</frame>
-        <frame>117</frame>
-        <frame>224</frame>
-        <frame>225</frame>
-        <frame>226</frame>
-        <frame>117</frame>
-        <frame>227</frame>
-        <frame>228</frame>
-        <frame>228</frame>
         <next probability="10" only="none">40</next>
         <action>none</action>
       </sequence>
@@ -1993,12 +1980,10 @@
         <opacity>1</opacity>
         <interval>200</interval>
       </end>
-      <sequence repeatfrom="5" repeat="10">
+      <sequence repeatfrom="3" repeat="10">
         <frame>178</frame>
         <frame>179</frame>
         <frame>177</frame>
-        <frame>173</frame>
-        <frame>176</frame>
         <frame>192</frame>
         <frame>192</frame>
         <next probability="10" only="none">5</next>
