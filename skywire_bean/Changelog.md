@@ -13,7 +13,7 @@ v0.1 (2026-08-03)
 
 
 
-###### v1.0 (2026-08-03)
+##### v1.0 (2026-08-03)
 
 * Re-extracted all the civilians from Skywire 2 and Skywire VIP, and created a new spritesheet with them
 
@@ -21,13 +21,13 @@ v0.1 (2026-08-03)
 
 
 
-###### V2.0 (2026-08-03)
+##### V2.0 (2026-08-03)
 
 * Added random sound effect when falling
 * New kill animation (they just hop off the screen)
 * Changed Thanos snap chance to 1/1000
 
-###### 
+
 
 V2.1 (2026-08-05)
 
@@ -36,7 +36,20 @@ V2.1 (2026-08-05)
 
 
 
-###### V3.0 (2026-08-05)
+##### V3.0 (2026-08-05)
 
 * Found, removed dead pixels, and separated all 312 unique Skywire VIP Extended sprites
+
+
+
+##### V4.0 (2026-09-15)
+
+* Imported my custom beans
+
+  * My own characters: Mortimer, Bean, Mancer, Pipi and Mandolin
+  * Smiling Friends: Charlie, Pim, Alan, Mr. Boss, Glep and TheCoolAutisticGamer774
+* Added sound effects for key animations (drag, toss, fall hard, kill)
+
+  * Includes 2 new voicelines from the games!
+* Removed duplicate Steve bean
 
