@@ -3,7 +3,7 @@
     {
       "title": "Zech's Favourites",
       "folder": "sets/zechs_favs",
-      "description": "Here's a collection of my favourite Desktop Pets! (NOTE: I am 100% biased lol)",
+      "description": "Here's a collection of my favourite Desktop Pets! (NOTE: I am 100% biased lol)[br]WARNING: Foxy is extremely loud!",
       "zechsPets": [
         {
           "folder": "twin_shot",
@@ -39,6 +39,11 @@
           "folder": "lemming",
           "author": "Zecheriah",
           "lastupdate": "2026-07-17"
+        },
+        {
+          "folder" : "foxy_jumpscare",
+          "author" : "Zecheriah",
+          "lastupdate" : "2026-09-15"
         }
       ],
       "vanillaPets": [
@@ -57,7 +62,7 @@
     {
       "title": "Zech's Pets",
       "folder": "sets/zechs_pets",
-      "description": "Here are all the Desktop Pets I've made! Some are more finished than others",
+      "description": "Here are all the Desktop Pets I've made! Some are more finished than others[br]WARNING: Foxy is extremely loud!",
       "zechsPets": [
         {
           "folder": "lemming",
@@ -108,6 +113,11 @@
           "folder" : "mortimer_mc",
           "author" : "Zecheriah",
           "lastupdate" : "2026-08-14"
+        },
+        {
+          "folder" : "foxy_jumpscare",
+          "author" : "Zecheriah",
+          "lastupdate" : "2026-09-15"
         }
       ]
     },
@@ -283,6 +293,11 @@
           "folder" : "mortimer_mc",
           "author" : "Zecheriah",
           "lastupdate" : "2026-08-14"
+        },
+        {
+          "folder" : "foxy_jumpscare",
+          "author" : "Zecheriah",
+          "lastupdate" : "2026-09-15"
         }
       ],
       "vanillaPets": [
