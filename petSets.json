@@ -6,14 +6,14 @@
       "description": "Here's a collection of my favourite Desktop Pets! (NOTE: I am 100% biased lol) WARNING: Foxy is extremely loud!",
       "zechsPets": [
         {
+          "folder": "pingus_expansion",
+          "author": "Zecheriah",
+          "lastupdate": "2026-09-15"
+        },
+        {
           "folder": "twin_shot",
           "author": "Zecheriah",
           "lastupdate": "2026-07-30"
-        },
-        {
-          "folder": "pingus_expansion",
-          "author": "Zecheriah",
-          "lastupdate": "2026-09-02"
         },
         {
           "folder": "skywire_bean",
@@ -82,7 +82,7 @@
         {
           "folder": "pingus_expansion",
           "author": "Zecheriah",
-          "lastupdate": "2026-09-02"
+          "lastupdate": "2026-09-15"
         },
         {
           "folder": "mortimer",
@@ -257,7 +257,7 @@
         {
           "folder": "pingus_expansion",
           "author": "Zecheriah",
-          "lastupdate": "2026-09-02"
+          "lastupdate": "2026-09-15"
         },
         {
           "folder": "mortimer",

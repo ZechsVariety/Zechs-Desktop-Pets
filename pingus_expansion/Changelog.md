@@ -56,7 +56,8 @@ v0.4 (2026-07-31)
 
 
 
-v0.5 (WIP)
+v1.0 (WIP)
 
 * Added custom tossing animations! (toss, fall soft, fall hard)
+* Added lotsa sound effects (31 of them!!)
 

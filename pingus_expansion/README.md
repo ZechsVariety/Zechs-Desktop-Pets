@@ -22,11 +22,12 @@ Play Pingus here: [https://pingus.seul.org/](https://pingus.seul.org/)
   * They can now sprint (maybe a little too fast...)
   * You can make them jump
   * You can throw them around like fireworks
-  * They can moonwalk
+  * They can moonwalk..?
   * Four secret rare events...
 
     * Note: some of these only work when the Pingu is walking left lol
   * And more!
+* 30+ sound effects!
 * Restored screen climbing functionality - now the Pingus can waltz up the side of the screen again, and even fly around like a bug! (Literally changed one line of code from Adriano's version)
 * The 3 pre-existing digging animations now actually dig instead of just being stationary
 * Other tweaks to make the Pingus feel more polished and lively, without being too distracting
