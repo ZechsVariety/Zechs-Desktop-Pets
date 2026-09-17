@@ -118,6 +118,11 @@
           "folder" : "foxy_jumpscare",
           "author" : "Zecheriah",
           "lastupdate" : "2026-09-15"
+        },
+        {
+          "folder" : "social_sheep",
+          "author" : "Zecheriah",
+          "lastupdate" : "2026-09-16"
         }
       ]
     },
@@ -164,6 +169,13 @@
       "title": "Sheeps",
       "folder": "sets/sheeps",
       "description": "All versions of Poe, including the original eSheep and Oliver B.'s gSheep ones.",
+      "zechsPets": [
+        {
+          "folder" : "social_sheep",
+          "author" : "Zecheriah",
+          "lastupdate" : "2026-09-16"
+        }
+      ],
       "vanillaPets": [
         {
           "folder": "esheep64",
@@ -298,6 +310,11 @@
           "folder" : "foxy_jumpscare",
           "author" : "Zecheriah",
           "lastupdate" : "2026-09-15"
+        },
+        {
+          "folder" : "social_sheep",
+          "author" : "Zecheriah",
+          "lastupdate" : "2026-09-16"
         }
       ],
       "vanillaPets": [
