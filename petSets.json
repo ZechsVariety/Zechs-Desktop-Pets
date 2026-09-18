@@ -26,6 +26,11 @@
           "lastupdate": "2026-07-31"
         },
         {
+          "folder" : "social_sheep",
+          "author" : "Zecheriah",
+          "lastupdate" : "2026-09-17"
+        },
+        {
           "folder" : "mortimer_mc",
           "author" : "Zecheriah",
           "lastupdate" : "2026-08-14"
@@ -122,7 +127,7 @@
         {
           "folder" : "social_sheep",
           "author" : "Zecheriah",
-          "lastupdate" : "2026-09-16"
+          "lastupdate" : "2026-09-17"
         }
       ]
     },
@@ -168,12 +173,12 @@
     {
       "title": "Sheeps",
       "folder": "sets/sheeps",
-      "description": "All versions of Poe, including the original eSheep and Oliver B.'s gSheep ones.",
+      "description": "All versions of Poe, including the original eSheep, Oliver B.'s gSheeps, and Social Sheep.",
       "zechsPets": [
         {
           "folder" : "social_sheep",
           "author" : "Zecheriah",
-          "lastupdate" : "2026-09-16"
+          "lastupdate" : "2026-09-17"
         }
       ],
       "vanillaPets": [
@@ -314,7 +319,7 @@
         {
           "folder" : "social_sheep",
           "author" : "Zecheriah",
-          "lastupdate" : "2026-09-16"
+          "lastupdate" : "2026-09-17"
         }
       ],
       "vanillaPets": [
