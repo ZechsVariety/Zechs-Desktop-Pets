@@ -18,5 +18,5 @@ v1.9 (2026-09-17)
 * Added "toss" key animation
 * Made dragging 2x smoother
 * Made the boing animation bouncier >:)
-* Adjusted animation probabilities (they still sleep WAYY too much)
+* Adjusted animation probabilities
 

@@ -449,7 +449,7 @@
         <opacity>1</opacity>
         <interval>200</interval>
       </end>
-      <sequence repeatfrom="9" repeat="random/2+10">
+      <sequence repeatfrom="9" repeat="random/5+10">
         <frame>3</frame>
         <frame>107</frame>
         <frame>108</frame>
@@ -514,7 +514,7 @@
         <opacity>1</opacity>
         <interval>200</interval>
       </end>
-      <sequence repeatfrom="6" repeat="random/5+20">
+      <sequence repeatfrom="6" repeat="random/10+20">
         <frame>3</frame>
         <frame>6</frame>
         <frame>7</frame>
@@ -568,7 +568,7 @@
         <opacity>1</opacity>
         <interval>200</interval>
       </end>
-      <sequence repeatfrom="7" repeat="random/5+30">
+      <sequence repeatfrom="7" repeat="random/10+30">
         <frame>3</frame>
         <frame>9</frame>
         <frame>10</frame>
