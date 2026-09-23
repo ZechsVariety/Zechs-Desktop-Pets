@@ -67,8 +67,13 @@
         <next probability="10" only="vertical">25</next>
         <next probability="10" only="vertical">27</next>
         <next probability="20" only="window">28</next>
+        <next probability="5" only="vertical">68</next>
+        <next probability="0" only="petSide">64</next>
+        <next probability="0" only="petSide">16</next>
         <next probability="50" only="vertical">29</next>
-        <next probability="5" only="none">68</next>
+        <next probability="10" only="windowSide">29</next>
+        <next probability="0" only="petSide">57</next>
+        <next probability="0" only="petSide">58</next>
       </border>
       <gravity>
         <next probability="10" only="none">9</next>
@@ -187,6 +192,9 @@
         <next probability="5" only="none">68</next>
         <action>flip</action>
       </sequence>
+      <border>
+        <next probability="0" only="petSide">64</next>
+      </border>
       <gravity>
         <next probability="10" only="none">9</next>
       </gravity>
@@ -471,7 +479,8 @@
         <action>none</action>
       </sequence>
       <border>
-        <next probability="10" only="none">29</next>
+        <next probability="10" only="vertical">29</next>
+        <next probability="10" only="petSide">9</next>
       </border>
       <gravity>
         <next probability="10" only="none">9</next>
@@ -501,7 +510,7 @@
         <action>none</action>
       </sequence>
       <border>
-        <next probability="10" only="none">29</next>
+        <next probability="10" only="vertical+">29</next>
       </border>
       <gravity>
         <next probability="10" only="none">9</next>
@@ -532,7 +541,7 @@
         <frame>85</frame>
         <frame>86</frame>
         <frame>87</frame>
-        <next probability="10" only="none">1</next>
+        <next probability="10" only="none">29</next>
         <action>none</action>
       </sequence>
       <gravity>
@@ -724,7 +733,8 @@
         <action>none</action>
       </sequence>
       <border>
-        <next probability="10" only="vertical">24</next>
+        <next probability="10" only="vertical+">24</next>
+        <next probability="1" only="petSide">64</next>
       </border>
     </animation>
     <animation id="24">
@@ -885,6 +895,9 @@
         <next probability="4" only="none">54</next>
         <action>flip</action>
       </sequence>
+      <border>
+        <next probability="10" only="petSide">64</next>
+      </border>
       <gravity>
         <next probability="10" only="none">9</next>
       </gravity>
@@ -1292,7 +1305,7 @@
       </sequence>
       <border>
         <next probability="10" only="window">14</next>
-        <next probability="10" only="vertical">9</next>
+        <next probability="10" only="vertical+">9</next>
       </border>
       <gravity>
         <next probability="10" only="none">9</next>
@@ -1328,6 +1341,9 @@
         <next probability="2" only="none">45</next>
         <action>none</action>
       </sequence>
+      <border>
+        <next probability="10" only="vertical+">9</next>
+      </border>
     </animation>
     <animation id="44">
       <name>Sprint End</name>
@@ -1358,7 +1374,7 @@
         <action>none</action>
       </sequence>
       <border>
-        <next probability="10" only="vertical">29</next>
+        <next probability="10" only="vertical+">29</next>
       </border>
     </animation>
     <animation id="45">
@@ -1960,7 +1976,7 @@
       </end>
       <sequence repeatfrom="0" repeat="10">
         <frame>117</frame>
-        <next probability="10" only="none">40</next>
+        <next probability="10" only="horizontal+">40</next>
         <action>none</action>
       </sequence>
     </animation>
@@ -2051,6 +2067,9 @@
         <next probability="1" only="none">42</next>
         <action>flip</action>
       </sequence>
+      <border>
+        <next probability="0" only="petSide">64</next>
+      </border>
     </animation>
     <animation id="68">
       <name>moonwalk_start</name>
@@ -2088,7 +2107,7 @@
     </child>
     <child animationid="21">
       <x>imageX</x>
-      <y>imageY</y>
+      <y>imageY-3</y>
       <next>23</next>
     </child>
     <child animationid="36">

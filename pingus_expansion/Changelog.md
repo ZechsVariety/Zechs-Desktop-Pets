@@ -59,5 +59,6 @@ v0.4 (2026-07-31)
 v1.0 (WIP)
 
 * Added custom tossing animations! (toss, fall soft, fall hard)
+* They now collide with windows and they can shoot each other >:)
 * Added lotsa sound effects (31 of them!!)
 

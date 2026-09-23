@@ -18,6 +18,7 @@ Play Pingus here: [https://pingus.seul.org/](https://pingus.seul.org/)
 
   * Improved falling (tumble and splat)
   * You can now explode them (double right-click)
+  * They can explode each other with their rocket launchers
   * Pingus turn to angels when they die
   * They can now sprint (maybe a little too fast...)
   * You can make them jump
