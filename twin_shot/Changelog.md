@@ -34,7 +34,7 @@ v0.2 (2026-07-30)
 
 
 
-v1.0 (WIP)
+v1.0 (2026-10-20)
 
 * Toss animations
 * Hit and stun animations (currently only used for fall hard)
@@ -42,4 +42,6 @@ v1.0 (WIP)
 * "Kill" anim (of them peacefully flying away)
 * Spawn anim
 * Update readme
+* Sound effects
+* smoother drag animation
 

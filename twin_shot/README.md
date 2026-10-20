@@ -17,6 +17,7 @@ Support Nitrome by playing [Twin Shot Deluxe](https://store.steampowered.com/app
 
   * Click them while they're on ground to make them shoot
 * If they walk off screen, they wrap to the other side
+* Classic sound effects!
 
 
 
@@ -24,6 +25,4 @@ Support Nitrome by playing [Twin Shot Deluxe](https://store.steampowered.com/app
 
 * Twin Shot characters and audio belong to [Nitrome Limited](http://www.nitrome.com/)
 * Sprites created by Markus Heinel and Mat Annal
-
-
 
