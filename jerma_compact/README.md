@@ -6,6 +6,10 @@ The titular spinning top, **Jerma985**, now in HD (but smaller)! He'll spin and 
 
 
 
+This is my first Desktop Pet, so let's just say, it's quite experimental.
+
+
+
 Feel free to suggest updates! He could certainly use some more emotes, so let me know if you find any similarly-style gifs/images. Same with voicelines!
 
 
@@ -17,6 +21,4 @@ Please tell him:
 
 
 * If this Jerma is too small for you, try the [Original Version](https://github.com/ZechsVariety/Zechs-Desktop-Pets/tree/main/jerma)
-
-
 

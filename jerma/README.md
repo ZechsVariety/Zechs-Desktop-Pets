@@ -6,6 +6,10 @@ The titular spinning top, **Jerma985**, now in HD! He'll spin and skip around yo
 
 
 
+This is my first Desktop Pet, so let's just say, it's quite experimental.
+
+
+
 Feel free to suggest updates! He could certainly use some more emotes, so let me know if you find any similarly-style gifs/images. Same with voicelines!
 
 

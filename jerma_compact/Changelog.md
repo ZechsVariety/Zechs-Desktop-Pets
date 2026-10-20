@@ -21,3 +21,9 @@ v2.0 (2026-10-08)
 * Added 27 voicelines
 * New rare animation
 
+v2.1 (2026-10-20)
+
+* Death animation and voiceline
+* Halved rare animation chance
+* Fixed outline bug during twerk
+
