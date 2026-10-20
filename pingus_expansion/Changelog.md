@@ -56,9 +56,19 @@ v0.4 (2026-07-31)
 
 
 
-v1.0 (WIP)
+v1.0 (2026-09-22)
 
 * Added custom tossing animations! (toss, fall soft, fall hard)
 * They now collide with windows and they can shoot each other >:)
 * Added lotsa sound effects (31 of them!!)
+
+v1.1 (2026-10-20)
+
+* removed sprint sfx
+* skate sfx happens 100% of the time on the first time only
+* better icon
+* updated README
+* much lower chance to moonwalk
+* quieter fly/jackhammer sfx
+* halved chance for upwards balloon anim
 
