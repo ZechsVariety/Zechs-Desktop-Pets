@@ -6,10 +6,6 @@
 
 
 
-**NOTE: Randomization only works in** [**DesktopPet-Z**](https://github.com/ZechsVariety/desktopPetZ/releases/) **(v0.2 and later)!** Vanilla users only get the default passenger :(
-
-
-
 ## Features
 
 
@@ -19,12 +15,11 @@
   * 27 from Skywire 2 (+1 extra)
   * 218 from Skywire VIP
   * 311 from Skywire VIP Extended
-  * (tbd) from Skywire VIP Shuffle
+  * (not added yet) from Skywire VIP Shuffle
 * **11 custom-made passengers!**
 
   * **My own characters** (5): Mortimer, Bean, Mancer, Pipi and Mandolin
   * **Smiling Friends** (6): Charlie, Pim, Alan, Mr. Boss, Glep and TheCoolAutisticGamer774
-
 * A random passenger is chosen each time it spawns
 * Classic Skywire **sound effects**!
 

@@ -52,4 +52,5 @@ V2.1 (2026-08-05)
 
   * Includes 2 new voicelines from the games!
 * Removed duplicate Steve bean
+* Added sprite randomization to vanilla Desktop Pet
 
