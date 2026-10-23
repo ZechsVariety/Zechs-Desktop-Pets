@@ -54,3 +54,7 @@ V2.1 (2026-08-05)
 * Removed duplicate Steve bean
 * Added sprite randomization to vanilla Desktop Pet
 
+V4.1 (WIP)
+
+* Changed randomization to use new "skins" system
+
