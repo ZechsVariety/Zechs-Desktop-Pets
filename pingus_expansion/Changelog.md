@@ -62,7 +62,7 @@ v1.0 (2026-09-22)
 * They now collide with windows and they can shoot each other >:)
 * Added lotsa sound effects (31 of them!!)
 
-v1.1 (2026-10-20)
+v1.0.1 (2026-10-20)
 
 * removed sprint sfx
 * skate sfx happens 100% of the time on the first time only
@@ -71,4 +71,19 @@ v1.1 (2026-10-20)
 * much lower chance to moonwalk
 * quieter fly/jackhammer sfx
 * halved chance for upwards balloon anim
+
+
+
+v1.1 (WIP)
+
+* Way more animation possibilities using the new pet interaction system. Pingus can now:
+
+  * Slide under incoming bullets
+  * Turn around if they meet a Stopper Pingu (unless they're fast enough...)
+  * Get annoyed at each other for skateboarding
+  * Get swept off their feet when another Pingus slides under them
+  * Moonwalk together more consistently
+  * Etc.
+* Ported old interaction anims to the new system
+* Stopper lasts way longer and also doesn't randomly explode lmao
 
