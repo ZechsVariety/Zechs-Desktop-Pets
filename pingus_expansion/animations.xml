@@ -53,9 +53,9 @@
         <next probability="4" only="taskbar">6</next>
         <next probability="6" only="taskbar">13</next>
         <next probability="20" only="window">16</next>
-        <next probability="10" only="none">22</next>
+        <next probability="15" only="none">22</next>
         <next probability="10" only="window">26</next>
-        <next probability="4" only="none">28</next>
+        <next probability="15" only="none">28</next>
         <next probability="4" only="taskbar">32</next>
         <next probability="20" only="none">42</next>
         <next probability="1" only="taskbar">59</next>
@@ -78,14 +78,14 @@
       <interact>
         <next probability="10" only="none" trigger="57" direction="infront">57</next>
         <next probability="10" only="none" trigger="58" direction="infront">58</next>
-        <next probability="10" only="none" trigger="23" direction="any">64</next>
+        <next probability="10" only="none" trigger="23" direction="any">70</next>
         <next probability="1" only="none" trigger="23" direction="infront">14</next>
         <next probability="10" only="none" trigger="15" direction="any">65</next>
         <next probability="10" only="none" trigger="69" direction="any">65</next>
         <next probability="10" only="none" trigger="28" direction="infront">29</next>
         <next probability="10" only="none" trigger="14" direction="any">9</next>
         <next probability="10" only="none" trigger="22" direction="infront">67</next>
-        <next probability="10" only="none" trigger="16" direction="infront">16</next>
+        <next probability="10" only="window" trigger="16" direction="infront">16</next>
         <next probability="5" only="none" trigger="16" direction="infront">29</next>
         <next probability="10" only="none" trigger="6" direction="any">6</next>
         <next probability="10" only="none" trigger="53" direction="any">28</next>
@@ -199,9 +199,9 @@
         <frame>14</frame>
         <frame>15</frame>
         <frame>16</frame>
-        <next probability="10" only="none">1</next>
-        <next probability="1" only="none">42</next>
-        <next probability="5" only="none">68</next>
+        <next probability="15" only="none">1</next>
+        <next probability="2" only="none">42</next>
+        <next probability="1" only="none">68</next>
         <action>flip</action>
       </sequence>
       <gravity>
@@ -224,7 +224,7 @@
         <opacity>1</opacity>
         <interval>100</interval>
       </end>
-      <sequence repeatfrom="0" repeat="0">
+      <sequence repeatfrom="9" repeat="200">
         <frame>17</frame>
         <frame>18</frame>
         <frame>19</frame>
@@ -234,6 +234,8 @@
         <frame>23</frame>
         <frame>24</frame>
         <frame>25</frame>
+        <frame>70</frame>
+        <frame>70</frame>
         <action>none</action>
       </sequence>
     </animation>
@@ -2078,7 +2080,7 @@
         <action>flip</action>
       </sequence>
       <interact>
-        <next probability="10" only="none" trigger="23" direction="any">64</next>
+        <next probability="10" only="none" trigger="23" direction="any">70</next>
       </interact>
     </animation>
     <animation id="68">
@@ -2132,6 +2134,28 @@
       <gravity>
         <next probability="10" only="none">9</next>
       </gravity>
+    </animation>
+    <animation id="70">
+      <name>explode silent</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>50</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>0</opacity>
+        <interval>50</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="10">
+        <frame>117</frame>
+        <next probability="10" only="none">40</next>
+        <action>none</action>
+      </sequence>
     </animation>
   </animations>
   <childs>

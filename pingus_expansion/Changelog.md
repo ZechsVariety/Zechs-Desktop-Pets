@@ -78,12 +78,16 @@ v1.1 (WIP)
 
 * Way more animation possibilities using the new pet interaction system. Pingus can now:
 
-  * Slide under incoming bullets
+  * Dodge incoming bullets by sliding under them
   * Turn around if they meet a Stopper Pingu (unless they're fast enough...)
   * Get annoyed at each other for skateboarding
   * Get swept off their feet when another Pingus slides under them
+  * Leave together as if they finished a level\*
   * Moonwalk together more consistently
   * Etc.
-* Ported old interaction anims to the new system
+* Ported other old interaction anims to the new system
 * Stopper lasts way longer and also doesn't randomly explode lmao
+* \*Leave animation is way longer
+* Increased chance to shoot and to be a stopper
+* Decreased chance to moonwalk
 
