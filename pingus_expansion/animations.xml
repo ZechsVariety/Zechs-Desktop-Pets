@@ -92,8 +92,8 @@
         <next probability="5" only="none" trigger="16" direction="infront">29</next>
         <next probability="10" only="none" trigger="53" direction="any">28</next>
         <next probability="10" only="none" trigger="38" direction="infront">5</next>
-        <next probability="10" only="horizontal+" trigger="80" direction="infront">86</next>
-        <next probability="10" only="horizontal+" trigger="81" direction="infront">86</next>
+        <next probability="10" only="horizontal+" trigger="80" direction="infront">88</next>
+        <next probability="10" only="horizontal+" trigger="81" direction="infront">88</next>
       </interact>
     </animation>
     <animation id="2">
@@ -235,7 +235,7 @@
         <opacity>1</opacity>
         <interval>100</interval>
       </end>
-      <sequence repeatfrom="9" repeat="200">
+      <sequence repeatfrom="0" repeat="0">
         <frame>17</frame>
         <frame>18</frame>
         <frame>19</frame>
@@ -245,8 +245,6 @@
         <frame>23</frame>
         <frame>24</frame>
         <frame>25</frame>
-        <frame>70</frame>
-        <frame>70</frame>
         <action>none</action>
       </sequence>
     </animation>
@@ -524,8 +522,8 @@
       <interact>
         <next probability="10" only="none" trigger="28" direction="infront">9</next>
         <next probability="10" only="horizontal+" trigger="6" direction="any">6</next>
-        <next probability="10" only="horizontal+" trigger="80" direction="infront">86</next>
-        <next probability="10" only="horizontal+" trigger="81" direction="infront">86</next>
+        <next probability="10" only="horizontal+" trigger="80" direction="infront">88</next>
+        <next probability="10" only="horizontal+" trigger="81" direction="infront">88</next>
       </interact>
     </animation>
     <animation id="15">
@@ -561,8 +559,8 @@
         <next probability="10" only="none" trigger="23" direction="any">70</next>
         <next probability="10" only="none" trigger="28" direction="infront">9</next>
         <next probability="10" only="horizontal+" trigger="6" direction="any">6</next>
-        <next probability="10" only="horizontal+" trigger="80" direction="infront">86</next>
-        <next probability="10" only="horizontal+" trigger="81" direction="infront">86</next>
+        <next probability="10" only="horizontal+" trigger="80" direction="infront">88</next>
+        <next probability="10" only="horizontal+" trigger="81" direction="infront">88</next>
       </interact>
     </animation>
     <animation id="16">
@@ -844,6 +842,8 @@
         <next probability="10" only="none" trigger="85" direction="any">23</next>
         <next probability="10" only="none" trigger="86" direction="any">23</next>
         <next probability="10" only="none" trigger="87" direction="any">23</next>
+        <next probability="10" only="none" trigger="88" direction="any">23</next>
+        <next probability="10" only="none" trigger="89" direction="any">23</next>
       </interact>
     </animation>
     <animation id="24">
@@ -904,8 +904,8 @@
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
         <next probability="10" only="horizontal+" trigger="6" direction="any">6</next>
-        <next probability="10" only="horizontal+" trigger="80" direction="infront">86</next>
-        <next probability="10" only="horizontal+" trigger="81" direction="infront">86</next>
+        <next probability="10" only="horizontal+" trigger="80" direction="infront">88</next>
+        <next probability="10" only="horizontal+" trigger="81" direction="infront">88</next>
       </interact>
     </animation>
     <animation id="26">
@@ -1448,8 +1448,8 @@
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
         <next probability="10" only="none" trigger="28" direction="infront">9</next>
-        <next probability="10" only="horizontal+" trigger="80" direction="infront">86</next>
-        <next probability="10" only="horizontal+" trigger="81" direction="infront">86</next>
+        <next probability="10" only="horizontal+" trigger="80" direction="infront">88</next>
+        <next probability="10" only="horizontal+" trigger="81" direction="infront">88</next>
       </interact>
     </animation>
     <animation id="43">
@@ -1488,8 +1488,8 @@
       <interact>
         <next probability="10" only="none" trigger="28" direction="infront">51</next>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
-        <next probability="10" only="horizontal+" trigger="80" direction="infront">86</next>
-        <next probability="10" only="horizontal+" trigger="81" direction="infront">86</next>
+        <next probability="10" only="horizontal+" trigger="80" direction="infront">88</next>
+        <next probability="10" only="horizontal+" trigger="81" direction="infront">88</next>
       </interact>
     </animation>
     <animation id="44">
@@ -1526,8 +1526,8 @@
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
         <next probability="10" only="none" trigger="28" direction="infront">9</next>
-        <next probability="10" only="horizontal+" trigger="80" direction="infront">86</next>
-        <next probability="10" only="horizontal+" trigger="81" direction="infront">86</next>
+        <next probability="10" only="horizontal+" trigger="80" direction="infront">88</next>
+        <next probability="10" only="horizontal+" trigger="81" direction="infront">88</next>
       </interact>
     </animation>
     <animation id="45">
@@ -1642,8 +1642,8 @@
       </sequence>
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
-        <next probability="10" only="horizontal+" trigger="80" direction="infront">86</next>
-        <next probability="10" only="horizontal+" trigger="81" direction="infront">86</next>
+        <next probability="10" only="horizontal+" trigger="80" direction="infront">88</next>
+        <next probability="10" only="horizontal+" trigger="81" direction="infront">88</next>
       </interact>
     </animation>
     <animation id="49">
@@ -2337,8 +2337,8 @@
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
         <next probability="10" only="none" trigger="28" direction="infront">9</next>
-        <next probability="10" only="horizontal+" trigger="80" direction="infront">86</next>
-        <next probability="10" only="horizontal+" trigger="81" direction="infront">86</next>
+        <next probability="10" only="horizontal+" trigger="80" direction="infront">88</next>
+        <next probability="10" only="horizontal+" trigger="81" direction="infront">88</next>
       </interact>
     </animation>
     <animation id="70">
@@ -2449,8 +2449,8 @@
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
         <next probability="10" only="none" trigger="28" direction="infront">29</next>
-        <next probability="10" only="horizontal+" trigger="80" direction="infront">86</next>
-        <next probability="10" only="horizontal+" trigger="81" direction="infront">86</next>
+        <next probability="10" only="horizontal+" trigger="80" direction="infront">88</next>
+        <next probability="10" only="horizontal+" trigger="81" direction="infront">88</next>
       </interact>
     </animation>
     <animation id="74">
@@ -2714,7 +2714,7 @@
       </sequence>
     </animation>
     <animation id="86">
-      <name>walk then leave</name>
+      <name>exit walk</name>
       <start>
         <x>-2</x>
         <y>0</y>
@@ -2729,7 +2729,7 @@
         <opacity>1</opacity>
         <interval>100</interval>
       </end>
-      <sequence repeatfrom="0" repeat="1">
+      <sequence repeatfrom="0" repeat="2">
         <frame>3</frame>
         <frame>4</frame>
         <frame>5</frame>
@@ -2741,10 +2741,6 @@
         <next probability="10" only="none">6</next>
         <action>none</action>
       </sequence>
-      <interact>
-        <next probability="10" only="none" trigger="28" direction="infront">29</next>
-        <next probability="10" only="none" trigger="23" direction="any">70</next>
-      </interact>
     </animation>
     <animation id="87">
       <name>Xmas Hat fall</name>
@@ -2764,6 +2760,49 @@
       </end>
       <sequence repeatfrom="0" repeat="50">
         <frame>235</frame>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="88">
+      <name>exit walk start</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>10</frame>
+        <next probability="10" only="none">89</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="89">
+      <name>exit none</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>4000</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>4000</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>70</frame>
         <action>none</action>
       </sequence>
     </animation>
@@ -2838,6 +2877,11 @@
       <x>imageX+imageW*.95</x>
       <y>screenH+30</y>
       <next>77</next>
+    </child>
+    <child animationid="88">
+      <x>imageX</x>
+      <y>imageY</y>
+      <next>86</next>
     </child>
   </childs>
   <sounds>
