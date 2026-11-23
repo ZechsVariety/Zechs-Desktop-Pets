@@ -90,7 +90,7 @@
         <next probability="10" only="none" trigger="22" direction="infront">67</next>
         <next probability="10" only="window" trigger="16" direction="infront">16</next>
         <next probability="5" only="none" trigger="16" direction="infront">29</next>
-        <next probability="10" only="none" trigger="6" direction="any">6</next>
+        <next probability="10" only="horizontal+" trigger="6" direction="any">6</next>
         <next probability="10" only="none" trigger="53" direction="any">28</next>
         <next probability="10" only="none" trigger="38" direction="infront">5</next>
       </interact>
@@ -522,6 +522,7 @@
       </gravity>
       <interact>
         <next probability="10" only="none" trigger="28" direction="infront">9</next>
+        <next probability="10" only="horizontal+" trigger="6" direction="any">6</next>
       </interact>
     </animation>
     <animation id="15">
@@ -556,6 +557,7 @@
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
         <next probability="10" only="none" trigger="28" direction="infront">9</next>
+        <next probability="10" only="horizontal+" trigger="6" direction="any">6</next>
       </interact>
     </animation>
     <animation id="16">
@@ -882,6 +884,7 @@
       </sequence>
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
+        <next probability="10" only="horizontal+" trigger="6" direction="any">6</next>
       </interact>
     </animation>
     <animation id="26">
@@ -1424,6 +1427,7 @@
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
         <next probability="10" only="none" trigger="28" direction="infront">9</next>
+        <next probability="10" only="horizontal+" trigger="6" direction="any">6</next>
       </interact>
     </animation>
     <animation id="43">
@@ -1462,6 +1466,7 @@
       <interact>
         <next probability="10" only="none" trigger="28" direction="infront">51</next>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
+        <next probability="10" only="horizontal+" trigger="6" direction="any">6</next>
       </interact>
     </animation>
     <animation id="44">
@@ -1498,6 +1503,7 @@
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
         <next probability="10" only="none" trigger="28" direction="infront">9</next>
+        <next probability="10" only="horizontal+" trigger="6" direction="any">6</next>
       </interact>
     </animation>
     <animation id="45">
@@ -1611,6 +1617,7 @@
       </sequence>
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
+        <next probability="10" only="horizontal+" trigger="6" direction="any">6</next>
       </interact>
     </animation>
     <animation id="49">
@@ -1918,6 +1925,7 @@
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
         <next probability="10" only="none" trigger="28" direction="any">14</next>
+        <next probability="10" only="horizontal+" trigger="6" direction="any">6</next>
       </interact>
     </animation>
     <animation id="58">
@@ -1955,6 +1963,7 @@
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
         <next probability="10" only="none" trigger="28" direction="any">14</next>
+        <next probability="10" only="horizontal+" trigger="6" direction="any">6</next>
       </interact>
     </animation>
     <animation id="59">
@@ -2257,6 +2266,7 @@
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
         <next probability="10" only="none" trigger="28" direction="any">14</next>
+        <next probability="10" only="horizontal+" trigger="6" direction="any">6</next>
       </interact>
     </animation>
     <animation id="69">
@@ -2291,6 +2301,7 @@
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
         <next probability="10" only="none" trigger="28" direction="infront">9</next>
+        <next probability="10" only="horizontal+" trigger="6" direction="any">6</next>
       </interact>
     </animation>
     <animation id="70">
