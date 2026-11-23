@@ -85,12 +85,15 @@ v2.0 (WIP)
   * Leave together as if they finished a level\*
   * Moonwalk together more consistently
   * Etc.
+* 2 other new animations:
+
+  * An exit cave can spawn for the Pingus to enter! Finally they can be safe from each other's wrath
+  * Pingus can fall off window edges (finally)
 * Ported other old interaction anims to the new system
 * Stopper lasts way longer and also doesn't randomly explode lmao
 * \*Leave animation lasts way longer while invisible
 * Increased chance to shoot and to be a stopper
 * Decreased chance to moonwalk
 * Pingus can get hit by bullets during almost every animation, rather than just walking
-* Pingus can fall off window edges (finally)
 * Many other adjustments
 
