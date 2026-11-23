@@ -4,7 +4,7 @@
     <author>Zecheriah</author>
     <title>Pingus Expansion</title>
     <petname>Pingus</petname>
-    <version>1.1</version>
+    <version>2.0</version>
     <info>This is a huge expansion of the Pingus screenmate by Andriano Petrucci! I added tons of animations, gimmicks and sound effects!</info>
     <application>1</application>
     <icon><![CDATA[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]]></icon>
@@ -62,15 +62,18 @@
         <action>none</action>
       </sequence>
       <border>
-        <next probability="50" only="window">5</next>
+        <next probability="5" only="window">5</next>
         <next probability="20" only="vertical">7</next>
-        <next probability="20" only="window">17</next>
+        <next probability="30" only="window">17</next>
         <next probability="10" only="vertical">25</next>
         <next probability="10" only="vertical">27</next>
         <next probability="20" only="window">28</next>
         <next probability="2" only="vertical">68</next>
         <next probability="50" only="vertical">29</next>
         <next probability="10" only="windowSide">29</next>
+        <next probability="1" only="windowSide">25</next>
+        <next probability="2" only="windowSide">27</next>
+        <next probability="30" only="window">72</next>
       </border>
       <gravity>
         <next probability="10" only="none">9</next>
@@ -89,6 +92,7 @@
         <next probability="5" only="none" trigger="16" direction="infront">29</next>
         <next probability="10" only="none" trigger="6" direction="any">6</next>
         <next probability="10" only="none" trigger="53" direction="any">28</next>
+        <next probability="10" only="none" trigger="38" direction="infront">5</next>
       </interact>
     </animation>
     <animation id="2">
@@ -516,6 +520,9 @@
       <gravity>
         <next probability="10" only="none">9</next>
       </gravity>
+      <interact>
+        <next probability="10" only="none" trigger="28" direction="infront">9</next>
+      </interact>
     </animation>
     <animation id="15">
       <name>skate start</name>
@@ -548,6 +555,7 @@
       </gravity>
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
+        <next probability="10" only="none" trigger="28" direction="infront">9</next>
       </interact>
     </animation>
     <animation id="16">
@@ -854,7 +862,7 @@
         <opacity>1</opacity>
         <interval>100</interval>
       </end>
-      <sequence repeatfrom="0" repeat="5">
+      <sequence repeatfrom="0" repeat="0">
         <frame>122</frame>
         <frame>123</frame>
         <frame>124</frame>
@@ -869,6 +877,7 @@
         <frame>120</frame>
         <frame>121</frame>
         <next probability="90" only="none">25</next>
+        <next probability="10" only="none">1</next>
         <action>none</action>
       </sequence>
       <interact>
@@ -1407,13 +1416,14 @@
       </sequence>
       <border>
         <next probability="10" only="window">14</next>
-        <next probability="10" only="vertical+">9</next>
+        <next probability="10" only="vertical">9</next>
       </border>
       <gravity>
         <next probability="10" only="none">9</next>
       </gravity>
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
+        <next probability="10" only="none" trigger="28" direction="infront">9</next>
       </interact>
     </animation>
     <animation id="43">
@@ -1483,10 +1493,11 @@
         <action>none</action>
       </sequence>
       <border>
-        <next probability="10" only="vertical+">29</next>
+        <next probability="10" only="vertical">29</next>
       </border>
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
+        <next probability="10" only="none" trigger="28" direction="infront">9</next>
       </interact>
     </animation>
     <animation id="45">
@@ -1736,6 +1747,7 @@
       </border>
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
+        <next probability="10" only="none" trigger="28" direction="infront">9</next>
       </interact>
     </animation>
     <animation id="53">
@@ -1905,6 +1917,7 @@
       </gravity>
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
+        <next probability="10" only="none" trigger="28" direction="any">14</next>
       </interact>
     </animation>
     <animation id="58">
@@ -1941,6 +1954,7 @@
       </gravity>
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
+        <next probability="10" only="none" trigger="28" direction="any">14</next>
       </interact>
     </animation>
     <animation id="59">
@@ -2242,6 +2256,7 @@
       </sequence>
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
+        <next probability="10" only="none" trigger="28" direction="any">14</next>
       </interact>
     </animation>
     <animation id="69">
@@ -2275,6 +2290,7 @@
       </gravity>
       <interact>
         <next probability="10" only="none" trigger="23" direction="any">70</next>
+        <next probability="10" only="none" trigger="28" direction="infront">9</next>
       </interact>
     </animation>
     <animation id="70">
@@ -2320,6 +2336,38 @@
         <next probability="10" only="none">23</next>
         <action>flip</action>
       </sequence>
+    </animation>
+    <animation id="72">
+      <name>walk off edge</name>
+      <start>
+        <x>-2</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </start>
+      <end>
+        <x>-2</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>100</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>3</frame>
+        <frame>4</frame>
+        <frame>5</frame>
+        <frame>6</frame>
+        <frame>7</frame>
+        <frame>8</frame>
+        <frame>9</frame>
+        <frame>10</frame>
+        <next probability="10" only="none">10</next>
+        <action>none</action>
+      </sequence>
+      <interact>
+        <next probability="10" only="none" trigger="23" direction="any">70</next>
+      </interact>
     </animation>
   </animations>
   <childs>

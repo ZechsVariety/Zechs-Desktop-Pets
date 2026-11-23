@@ -74,9 +74,9 @@ v1.0.1 (2026-10-20)
 
 
 
-v1.1 (WIP)
+v2.0 (WIP)
 
-* Way more animation possibilities using the new pet interaction system. Pingus can now:
+* WAYY more animation possibilities using the new pet interaction system. Pingus can now:
 
   * Dodge incoming bullets by sliding under them, and even deflect bullets if powerful enough
   * Turn around if they meet a Stopper Pingu (unless they're fast enough...)
@@ -87,8 +87,10 @@ v1.1 (WIP)
   * Etc.
 * Ported other old interaction anims to the new system
 * Stopper lasts way longer and also doesn't randomly explode lmao
-* \*Leave animation is way longer
+* \*Leave animation lasts way longer while invisible
 * Increased chance to shoot and to be a stopper
 * Decreased chance to moonwalk
-* Added explosion from bullet to most animations
+* Pingus can get hit by bullets during almost every animation, rather than just walking
+* Pingus can fall off window edges (finally)
+* Many other adjustments
 
