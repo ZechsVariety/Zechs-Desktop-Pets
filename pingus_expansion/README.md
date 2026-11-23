@@ -17,6 +17,8 @@ Play Pingus here: [https://pingus.seul.org/](https://pingus.seul.org/)
   * Tumble and splat after a big fall
   * Turn to angels when they die :'(
   * Sprint (maybe a little too fast...)
+  * Stop other Pingus from passing
+  * Shoot each other, and sometimes dodge/deflect the bullets
   * Moonwalk..?
   * Walk up screen borders and fly around
 

@@ -78,7 +78,7 @@ v1.1 (WIP)
 
 * Way more animation possibilities using the new pet interaction system. Pingus can now:
 
-  * Dodge incoming bullets by sliding under them
+  * Dodge incoming bullets by sliding under them, and even deflect bullets if powerful enough
   * Turn around if they meet a Stopper Pingu (unless they're fast enough...)
   * Get annoyed at each other for skateboarding
   * Get swept off their feet when another Pingus slides under them
@@ -90,4 +90,5 @@ v1.1 (WIP)
 * \*Leave animation is way longer
 * Increased chance to shoot and to be a stopper
 * Decreased chance to moonwalk
+* Added explosion from bullet to most animations
 
