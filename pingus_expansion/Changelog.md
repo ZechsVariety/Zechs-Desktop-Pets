@@ -81,19 +81,18 @@ v2.0 (WIP)
   * Dodge incoming bullets by sliding under them, and even deflect bullets if powerful enough
   * Turn around if they meet a Stopper Pingu (unless they're fast enough...)
   * Get annoyed at each other for skateboarding
-  * Get swept off their feet when another Pingus slides under them
-  * Leave together as if they finished a level\*
+  * Get swept off their feet when another Pingu slides under them
   * Moonwalk together more consistently
   * Etc.
-* 2 other new animations:
+* Other new animations:
 
-  * An exit cave can spawn for the Pingus to enter! Finally they can be safe from each other's wrath
+  * \*An exit cave can spawn for the Pingus to enter! Finally they can escape each other's wrath
   * Pingus can fall off window edges (finally)
+  * Christmas Pingus' hats can now fall off :'(
 * Ported other old interaction anims to the new system
+* Rare events now work when Pingus are facing to the right :D
 * Stopper lasts way longer and also doesn't randomly explode lmao
-* \*Leave animation lasts way longer while invisible
-* Increased chance to shoot and to be a stopper
-* Decreased chance to moonwalk
 * Pingus can get hit by bullets during almost every animation, rather than just walking
+* Increased chance to shoot and to be a stopper, and decreased chance to moonwalk
 * Many other adjustments
 
