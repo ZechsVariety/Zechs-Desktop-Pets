@@ -879,19 +879,6 @@
         <frame>119</frame>
         <frame>120</frame>
         <frame>121</frame>
-        <frame>122</frame>
-        <frame>123</frame>
-        <frame>124</frame>
-        <frame>125</frame>
-        <frame>126</frame>
-        <frame>127</frame>
-        <frame>128</frame>
-        <frame>128</frame>
-        <frame>129</frame>
-        <frame>118</frame>
-        <frame>119</frame>
-        <frame>120</frame>
-        <frame>121</frame>
         <next probability="90" only="none">25</next>
         <next probability="10" only="none">1</next>
         <action>none</action>
@@ -2429,14 +2416,14 @@
     <animation id="74">
       <name>exitA1</name>
       <start>
-        <x>-1</x>
+        <x>0</x>
         <y>-2</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
         <interval>100</interval>
       </start>
       <end>
-        <x>-1</x>
+        <x>0</x>
         <y>-2</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
@@ -2451,14 +2438,14 @@
     <animation id="75">
       <name>exitB1</name>
       <start>
-        <x>-1</x>
+        <x>0</x>
         <y>-2</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
         <interval>100</interval>
       </start>
       <end>
-        <x>-1</x>
+        <x>0</x>
         <y>-2</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
@@ -2469,21 +2456,18 @@
         <next probability="10" only="none">79</next>
         <action>none</action>
       </sequence>
-      <interact>
-        <next probability="10" only="none" trigger="74" direction="infront">86</next>
-      </interact>
     </animation>
     <animation id="76">
       <name>exitC1</name>
       <start>
-        <x>-1</x>
+        <x>0</x>
         <y>-2</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
         <interval>100</interval>
       </start>
       <end>
-        <x>-1</x>
+        <x>0</x>
         <y>-2</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
@@ -2498,14 +2482,14 @@
     <animation id="77">
       <name>exitD1</name>
       <start>
-        <x>-1</x>
+        <x>0</x>
         <y>-2</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
         <interval>100</interval>
       </start>
       <end>
-        <x>-1</x>
+        <x>0</x>
         <y>-2</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
@@ -2516,9 +2500,6 @@
         <next probability="10" only="none">81</next>
         <action>none</action>
       </sequence>
-      <interact>
-        <next probability="10" only="none" trigger="77" direction="infront">87</next>
-      </interact>
     </animation>
     <animation id="78">
       <name>exitA2</name>
@@ -2538,7 +2519,6 @@
       </end>
       <sequence repeatfrom="0" repeat="0">
         <frame>245</frame>
-        <next probability="10" only="none">82</next>
         <action>none</action>
       </sequence>
     </animation>
@@ -2560,7 +2540,6 @@
       </end>
       <sequence repeatfrom="0" repeat="0">
         <frame>246</frame>
-        <next probability="10" only="none">83</next>
         <action>none</action>
       </sequence>
     </animation>
@@ -2582,7 +2561,6 @@
       </end>
       <sequence repeatfrom="0" repeat="0">
         <frame>247</frame>
-        <next probability="10" only="none">84</next>
         <action>none</action>
       </sequence>
     </animation>
@@ -2604,135 +2582,6 @@
       </end>
       <sequence repeatfrom="0" repeat="0">
         <frame>248</frame>
-        <next probability="10" only="none">85</next>
-        <action>none</action>
-      </sequence>
-    </animation>
-    <animation id="82">
-      <name>exitA3</name>
-      <start>
-        <x>-1</x>
-        <y>2</y>
-        <offsety>0</offsety>
-        <opacity>1</opacity>
-        <interval>100</interval>
-      </start>
-      <end>
-        <x>-1</x>
-        <y>2</y>
-        <offsety>0</offsety>
-        <opacity>1</opacity>
-        <interval>100</interval>
-      </end>
-      <sequence repeatfrom="0" repeat="60">
-        <frame>245</frame>
-        <action>none</action>
-      </sequence>
-    </animation>
-    <animation id="83">
-      <name>exitB3</name>
-      <start>
-        <x>-1</x>
-        <y>2</y>
-        <offsety>0</offsety>
-        <opacity>1</opacity>
-        <interval>100</interval>
-      </start>
-      <end>
-        <x>-1</x>
-        <y>2</y>
-        <offsety>0</offsety>
-        <opacity>1</opacity>
-        <interval>100</interval>
-      </end>
-      <sequence repeatfrom="0" repeat="60">
-        <frame>246</frame>
-        <action>none</action>
-      </sequence>
-    </animation>
-    <animation id="84">
-      <name>exitC3</name>
-      <start>
-        <x>-1</x>
-        <y>2</y>
-        <offsety>0</offsety>
-        <opacity>1</opacity>
-        <interval>100</interval>
-      </start>
-      <end>
-        <x>-1</x>
-        <y>2</y>
-        <offsety>0</offsety>
-        <opacity>1</opacity>
-        <interval>100</interval>
-      </end>
-      <sequence repeatfrom="0" repeat="60">
-        <frame>247</frame>
-        <action>none</action>
-      </sequence>
-    </animation>
-    <animation id="85">
-      <name>exitD3</name>
-      <start>
-        <x>-1</x>
-        <y>2</y>
-        <offsety>0</offsety>
-        <opacity>1</opacity>
-        <interval>100</interval>
-      </start>
-      <end>
-        <x>-1</x>
-        <y>2</y>
-        <offsety>0</offsety>
-        <opacity>1</opacity>
-        <interval>100</interval>
-      </end>
-      <sequence repeatfrom="0" repeat="60">
-        <frame>248</frame>
-        <action>none</action>
-      </sequence>
-    </animation>
-    <animation id="86">
-      <name>exitB flip fix</name>
-      <start>
-        <x>32</x>
-        <y>0</y>
-        <offsety>0</offsety>
-        <opacity>1</opacity>
-        <interval>5</interval>
-      </start>
-      <end>
-        <x>32</x>
-        <y>0</y>
-        <offsety>0</offsety>
-        <opacity>1</opacity>
-        <interval>5</interval>
-      </end>
-      <sequence repeatfrom="0" repeat="0">
-        <frame>247</frame>
-        <next probability="10" only="none">75</next>
-        <action>none</action>
-      </sequence>
-    </animation>
-    <animation id="87">
-      <name>exitD flip fix</name>
-      <start>
-        <x>32</x>
-        <y>0</y>
-        <offsety>0</offsety>
-        <opacity>1</opacity>
-        <interval>5</interval>
-      </start>
-      <end>
-        <x>32</x>
-        <y>0</y>
-        <offsety>0</offsety>
-        <opacity>1</opacity>
-        <interval>5</interval>
-      </end>
-      <sequence repeatfrom="0" repeat="0">
-        <frame>247</frame>
-        <next probability="10" only="none">77</next>
         <action>none</action>
       </sequence>
     </animation>
@@ -2794,7 +2643,7 @@
       <next>74</next>
     </child>
     <child animationid="73">
-      <x>imageX+30</x>
+      <x>imageX+32</x>
       <y>screenH</y>
       <next>75</next>
     </child>
@@ -2804,7 +2653,7 @@
       <next>76</next>
     </child>
     <child animationid="73">
-      <x>imageX+30</x>
+      <x>imageX+32</x>
       <y>screenH+30</y>
       <next>77</next>
     </child>
