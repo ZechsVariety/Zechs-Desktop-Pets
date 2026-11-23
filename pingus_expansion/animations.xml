@@ -2643,7 +2643,7 @@
       <next>74</next>
     </child>
     <child animationid="73">
-      <x>imageX+32</x>
+      <x>imageX+imageW*.95</x>
       <y>screenH</y>
       <next>75</next>
     </child>
@@ -2653,7 +2653,7 @@
       <next>76</next>
     </child>
     <child animationid="73">
-      <x>imageX+32</x>
+      <x>imageX+imageW*.95</x>
       <y>screenH+30</y>
       <next>77</next>
     </child>
