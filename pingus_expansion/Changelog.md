@@ -74,7 +74,7 @@ v1.0.1 (2026-10-20)
 
 
 
-v2.0 (WIP)
+v2.0 (2026-11-23)
 
 * WAYY more animation possibilities using the new pet interaction system. Pingus can now:
 

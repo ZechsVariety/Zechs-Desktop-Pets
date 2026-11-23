@@ -20,3 +20,10 @@ v1.9 (2026-09-17)
 * Made the boing animation bouncier >:)
 * Adjusted animation probabilities
 
+
+
+v1.10 (2026-11-23)
+
+* Replaced pet mimicking animations with pet interaction ones
+* Made bath spawn animation slightly more consistent with where the sheep lands
+
