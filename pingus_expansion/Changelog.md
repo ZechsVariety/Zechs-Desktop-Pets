@@ -96,3 +96,7 @@ v2.0 (2026-11-23)
 * Increased chance to shoot and to be a stopper, and decreased chance to moonwalk
 * Many other adjustments
 
+v2.0.1
+
+* Made cave spawn consistent between screen sizes. Thank you Adriano for help with the formula!
+
