@@ -27,27 +27,381 @@
     <animation id="1">
       <name>walk</name>
       <start>
-        <x>-4</x>
+        <x>-6</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>100</interval>
+        <interval>80</interval>
       </start>
       <end>
-        <x>-4</x>
+        <x>-6</x>
         <y>0</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
-        <interval>100</interval>
+        <interval>80</interval>
       </end>
-      <sequence repeatfrom="0" repeat="20">
+      <sequence repeatfrom="0" repeat="5">
         <frame>70</frame>
         <frame>71</frame>
         <frame>72</frame>
         <frame>73</frame>
         <frame>74</frame>
         <frame>75</frame>
-        <next probability="50" only="none">1</next>
+        <next probability="10" only="none">1</next>
+        <next probability="10" only="none">2</next>
+        <next probability="10" only="none">5</next>
+        <action>none</action>
+      </sequence>
+      <gravity>
+        <next probability="10" only="none">11</next>
+      </gravity>
+    </animation>
+    <animation id="2">
+      <name>idle</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="random/10">
+        <frame>52</frame>
+        <frame>53</frame>
+        <frame>54</frame>
+        <frame>55</frame>
+        <frame>56</frame>
+        <frame>57</frame>
+        <next probability="10" only="none">1</next>
+        <next probability="10" only="none">3</next>
+        <next probability="10" only="none">4</next>
+        <action>none</action>
+      </sequence>
+      <gravity>
+        <next probability="10" only="none">8</next>
+      </gravity>
+    </animation>
+    <animation id="3">
+      <name>blink</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>58</frame>
+        <frame>58</frame>
+        <frame>66</frame>
+        <frame>61</frame>
+        <next probability="10" only="none">2</next>
+        <action>none</action>
+      </sequence>
+      <gravity>
+        <next probability="10" only="none">8</next>
+      </gravity>
+    </animation>
+    <animation id="4">
+      <name>jumpStart</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>58</frame>
+        <frame>58</frame>
+        <frame>59</frame>
+        <next probability="10" only="none">6</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="5">
+      <name>longJumpStart</name>
+      <start>
+        <x>-6</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>21</frame>
+        <frame>21</frame>
+        <frame>21</frame>
+        <frame>59</frame>
+        <next probability="10" only="none">7</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="6">
+      <name>jump</name>
+      <start>
+        <x>0</x>
+        <y>-15</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>15</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </end>
+      <sequence repeatfrom="8" repeat="5">
+        <frame>59</frame>
+        <frame>59</frame>
+        <frame>60</frame>
+        <frame>60</frame>
+        <frame>60</frame>
+        <frame>60</frame>
+        <frame>61</frame>
+        <frame>61</frame>
+        <frame>62</frame>
+        <frame>62</frame>
+        <frame>63</frame>
+        <frame>63</frame>
+        <next probability="10" only="none">9</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="horizontal+">2</next>
+      </border>
+    </animation>
+    <animation id="7">
+      <name>longJump</name>
+      <start>
+        <x>-6</x>
+        <y>-10</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </start>
+      <end>
+        <x>-6</x>
+        <y>15</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </end>
+      <sequence repeatfrom="8" repeat="5">
+        <frame>59</frame>
+        <frame>59</frame>
+        <frame>60</frame>
+        <frame>60</frame>
+        <frame>60</frame>
+        <frame>60</frame>
+        <frame>61</frame>
+        <frame>61</frame>
+        <frame>62</frame>
+        <frame>62</frame>
+        <frame>63</frame>
+        <frame>63</frame>
+        <next probability="10" only="none">10</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="horizontal+">13</next>
+      </border>
+    </animation>
+    <animation id="8">
+      <name>fall</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>15</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </end>
+      <sequence repeatfrom="2" repeat="4">
+        <frame>61</frame>
+        <frame>61</frame>
+        <frame>62</frame>
+        <frame>62</frame>
+        <frame>63</frame>
+        <frame>63</frame>
+        <next probability="10" only="none">9</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">12</next>
+      </border>
+    </animation>
+    <animation id="9">
+      <name>fall2A</name>
+      <start>
+        <x>0</x>
+        <y>15</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>15</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="100">
+        <frame>62</frame>
+        <frame>62</frame>
+        <frame>63</frame>
+        <frame>63</frame>
+        <next probability="10" only="none">9</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">12</next>
+      </border>
+    </animation>
+    <animation id="10">
+      <name>fall2B</name>
+      <start>
+        <x>-4</x>
+        <y>15</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>15</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>62</frame>
+        <frame>62</frame>
+        <frame>63</frame>
+        <frame>63</frame>
+        <next probability="10" only="none">9</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">13</next>
+      </border>
+    </animation>
+    <animation id="11">
+      <name>fallB</name>
+      <start>
+        <x>-4</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>15</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </end>
+      <sequence repeatfrom="2" repeat="4">
+        <frame>61</frame>
+        <frame>61</frame>
+        <frame>62</frame>
+        <frame>62</frame>
+        <frame>63</frame>
+        <frame>63</frame>
+        <next probability="10" only="none">9</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">13</next>
+      </border>
+    </animation>
+    <animation id="12">
+      <name>landA</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>64</frame>
+        <frame>65</frame>
+        <frame>66</frame>
+        <frame>67</frame>
+        <next probability="10" only="none">2</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="13">
+      <name>landB</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </start>
+      <end>
+        <x>-6</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>64</frame>
+        <frame>65</frame>
+        <frame>66</frame>
+        <frame>73</frame>
+        <frame>74</frame>
+        <frame>75</frame>
+        <next probability="10" only="none">1</next>
         <action>none</action>
       </sequence>
     </animation>
