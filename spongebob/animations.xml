@@ -4,7 +4,7 @@
     <author>Zecheriah</author>
     <title>Spongebob</title>
     <petname>Spongebob</petname>
-    <version>0.0</version>
+    <version>0.1</version>
     <info>Ohhhh who lives in a pineapple under the sea spongebob squarepants absorbant and yellow and poreous as he spongebob squarepants if nautical nonsense be something you wish spongebob squarepants and drop and the deck and flop like a fish spongebob squarepants spongebob squarepants ow my hand</info>
     <application>1</application>
     <icon><![CDATA[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]]></icon>
@@ -17,10 +17,15 @@
     <transparency>Magenta</transparency>
   </image>
   <spawns>
-    <spawn id="1" probability="20">
+    <spawn id="1" probability="10">
       <x>screenW+10</x>
       <y>areaH-imageH</y>
-      <next probability="100">1</next>
+      <next probability="0">1</next>
+    </spawn>
+    <spawn id="2" probability="10">
+      <x>screenW*random/100</x>
+      <y>-imageH*2</y>
+      <next probability="0">9</next>
     </spawn>
   </spawns>
   <animations>
@@ -52,6 +57,10 @@
         <next probability="10" only="none">5</next>
         <action>none</action>
       </sequence>
+      <border>
+        <next probability="10" only="vertical+">21</next>
+        <next probability="10" only="petSide">12</next>
+      </border>
       <gravity>
         <next probability="10" only="none">11</next>
       </gravity>
@@ -198,7 +207,8 @@
         <action>none</action>
       </sequence>
       <border>
-        <next probability="10" only="horizontal+">2</next>
+        <next probability="10" only="horizontal+">12</next>
+        <next probability="5" only="horizontal+">13</next>
       </border>
     </animation>
     <animation id="7">
@@ -235,6 +245,7 @@
       </sequence>
       <border>
         <next probability="10" only="horizontal+">13</next>
+        <next probability="5" only="horizontal+">12</next>
       </border>
     </animation>
     <animation id="8">
@@ -265,6 +276,7 @@
       </sequence>
       <border>
         <next probability="10" only="none">12</next>
+        <next probability="5" only="none">13</next>
       </border>
     </animation>
     <animation id="9">
@@ -278,21 +290,22 @@
       </start>
       <end>
         <x>0</x>
-        <y>15</y>
+        <y>20</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
         <interval>40</interval>
       </end>
-      <sequence repeatfrom="0" repeat="100">
+      <sequence repeatfrom="0" repeat="4">
         <frame>62</frame>
         <frame>62</frame>
         <frame>63</frame>
         <frame>63</frame>
-        <next probability="10" only="none">9</next>
+        <next probability="10" only="none">14</next>
         <action>none</action>
       </sequence>
       <border>
         <next probability="10" only="none">12</next>
+        <next probability="5" only="none">13</next>
       </border>
     </animation>
     <animation id="10">
@@ -306,21 +319,22 @@
       </start>
       <end>
         <x>0</x>
-        <y>15</y>
+        <y>20</y>
         <offsety>0</offsety>
         <opacity>1</opacity>
         <interval>40</interval>
       </end>
-      <sequence repeatfrom="0" repeat="0">
+      <sequence repeatfrom="0" repeat="4">
         <frame>62</frame>
         <frame>62</frame>
         <frame>63</frame>
         <frame>63</frame>
-        <next probability="10" only="none">9</next>
+        <next probability="10" only="none">14</next>
         <action>none</action>
       </sequence>
       <border>
         <next probability="10" only="none">13</next>
+        <next probability="5" only="none">12</next>
       </border>
     </animation>
     <animation id="11">
@@ -351,10 +365,11 @@
       </sequence>
       <border>
         <next probability="10" only="none">13</next>
+        <next probability="5" only="none">12</next>
       </border>
     </animation>
     <animation id="12">
-      <name>landA</name>
+      <name>fall soft</name>
       <start>
         <x>0</x>
         <y>0</y>
@@ -403,6 +418,260 @@
         <frame>75</frame>
         <next probability="10" only="none">1</next>
         <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="14">
+      <name>tumble</name>
+      <start>
+        <x>0</x>
+        <y>20</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>20</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </end>
+      <sequence repeatfrom="2" repeat="100">
+        <frame>25</frame>
+        <frame>25</frame>
+        <frame>8</frame>
+        <frame>8</frame>
+        <frame>10</frame>
+        <frame>10</frame>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="none">15</next>
+      </border>
+    </animation>
+    <animation id="15">
+      <name>fall hard</name>
+      <start>
+        <x>-5</x>
+        <y>-5</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>20</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>40</interval>
+      </end>
+      <sequence repeatfrom="6" repeat="8">
+        <frame>11</frame>
+        <frame>11</frame>
+        <frame>11</frame>
+        <frame>11</frame>
+        <frame>12</frame>
+        <frame>12</frame>
+        <frame>13</frame>
+        <frame>13</frame>
+        <next probability="10" only="none">14</next>
+        <action>none</action>
+      </sequence>
+      <border>
+        <next probability="10" only="horizontal+">16</next>
+      </border>
+    </animation>
+    <animation id="16">
+      <name>dizzy</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </end>
+      <sequence repeatfrom="1" repeat="4+random/25">
+        <frame>14</frame>
+        <frame>15</frame>
+        <frame>16</frame>
+        <frame>17</frame>
+        <frame>18</frame>
+        <frame>19</frame>
+        <frame>20</frame>
+        <next probability="10" only="none">17</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="17">
+      <name>dizzy2</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>14</frame>
+        <frame>21</frame>
+        <frame>22</frame>
+        <frame>67</frame>
+        <next probability="10" only="none">2</next>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="18">
+      <name>drag</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>20</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>20</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>47</frame>
+        <frame>47</frame>
+        <frame>47</frame>
+        <frame>48</frame>
+        <frame>48</frame>
+        <frame>48</frame>
+        <frame>49</frame>
+        <frame>49</frame>
+        <frame>49</frame>
+        <frame>49</frame>
+        <frame>49</frame>
+        <frame>49</frame>
+        <frame>48</frame>
+        <frame>48</frame>
+        <frame>48</frame>
+        <frame>47</frame>
+        <frame>47</frame>
+        <frame>47</frame>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="19">
+      <name>toss</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>30</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>30</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>82</frame>
+        <frame>82</frame>
+        <frame>82</frame>
+        <frame>83</frame>
+        <frame>83</frame>
+        <frame>83</frame>
+        <frame>84</frame>
+        <frame>84</frame>
+        <frame>84</frame>
+        <frame>85</frame>
+        <frame>85</frame>
+        <frame>85</frame>
+        <frame>86</frame>
+        <frame>86</frame>
+        <frame>86</frame>
+        <frame>87</frame>
+        <frame>87</frame>
+        <frame>87</frame>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="20">
+      <name>kill</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </end>
+      <sequence repeatfrom="12" repeat="4">
+        <frame>68</frame>
+        <frame>69</frame>
+        <frame>7</frame>
+        <frame>68</frame>
+        <frame>8</frame>
+        <frame>69</frame>
+        <frame>9</frame>
+        <frame>10</frame>
+        <frame>11</frame>
+        <frame>12</frame>
+        <frame>13</frame>
+        <frame>14</frame>
+        <frame>15</frame>
+        <frame>16</frame>
+        <frame>17</frame>
+        <frame>18</frame>
+        <frame>19</frame>
+        <frame>20</frame>
+        <action>none</action>
+      </sequence>
+    </animation>
+    <animation id="21">
+      <name>turn</name>
+      <start>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </start>
+      <end>
+        <x>0</x>
+        <y>0</y>
+        <offsety>0</offsety>
+        <opacity>1</opacity>
+        <interval>80</interval>
+      </end>
+      <sequence repeatfrom="0" repeat="0">
+        <frame>58</frame>
+        <frame>58</frame>
+        <frame>66</frame>
+        <frame>67</frame>
+        <next probability="10" only="none">2</next>
+        <next probability="10" only="none">1</next>
+        <action>flip</action>
       </sequence>
     </animation>
   </animations>

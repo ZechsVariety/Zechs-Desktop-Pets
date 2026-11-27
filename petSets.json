@@ -83,7 +83,7 @@
         {
           "folder" : "spongebob",
           "author" : "Zecheriah",
-          "lastupdate" : "2026-11-26"
+          "lastupdate" : "2026-11-27"
         }
       ],
       "vanillaPets": [
@@ -260,14 +260,19 @@
           "lastupdate": "2026-11-23"
         },
         {
-          "folder": "skywire_bean",
-          "author": "Zecheriah",
-          "lastupdate": "2026-09-15"
+          "folder" : "spongebob",
+          "author" : "Zecheriah",
+          "lastupdate" : "2026-11-27"
         },
         {
           "folder": "jerma_compact",
           "author": "Zecheriah",
           "lastupdate": "2026-11-23"
+        },
+        {
+          "folder": "skywire_bean",
+          "author": "Zecheriah",
+          "lastupdate": "2026-09-15"
         },
         {
           "folder" : "mortimer_mc",
@@ -288,11 +293,6 @@
           "folder" : "foxy_jumpscare",
           "author" : "Zecheriah",
           "lastupdate" : "2026-10-25"
-        },
-        {
-          "folder" : "spongebob",
-          "author" : "Zecheriah",
-          "lastupdate" : "2026-11-26"
         }
       ],
       "vanillaPets": [
@@ -391,7 +391,7 @@
         {
           "folder" : "spongebob",
           "author" : "Zecheriah",
-          "lastupdate" : "2026-11-26"
+          "lastupdate" : "2026-11-27"
         }
       ]
     },
